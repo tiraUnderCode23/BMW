@@ -4,150 +4,398 @@
   <meta charset="UTF-8">
   <title>BMW Coding Tool</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"  rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
+    :root {
+      --card-bg-color: rgba(30, 30, 30, 0.6);
+      --border-color: rgba(255, 255, 255, 0.2);
+      --hover-bg-color: rgba(255, 193, 7, 0.8);
+      --active-bg-color: rgba(40, 167, 69, 0.8);
+      --blur-effect: blur(10px);
+    }
+
     body {
-      background-color: #1a1a1a;
+      background-image: url('https://wallup.net/wp-content/uploads/2016/01/239736-car-BMW-748x421.jpg');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
       color: white;
       font-family: 'Segoe UI', sans-serif;
     }
+    
+    /* Login View Styling */
+    #loginView {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: rgba(0,0,0,0.5);
+      backdrop-filter: var(--blur-effect);
+      -webkit-backdrop-filter: var(--blur-effect);
+      z-index: 200;
+    }
+
+    .login-box {
+      width: 100%;
+      max-width: 400px;
+      padding: 2rem;
+      background-color: var(--card-bg-color);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+    }
+
+    .form-control-dark {
+      background-color: rgba(0,0,0,0.3);
+      border: 1px solid var(--border-color);
+      color: white;
+    }
+    .form-control-dark:focus {
+      background-color: rgba(0,0,0,0.5);
+      color: white;
+      border-color: #ffc107;
+      box-shadow: 0 0 0 0.25rem rgba(255, 193, 7, 0.25);
+    }
+
+    /* Main App Styling */
+    #mainAppView {
+      display: none; /* Hidden by default */
+      padding-top: 80px; 
+    }
+
+    .app-header {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%;
+      background: rgba(10, 10, 10, 0.5);
+      backdrop-filter: var(--blur-effect);
+      -webkit-backdrop-filter: var(--blur-effect);
+      z-index: 100;
+      padding: 0.75rem 2rem;
+      border-bottom: 1px solid var(--border-color);
+    }
+    
+    .card {
+      background-color: var(--card-bg-color);
+      backdrop-filter: var(--blur-effect);
+      -webkit-backdrop-filter: var(--blur-effect);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+    }
+
+    .card-header {
+      background: none;
+      border-bottom: 1px solid var(--border-color);
+      font-weight: bold;
+      border-radius: 12px 12px 0 0;
+    }
+
     .ecu-listbox, .coding-list {
-      height: 400px;
+      height: 620px;
       overflow-y: auto;
-      background-color: #222;
+      background: none;
       color: white;
       border: none;
     }
+
+    .list-group-item {
+      background: none;
+      color: white;
+      border: none;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    .list-group-item:last-child {
+      border-bottom: none;
+    }
+
     .list-group-item.active {
-      background-color: #28a745 !important;
+      background-color: var(--active-bg-color) !important;
       color: white !important;
+      font-weight: bold;
     }
+
     .coding-list-item:hover {
-      background-color: #ffc107;
-      color: #23272b;
+      background-color: var(--hover-bg-color) !important;
+      color: #23272b !important;
     }
+    
     .details-text {
-      background-color: #23272b;
+      background-color: var(--card-bg-color);
       color: white;
       font-size: 1rem;
       padding: 1rem;
-      height: 400px;
+      height: 100%;
       overflow-y: auto;
+      border-radius: 0 0 12px 12px;
     }
-    .tag-ecu { color: #ff3333; font-weight: bold; }
+    
+    /* WhatsApp Widget Styles */
+    .whatsapp-widget {
+      position: fixed;
+      bottom: 1.5rem;
+      left: 1.5rem;
+      z-index: 50;
+      background-color: #25D366;
+      color: white;
+      border-radius: 9999px;
+      padding: 0.75rem;
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .whatsapp-widget:hover {
+      background-color: #128C7E;
+      transform: scale(1.1);
+      color: white;
+    }
+
+    .whatsapp-widget svg {
+      width: 2rem;
+      height: 2rem;
+      fill: currentColor;
+    }
+    
+    .tag-ecu { color: #ff5e5e; font-weight: bold; }
     .tag-cid { color: #ffc107; font-weight: bold; }
-    .tag-func { color: white; font-weight: bold; }
-    .tag-desc { color: white; font-weight: bold; }
-    .tag-off { color: #ff3333; font-weight: bold; }
+    .tag-func { color: #4da6ff; font-weight: bold; }
+    .tag-desc { color: #e0e0e0; }
+    .tag-off { color: #ff5e5e; font-weight: bold; }
     .tag-on { color: #28a745; font-weight: bold; }
     .stepnum { color: white; font-weight: bold; }
-    .arrow { color: white; font-weight: bold; }
+    .arrow { color: #888; font-weight: bold; }
   </style>
 </head>
 <body>
 
-<div class="container-fluid mt-4">
-  <!-- Language Selector -->
-  <div class="d-flex justify-content-end mb-3">
-    <label for="langSelect" class="me-2">Language:</label>
-    <select id="langSelect" class="form-select form-select-sm w-auto">
-      <option value="en" selected>English</option>
-      <option value="ar">العربية</option>
-    </select>
-  </div>
-
-  <div class="row">
-    <!-- ECU List -->
-    <div class="col-md-3">
-      <div class="card bg-dark text-white">
-        <div class="card-header">ECUs</div>
-        <ul id="ecuList" class="list-group ecu-listbox"></ul>
-      </div>
+<div id="loginView">
+    <div class="login-box text-center">
+        <h2 class="mb-4">BMW Coding Tool</h2>
+        <form id="loginForm">
+            <div class="form-floating mb-3">
+                <input type="password" class="form-control form-control-dark" id="activationCodeInput" placeholder="Activation Code">
+                <label for="activationCodeInput">Activation Code</label>
+            </div>
+            <button type="submit" class="btn btn-warning w-100" id="loginButton">Login</button>
+            <p id="loginError" class="text-danger mt-3"></p>
+        </form>
     </div>
-
-    <!-- Codings List -->
-    <div class="col-md-4">
-      <div class="card bg-dark text-white">
-        <div class="card-header">Codings</div>
-        <ul id="codingList" class="list-group coding-list"></ul>
-      </div>
-    </div>
-
-    <!-- Details -->
-    <div class="col-md-5">
-      <div class="card bg-dark text-white">
-        <div class="card-header">Details</div>
-        <div id="detailsText" class="details-text"></div>
-      </div>
-    </div>
-  </div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script> 
-<script>
-  const codingsUrlEn = "https://raw.githubusercontent.com/AQbimmerX/Bjson/main/codings.json"; 
-  const codingsUrlAr = "https://raw.githubusercontent.com/AQbimmerX/Bjson/main/codings_arabic.json"; 
+<div id="mainAppView">
+    <header class="app-header d-flex justify-content-between align-items-center">
+        <div class="nav-buttons">
+            <a href="https://tiraundercode23.github.io/BMW/" class="btn btn-outline-warning">AQ///bimmer</a>
+            <a href="light.html" class="btn btn-outline-info">Welcome Lights Tool</a>
+            <a href="progs.html" class="btn btn-outline-light">Programs</a>
+        </div>
+    </header>
 
-  let codings = [];
-  let currentCodings = [];
+    <div class="container-fluid mt-4">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="card text-white">
+            <div class="card-header" id="ecuHeader">ECUs</div>
+            <ul id="ecuList" class="list-group list-group-flush ecu-listbox"></ul>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card text-white">
+            <div class="card-header" id="codingHeader">Codings</div>
+            <ul id="codingList" class="list-group list-group-flush coding-list"></ul>
+          </div>
+        </div>
+
+        <div class="col-md-5">
+          <div class="card text-white h-100">
+            <div class="card-header" id="detailsHeader">Details</div>
+            <div id="detailsText" class="details-text">Select an ECU to view available codings...</div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+
+<a id="whatsappBtn" href="https://wa.me/972528180757" target="_blank" rel="noopener noreferrer" class="whatsapp-widget" aria-label="Chat on WhatsApp">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+    <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 .9c34.9 0 67.7 13.5 92.8 38.6 25.1 25.1 38.6 57.9 38.6 92.8 0 99.4-80.8 180.2-180.2 180.2-34.9 0-67.7-13.5-92.8-38.6-25.1-25.1-38.6-57.9-38.6-92.8 0-99.4 80.8-180.2 180.2-180.2zm108.8 148.2c-6.9-3.4-41.2-20.3-47.6-22.7-6.4-2.4-11.1-3.4-15.8 3.4-4.7 6.9-18 22.7-22.1 27.2-4.1 4.6-8.2 5.1-15 1.7-6.9-3.4-28.7-10.6-54.7-33.8-20.2-18.1-34-40.4-37.9-47.2-3.9-6.9-.4-10.7 3-14.1 3.1-3.1 6.9-8.2 10.3-12.2 3.4-4.1 4.6-6.9 6.9-11.6 2.3-4.6 1.1-8.7-1.1-12.2-2.3-3.4-15.8-38.1-21.6-52.2-5.7-14.1-11.6-12.2-15.8-12.2-3.9 0-8.7-.5-13.3-.5-4.6 0-12.2 1.7-18.6 8.7-6.4 6.9-25.1 24.5-25.1 59.8 0 35.4 25.6 69.4 29.2 74.2 3.6 4.7 50.7 77.2 124.1 109.2 17.7 7.6 33.6 12.2 45.4 15.7 11.8 3.5 22.7 3 31.5 1.7 9.9-1.2 28.7-11.6 32.7-22.7 4.1-11.1 4.1-20.6 2.8-22.7s-6.9-3.4-13.9-6.9z" />
+  </svg>
+</a>
+
+<div id="notification" class="alert alert-success d-none fixed-top-right"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+  // --- DOM Elements ---
+  const loginView = document.getElementById('loginView');
+  const mainAppView = document.getElementById('mainAppView');
+  const loginForm = document.getElementById('loginForm');
+  const activationCodeInput = document.getElementById('activationCodeInput');
+  const loginButton = document.getElementById('loginButton');
+  const loginError = document.getElementById('loginError');
 
   const ecuList = document.getElementById("ecuList");
   const codingList = document.getElementById("codingList");
   const detailsText = document.getElementById("detailsText");
-  const langSelect = document.getElementById("langSelect");
+  const notification = document.getElementById("notification");
 
-  // Load data
-  async function loadCodings(lang = "en") {
+  // --- App State ---
+  let codings = [];
+  let currentCodings = [];
+  let currentEcu = null;
+  const githubToken = "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";
+  const repoOwner = "tiraUnderCode23";
+  const repoName = "AQ";
+
+  // --- Login Logic ---
+  async function handleLogin(event) {
+    event.preventDefault();
+    loginButton.disabled = true;
+    loginError.textContent = 'Checking code...';
+
+    const enteredCode = activationCodeInput.value;
+    if (!enteredCode) {
+        loginError.textContent = 'Please enter an activation code.';
+        loginButton.disabled = false;
+        return;
+    }
+
     try {
-      const response = await fetch(lang === "en" ? codingsUrlEn : codingsUrlAr);
-      codings = await response.json();
-      populateEcuList();
-    } catch (err) {
-      console.error("Failed to load codings:", err);
-      codings = [];
+        // Fetch the users file
+        const url = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/users.json`;
+        const response = await fetch(url, {
+            headers: { 'Authorization': `token ${githubToken}`, 'Accept': 'application/vnd.github.v3+json' }
+        });
+        if (!response.ok) throw new Error('Could not fetch user data.');
+        
+        const fileData = await response.json();
+        const users = JSON.parse(atob(fileData.content));
+
+        // Find user by activation code
+        const validUser = users.find(user => user.activation_code === enteredCode);
+
+        if (validUser) {
+            loginError.textContent = '';
+            sessionStorage.setItem('isLoggedIn', 'true');
+            showMainApp();
+        } else {
+            loginError.textContent = 'Invalid activation code.';
+        }
+    } catch (error) {
+        console.error('Login failed:', error);
+        loginError.textContent = 'Login failed. Please try again.';
+    } finally {
+        loginButton.disabled = false;
     }
   }
 
-  // Populate ECU list
+  // --- Main App Logic ---
+  function showMainApp() {
+    loginView.style.display = 'none';
+    mainAppView.style.display = 'block';
+    loadCodings();
+  }
+  
+  async function loadCodings() {
+    showNotification("Loading coding data...", "info");
+    detailsText.innerHTML = '<div class="text-info">Loading coding data...</div>';
+    
+    const url = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/codingss.json`;
+
+    try {
+      const response = await fetch(url, {
+        method: 'GET',
+        headers: { 'Authorization': `token ${githubToken}`, 'Accept': 'application/vnd.github.v3+json' },
+        cache: "no-cache"
+      });
+      if (!response.ok) throw new Error(`GitHub API error! status: ${response.status}`);
+      
+      const fileData = await response.json();
+      const decodedContent = atob(fileData.content);
+      const data = JSON.parse(decodedContent);
+      
+      if (!Array.isArray(data)) throw new Error("Invalid data format.");
+      
+      codings = data;
+      populateEcuList();
+      showNotification("Data loaded successfully", "success");
+    } catch (err) {
+      console.error("Loading failed:", err);
+      showError(err);
+    }
+  }
+
   function populateEcuList() {
     ecuList.innerHTML = "";
     const ecuSet = new Set(codings.map(c => c.ecu).filter(Boolean));
+    if (ecuSet.size === 0) {
+      ecuList.innerHTML = '<li class="list-group-item">No ECUs found</li>';
+      return;
+    }
     Array.from(ecuSet).sort().forEach(ecu => {
       const li = document.createElement("li");
-      li.className = "list-group-item bg-dark text-white";
+      li.className = "list-group-item";
       li.textContent = ecu;
-      li.addEventListener("click", () => showCodings(ecu));
+      li.addEventListener("click", () => {
+        Array.from(ecuList.children).forEach(child => child.classList.remove("active"));
+        li.classList.add("active");
+        showCodings(ecu);
+      });
       ecuList.appendChild(li);
     });
   }
 
-  // Show codings by ECU
   function showCodings(ecu) {
+    currentEcu = ecu;
     codingList.innerHTML = "";
     currentCodings = codings.filter(c => c.ecu === ecu);
-    currentCodings.forEach((c, index) => {
+    if (currentCodings.length === 0) {
+      codingList.innerHTML = '<li class="list-group-item">No codings found</li>';
+      return;
+    }
+    currentCodings.forEach((c) => {
       const li = document.createElement("li");
-      li.className = "list-group-item bg-dark text-white coding-list-item";
-      li.textContent = `${c.ecu} | ${c.id || ''} | ${c.function || ''} | ${c.title || c.description?.substring(0, 30)}`;
-      li.addEventListener("click", () => showCodingDetails(c));
+      li.className = "list-group-item coding-list-item";
+      let displayText = c.title || (c.description ? c.description.substring(0, 50) + "..." : `ID: ${c.id}`);
+      li.textContent = displayText;
+      li.addEventListener("click", () => {
+        Array.from(codingList.children).forEach(child => child.classList.remove("active"));
+        li.classList.add("active");
+        showCodingDetails(c);
+      });
       codingList.appendChild(li);
     });
+    if (currentCodings.length > 0) {
+      codingList.children[0].classList.add("active");
+      showCodingDetails(currentCodings[0]);
+    }
   }
 
-  // Show coding details
   function showCodingDetails(coding) {
+    if (!coding) {
+      detailsText.innerHTML = "No details.";
+      return;
+    }
+    let stepsHtml = coding.steps && coding.steps.length > 0
+      ? coding.steps.map((step, i) => renderStep(i + 1, step)).join("<br/>")
+      : "<i>No steps available.</i>";
     detailsText.innerHTML = `
-      <span class="tag-ecu">ECU: ${coding.ecu}</span><br/>
-      <span class="tag-cid">ID: ${coding.id || 'N/A'}</span><br/>
-      <span class="tag-func">Function: ${coding.function || 'N/A'}</span><br/>
-      <span class="tag-desc">Description: ${coding.description || 'No description available'}</span><br/><br/>
-      <span class="tag-desc">Steps:</span><br/>
-      ${coding.steps?.map((step, i) => renderStep(i + 1, step)).join("<br/>") || "<i>No steps available.</i>"}
-    `;
+      <div class="mb-3"><span class="tag-ecu">ECU: ${coding.ecu || 'N/A'}</span></div>
+      ${coding.id ? `<div class="mb-3"><span class="tag-cid">ID: ${coding.id}</span></div>` : ''}
+      ${coding.function ? `<div class="mb-3"><span class="tag-func">Function: ${coding.function}</span></div>` : ''}
+      <div class="mb-3"><span class="tag-desc">${coding.description || 'No description'}</span></div>
+      ${coding.series ? `<div class="mb-3"><span class="tag-desc">Series: ${coding.series}</span></div>` : ''}
+      <div class="mt-4"><span class="tag-desc">Steps:</span><br/>${stepsHtml}</div>`;
   }
 
-  // Render colored step
   function renderStep(index, step) {
+    if (!step) return "";
+    step = step.replace(/^\d+\.\s*/, '').replace(/\s*-\s*set\s*to\s*/i, ' -> ');
     const tokens = step.split("->").map(t => t.trim());
     let rendered = `<span class="stepnum">${index}. </span>`;
     tokens.forEach((token, i) => {
@@ -155,29 +403,33 @@
       if (i === 0) tagClass = "tag-ecu";
       else if (token.match(/^\d+$/) || token === "3068") tagClass = "tag-cid";
       else if (token.includes("_") || token.toUpperCase() === token) tagClass = "tag-func";
-      else if (/set to off|nict_aktiv/.test(token.toLowerCase())) tagClass = "tag-off";
-      else if (/set to on|set to aktiv/.test(token.toLowerCase())) tagClass = "tag-on";
+      else if (/nicht_aktiv|deaktiv|off|false|0\)/i.test(token)) tagClass = "tag-off";
+      else if (/aktiv|on|true|1\)/i.test(token)) tagClass = "tag-on";
       rendered += `<span class="${tagClass}">${token}</span>`;
-      if (i < tokens.length - 1) rendered += `<span class="arrow"> -> </span>`;
+      if (i < tokens.length - 1) rendered += `<span class="arrow"> → </span>`;
     });
     return rendered;
   }
 
-  // Handle language change
-  langSelect.addEventListener("change", async function () {
-    const lang = this.value;
-    await loadCodings(lang);
-    clearDetails();
-  });
-
-  // Clear details panel
-  function clearDetails() {
-    codingList.innerHTML = "";
-    detailsText.innerHTML = "";
+  function showNotification(message, type = "success") {
+    notification.textContent = message;
+    notification.className = `alert alert-${type} d-block`;
+    setTimeout(() => { notification.className = `alert alert-${type} d-none`; }, 3000);
   }
 
-  // Initial load
-  loadCodings();
+  function showError(error) {
+    detailsText.innerHTML = `<div class="alert alert-danger"><strong>Error:</strong> ${error.message}</div>`;
+  }
+  
+  // --- Initialization ---
+  document.addEventListener('DOMContentLoaded', () => {
+    // Check if user is already logged in from this session
+    if (sessionStorage.getItem('isLoggedIn') === 'true') {
+        showMainApp();
+    }
+    // Add event listener for the login form
+    loginForm.addEventListener('submit', handleLogin);
+  });
 </script>
 
 </body>
