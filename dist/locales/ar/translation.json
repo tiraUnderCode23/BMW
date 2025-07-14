@@ -1,0 +1,62 @@
+{
+  "header": {
+    "home": "الرئيسية",
+    "activations": "التفعيلات",
+    "services": "الخدمات",
+    "contact": "تواصل معنا"
+  },
+  "hero": {
+    "title": "اكتشف التفعيلات المتاحة لسيارتك واحصل على أفضل تجربة قيادة مع خدمات البرمجة المتخصصة"
+  },
+  "activations": {
+    "title": "لمحه عن التعديلات",
+    "for_car": "لـ {{modelName}} {{yearText}} {{generationText}}",
+    "details_button": "عرض التفاصيل",
+    "add_to_cart_button": "إضافة"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty_title": "سلة التسوق فارغة",
+    "empty_subtitle": "قم بإضافة بعض التفعيلات إلى سلة التسوق",
+    "total": "المجموع",
+    "taxes_note": "الضرائب والشحن تحسب عند الدفع",
+    "checkout_button": "اتمام الطلب",
+    "continue_shopping": "متابعة التسوق",
+    "remove": "إزالة"
+  },
+  "contact": {
+    "title": "تواصل معنا",
+    "info": "معلومات التواصل",
+    "phone": "الهاتف",
+    "email": "البريد الإلكتروني",
+    "address": "العنوان",
+    "address_value": "الطيرة المثلث",
+    "form_title": "أرسل لنا رسالة",
+    "name_placeholder": "الاسم الكامل",
+    "email_placeholder": "البريد الإلكتروني",
+    "phone_placeholder": "رقم الهاتف",
+    "message_placeholder": "الرسالة",
+    "send_button": "إرسال الرسالة",
+    "message_prefill": "أود الاستفسار عن تفعيل لسيارة: BMW {{modelName}} (موديل {{yearText}}, جيل {{generationText}})."
+  },
+  "services": {
+    "title": "خدماتنا",
+    "advanced_coding": "برمجة متقدمة",
+    "advanced_coding_desc": "تفعيل جميع الخصائص المخفية في سيارتك باحترافية وأمان تام",
+    "unlimited_warranty": "ضمان غير محدود",
+    "unlimited_warranty_desc": "نقدم ضمان شامل مدى الحياة على جميع خدمات البرمجة، مع دعم فني متواصل",
+    "online_services": "خدمات اونلاين",
+    "online_services_desc": "برمجه وتعديل سيارة من خلال الإنترنت",
+    "requirements": "المتطلبات",
+    "requirement_enet": "Enet obd2",
+    "requirement_laptop": "laptop"
+  },
+  "details": {
+    "description": "الوصف",
+    "ecu": "الوحدة (ECU)",
+    "steps": "خطوات التفعيل",
+    "simplified_explanation": "شرح مبسط ✨",
+    "activation_method": "طريقة التفعيل ✨",
+    "go_back": "العودة إلى القائمة"
+  }
+}

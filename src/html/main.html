@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <title>BMW Coding Dark Tools</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"  rel="stylesheet">
+  <style>
+    body {
+      background: url('images/backgruond.jpg') no-repeat center center fixed;
+      background-size: cover;
+      font-family: Arial, sans-serif;
+    }
+    .tab-content {
+      background-color: #23272b;
+      padding: 2rem;
+      border-radius: 10px;
+      color: white;
+    }
+    .nav-tabs .nav-link {
+      font-weight: bold;
+      font-size: 1rem;
+      background-color: #343a40;
+      color: white;
+      border: none;
+      margin: 2px;
+    }
+    .nav-tabs .nav-link.active {
+      background-color: #28a745 !important;
+      color: white;
+    }
+    .language-select {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      z-index: 1000;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Language Selector -->
+<div class="language-select">
+  <label for="langSelect" class="form-label">Language:</label>
+  <select id="langSelect" class="form-select form-select-sm">
+    <option value="en" selected>English</option>
+    <option value="ar">العربية</option>
+  </select>
+</div>
+
+<div class="container-fluid mt-5">
+  <ul class="nav nav-tabs" id="mainTabs" role="tablist">
+    <li class="nav-item" role="presentation">
+      <button class="nav-link active" id="coding-tab" data-bs-toggle="tab" data-bs-target="#tab-coding" type="button" role="tab">BMW Codings</button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button class="nav-link" id="hdd-guide-tab" data-bs-toggle="tab" data-bs-target="#tab-hdd" type="button" role="tab">NBT EVO HDD Guide</button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button class="nav-link" id="image-retrofit-tab" data-bs-toggle="tab" data-bs-target="#tab-image" type="button" role="tab">Image Retrofit</button>
+    </li>
+    <li class="nav-item" role="presentation">
+      <button class="nav-link" id="welcome-headlight-tab" data-bs-toggle="tab" data-bs-target="#tab-welcome" type="button" role="tab">Welcome Headlight</button>
+    </li>
+  </ul>
+
+  <div class="tab-content" id="mainTabContent">
+    <!-- Tab: BMW Codings -->
+    <div class="tab-pane fade show active" id="tab-coding" role="tabpanel">
+      <h3>BMW Codings</h3>
+      <p>This tab will display available codings and allow filtering by ECU.</p>
+      <!-- Add your coding UI here -->
+    </div>
+
+    <!-- Tab: HDD Guide -->
+    <div class="tab-pane fade" id="tab-hdd" role="tabpanel">
+      <h3>NBT EVO HDD Guide</h3>
+      <p>Instructions and steps for installing or upgrading the NBT EVO HDD.</p>
+    </div>
+
+    <!-- Tab: Image Retrofit -->
+    <div class="tab-pane fade" id="tab-image" role="tabpanel">
+      <h3>Image Retrofit</h3>
+      <p>Information about retrofitting new image systems into older BMW models.</p>
+    </div>
+
+    <!-- Tab: Welcome Headlight -->
+    <div class="tab-pane fade" id="tab-welcome" role="tabpanel">
+      <h3>Welcome Headlight</h3>
+      <p>Configuration options for welcome headlight animations and settings.</p>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script> 
+<script>
+  // Optional: Handle language change
+  document.getElementById("langSelect").addEventListener("change", function () {
+    const lang = this.value;
+    document.documentElement.setAttribute("lang", lang);
+    document.documentElement.dir = lang === "ar" ? "rtl" : "ltr";
+    alert("Language changed to: " + lang.toUpperCase());
+    // هنا يمكنك استدعاء API أو تحديث محتوى التبويبات حسب اللغة
+  });
+</script>
+
+</body>
+</html>

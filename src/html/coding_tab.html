@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <title>BMW Coding Tool</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"  rel="stylesheet">
+  <style>
+    body {
+      background-color: #1a1a1a;
+      color: white;
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .ecu-listbox, .coding-list {
+      height: 400px;
+      overflow-y: auto;
+      background-color: #222;
+      color: white;
+      border: none;
+    }
+    .list-group-item.active {
+      background-color: #28a745 !important;
+      color: white !important;
+    }
+    .coding-list-item:hover {
+      background-color: #ffc107;
+      color: #23272b;
+    }
+    .details-text {
+      background-color: #23272b;
+      color: white;
+      font-size: 1rem;
+      padding: 1rem;
+      height: 400px;
+      overflow-y: auto;
+    }
+    .tag-ecu { color: #ff3333; font-weight: bold; }
+    .tag-cid { color: #ffc107; font-weight: bold; }
+    .tag-func { color: white; font-weight: bold; }
+    .tag-desc { color: white; font-weight: bold; }
+    .tag-off { color: #ff3333; font-weight: bold; }
+    .tag-on { color: #28a745; font-weight: bold; }
+    .stepnum { color: white; font-weight: bold; }
+    .arrow { color: white; font-weight: bold; }
+  </style>
+</head>
+<body>
+
+<div class="container-fluid mt-4">
+  <!-- Language Selector -->
+  <div class="d-flex justify-content-end mb-3">
+    <label for="langSelect" class="me-2">Language:</label>
+    <select id="langSelect" class="form-select form-select-sm w-auto">
+      <option value="en" selected>English</option>
+      <option value="ar">العربية</option>
+    </select>
+  </div>
+
+  <div class="row">
+    <!-- ECU List -->
+    <div class="col-md-3">
+      <div class="card bg-dark text-white">
+        <div class="card-header">ECUs</div>
+        <ul id="ecuList" class="list-group ecu-listbox"></ul>
+      </div>
+    </div>
+
+    <!-- Codings List -->
+    <div class="col-md-4">
+      <div class="card bg-dark text-white">
+        <div class="card-header">Codings</div>
+        <ul id="codingList" class="list-group coding-list"></ul>
+      </div>
+    </div>
+
+    <!-- Details -->
+    <div class="col-md-5">
+      <div class="card bg-dark text-white">
+        <div class="card-header">Details</div>
+        <div id="detailsText" class="details-text"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script> 
+<script>
+  const codingsUrlEn = "https://raw.githubusercontent.com/AQbimmerX/Bjson/main/codings.json"; 
+  const codingsUrlAr = "https://raw.githubusercontent.com/AQbimmerX/Bjson/main/codings_arabic.json"; 
+
+  let codings = [];
+  let currentCodings = [];
+
+  const ecuList = document.getElementById("ecuList");
+  const codingList = document.getElementById("codingList");
+  const detailsText = document.getElementById("detailsText");
+  const langSelect = document.getElementById("langSelect");
+
+  // Load data
+  async function loadCodings(lang = "en") {
+    try {
+      const response = await fetch(lang === "en" ? codingsUrlEn : codingsUrlAr);
+      codings = await response.json();
+      populateEcuList();
+    } catch (err) {
+      console.error("Failed to load codings:", err);
+      codings = [];
+    }
+  }
+
+  // Populate ECU list
+  function populateEcuList() {
+    ecuList.innerHTML = "";
+    const ecuSet = new Set(codings.map(c => c.ecu).filter(Boolean));
+    Array.from(ecuSet).sort().forEach(ecu => {
+      const li = document.createElement("li");
+      li.className = "list-group-item bg-dark text-white";
+      li.textContent = ecu;
+      li.addEventListener("click", () => showCodings(ecu));
+      ecuList.appendChild(li);
+    });
+  }
+
+  // Show codings by ECU
+  function showCodings(ecu) {
+    codingList.innerHTML = "";
+    currentCodings = codings.filter(c => c.ecu === ecu);
+    currentCodings.forEach((c, index) => {
+      const li = document.createElement("li");
+      li.className = "list-group-item bg-dark text-white coding-list-item";
+      li.textContent = `${c.ecu} | ${c.id || ''} | ${c.function || ''} | ${c.title || c.description?.substring(0, 30)}`;
+      li.addEventListener("click", () => showCodingDetails(c));
+      codingList.appendChild(li);
+    });
+  }
+
+  // Show coding details
+  function showCodingDetails(coding) {
+    detailsText.innerHTML = `
+      <span class="tag-ecu">ECU: ${coding.ecu}</span><br/>
+      <span class="tag-cid">ID: ${coding.id || 'N/A'}</span><br/>
+      <span class="tag-func">Function: ${coding.function || 'N/A'}</span><br/>
+      <span class="tag-desc">Description: ${coding.description || 'No description available'}</span><br/><br/>
+      <span class="tag-desc">Steps:</span><br/>
+      ${coding.steps?.map((step, i) => renderStep(i + 1, step)).join("<br/>") || "<i>No steps available.</i>"}
+    `;
+  }
+
+  // Render colored step
+  function renderStep(index, step) {
+    const tokens = step.split("->").map(t => t.trim());
+    let rendered = `<span class="stepnum">${index}. </span>`;
+    tokens.forEach((token, i) => {
+      let tagClass = "tag-desc";
+      if (i === 0) tagClass = "tag-ecu";
+      else if (token.match(/^\d+$/) || token === "3068") tagClass = "tag-cid";
+      else if (token.includes("_") || token.toUpperCase() === token) tagClass = "tag-func";
+      else if (/set to off|nict_aktiv/.test(token.toLowerCase())) tagClass = "tag-off";
+      else if (/set to on|set to aktiv/.test(token.toLowerCase())) tagClass = "tag-on";
+      rendered += `<span class="${tagClass}">${token}</span>`;
+      if (i < tokens.length - 1) rendered += `<span class="arrow"> -> </span>`;
+    });
+    return rendered;
+  }
+
+  // Handle language change
+  langSelect.addEventListener("change", async function () {
+    const lang = this.value;
+    await loadCodings(lang);
+    clearDetails();
+  });
+
+  // Clear details panel
+  function clearDetails() {
+    codingList.innerHTML = "";
+    detailsText.innerHTML = "";
+  }
+
+  // Initial load
+  loadCodings();
+</script>
+
+</body>
+</html>
