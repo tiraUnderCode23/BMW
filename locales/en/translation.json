@@ -1,0 +1,62 @@
+{
+  "header": {
+    "home": "Home",
+    "activations": "Activations",
+    "services": "Services",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Discover available activations for your car and get the best driving experience with specialized programming services"
+  },
+  "activations": {
+    "title": "About The Modifications",
+    "for_car": "For {{modelName}} {{yearText}} {{generationText}}",
+    "details_button": "View Details",
+    "add_to_cart_button": "Add"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty_title": "Your cart is empty",
+    "empty_subtitle": "Add some activations to your cart",
+    "total": "Total",
+    "taxes_note": "Taxes and shipping calculated at checkout",
+    "checkout_button": "Checkout",
+    "continue_shopping": "Continue Shopping",
+    "remove": "Remove"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "info": "Contact Information",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "address_value": "Tira, HaMerkaz",
+    "form_title": "Send us a message",
+    "name_placeholder": "Full Name",
+    "email_placeholder": "Email Address",
+    "phone_placeholder": "Phone Number",
+    "message_placeholder": "Message",
+    "send_button": "Send Message",
+    "message_prefill": "I would like to inquire about an activation for a BMW {{modelName}} (model {{yearText}}, generation {{generationText}})."
+  },
+  "services": {
+    "title": "Our Services",
+    "advanced_coding": "Advanced Coding",
+    "advanced_coding_desc": "Activate all hidden features in your car professionally and safely",
+    "unlimited_warranty": "Unlimited Warranty",
+    "unlimited_warranty_desc": "We offer a comprehensive lifetime warranty on all programming services, with continuous technical support",
+    "online_services": "Online Services",
+    "online_services_desc": "Remote car programming and modification over the internet",
+    "requirements": "Requirements",
+    "requirement_enet": "Enet obd2",
+    "requirement_laptop": "Laptop"
+  },
+  "details": {
+    "description": "Description",
+    "ecu": "ECU",
+    "steps": "Activation Steps",
+    "simplified_explanation": "Simple Explanation ✨",
+    "activation_method": "Activation Method ✨",
+    "go_back": "Back to List"
+  }
+}

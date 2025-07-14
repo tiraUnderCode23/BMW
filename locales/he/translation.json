@@ -1,0 +1,62 @@
+{
+  "header": {
+    "home": "ראשי",
+    "activations": "אקטיבציות",
+    "services": "שירותים",
+    "contact": "צור קשר"
+  },
+  "hero": {
+    "title": "גלה את האקטיבציות הזמינות לרכב שלך וקבל את חווית הנהיגה הטובה ביותר עם שירותי תכנות מותאמים"
+  },
+  "activations": {
+    "title": "אודות השינויים",
+    "for_car": "עבור {{modelName}} {{yearText}} {{generationText}}",
+    "details_button": "הצג פרטים",
+    "add_to_cart_button": "הוסף"
+  },
+  "cart": {
+    "title": "עגלת קניות",
+    "empty_title": "עגלת הקניות שלך ריקה",
+    "empty_subtitle": "הוסף כמה אקטיבציות לעגלה",
+    "total": "סך הכל",
+    "taxes_note": "מיסים ומשלוח יחושבו בקופה",
+    "checkout_button": "לתשלום",
+    "continue_shopping": "המשך בקניות",
+    "remove": "הסר"
+  },
+  "contact": {
+    "title": "צור קשר",
+    "info": "פרטי התקשרות",
+    "phone": "טלפון",
+    "email": "דואר אלקטרוני",
+    "address": "כתובת",
+    "address_value": "טירה, המרכז",
+    "form_title": "שלח לנו הודעה",
+    "name_placeholder": "שם מלא",
+    "email_placeholder": "כתובת אימייל",
+    "phone_placeholder": "מספר טלפון",
+    "message_placeholder": "הודעה",
+    "send_button": "שלח הודעה",
+    "message_prefill": "ברצוני לברר לגבי אקטיבציה עבור BMW {{modelName}} (מודל {{yearText}}, דור {{generationText}})."
+  },
+  "services": {
+    "title": "השירותים שלנו",
+    "advanced_coding": "קידוד מתקדם",
+    "advanced_coding_desc": "הפעל את כל התכונות הנסתרות ברכבך במקצועיות ובבטחה",
+    "unlimited_warranty": "אחריות ללא הגבלה",
+    "unlimited_warranty_desc": "אנו מציעים אחריות מקיפה לכל החיים על כל שירותי התכנות, עם תמיכה טכנית רציפה",
+    "online_services": "שירותים מקוונים",
+    "online_services_desc": "תכנות ושינוי רכב מרחוק דרך האינטרנט",
+    "requirements": "דרישות",
+    "requirement_enet": "Enet obd2",
+    "requirement_laptop": "מחשב נייד"
+  },
+  "details": {
+    "description": "תיאור",
+    "ecu": "ECU",
+    "steps": "שלבי הפעלה",
+    "simplified_explanation": "הסבר פשוט ✨",
+    "activation_method": "שיטת הפעלה ✨",
+    "go_back": "חזרה לרשימה"
+  }
+}
