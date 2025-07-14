@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react"
 import { defineConfig } from "vite"
 
 export default defineConfig({
-  base: "/BMW/", // <--- مهم جداً لعمل GitHub Pages
+  // السطر الذي كان هنا تم حذفه
   plugins: [react()],
   resolve: {
     alias: {
