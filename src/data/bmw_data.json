@@ -383,26 +383,6 @@
                 "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg"
               },
               {
-                "id": 19,
-                "title": {
-                  "ar": "نمط عرض ألبين",
-                  "en": "Alpina Style Display",
-                  "he": "תצוגת סגנון אלפינה"
-                },
-                "description": {
-                  "ar": "تفعيل نمط عرض Alpina في لوحة العدادات.",
-                  "en": "Activate the Alpina display style in the instrument cluster.",
-                  "he": "הפעלת סגנון תצוגת Alpina בלוח המחוונים."
-                },
-                "category": {
-                  "ar": "العرض",
-                  "en": "Display",
-                  "he": "תצוגה"
-                },
-                "price": "160",
-                "image_url": "https://storage.obdeleven.com/parse/c873e490b1314a701f9bf13f0d73450d_oca_picture.jpg"
-              },
-              {
                 "id": 20,
                 "title": {
                   "ar": "حساسية مستشعر المطر/الضوء",
