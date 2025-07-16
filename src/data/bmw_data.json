@@ -7701,7 +7701,16 @@
                   "en": "Engine Oil Reset",
                   "he": "איפוס שמן מנוע"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak engine performance and prolong the life of your BMW 5 Series G31's engine with our intuitive Engine Oil Reset function.  Simply and accurately reset your service indicator after an oil change, ensuring your vehicle's onboard computer reflects the latest maintenance status.  Enjoy the seamless integration and precise control this feature provides.",
+                  "ar": "حافظ على أداء محركك الأمثل ومد عمر محرك سيارتك BMW الفئة الخامسة G31 باستخدام وظيفة إعادة ضبط زيت المحرك البديهية لدينا.  أعد ضبط مؤشر الصيانة ببساطة ودقة بعد تغيير الزيت، مما يضمن أن يعكس كمبيوتر سيارتك الحالة الحديثة للصيانة. استمتع بالتكامل السلس والتحكم الدقيق الذي توفره هذه الميزة.",
+                  "he": "שמרו על ביצועי שיא של המנוע והאריכו את חיי מנוע ה-BMW סדרה 5 G31 שלכם באמצעות פונקציית איפוס שמן המנוע האינטואיטיבית שלנו. בצורה פשוטה ומדויקת אפסו את נורית חיווי הטיפול לאחר החלפת שמן, והבטיחו שהמחשב המובנה ברכב שלכם משקף את סטטוס התחזוקה העדכני ביותר.  הנאה משילוב חלק ובקרה מדויקת שמאפיינת תכונה זו."
+                },
+                "category": {
+                  "en": "Convenience"
+                },
+                "price": ""
               },
               {
                 "id": 1113,
