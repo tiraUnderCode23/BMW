@@ -1499,7 +1499,13 @@
                   "en": "5 Times Comfort Turn Signals",
                   "he": "5 הבהובים נוחים לאיתות"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled ease and safety with the BMW 2 Series' innovative 5 Times Comfort Turn Signals.  A subtle yet significant upgrade, this feature allows for a more intuitive and less abrupt signaling experience.  Instead of the standard single flash, activating your turn signal initiates five rapid flashes, providing increased visibility to surrounding drivers, especially in challenging conditions like heavy traffic or inclement weather. This isn't just about convenience; it's about proactive safety.  The refined flashing sequence enhances your awareness and helps other drivers anticipate your maneuvers, contributing to a smoother and safer driving experience.  This intelligent feature is seamlessly integrated into the 2 Series' design, reflecting BMW's commitment to both driver comfort and road safety.  Experience the difference – it’s a small detail that makes a big impact."
+                },
+                "category": {
+                  "en": "Safety"
+                }
               },
               {
                 "id": 477,
@@ -1508,7 +1514,13 @@
                   "en": "M Logo Startup Animation",
                   "he": "אנימציית הפעלה של לוגו M"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/c6084ab451c88bc8ef157eb3c16c83d8_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/c6084ab451c88bc8ef157eb3c16c83d8_oca_picture.jpg",
+                "description": {
+                  "en": "Ignite your senses with the electrifying M Logo Startup Animation, exclusive to the 2 Series.  As you turn the key or press the start button, witness the iconic BMW M logo blaze to life on the central display, a captivating visual prelude to the exhilarating performance awaiting you. This isn't just a splash screen; it's a statement. It's a visceral connection to the legendary M heritage, subtly hinting at the potent power simmering beneath the hood.  More than just a cosmetic enhancement, this animation elevates the driver experience, transforming each journey into a thrilling spectacle. Experience the pure adrenaline rush before you even touch the accelerator. This is M, redefined. "
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
               },
               {
                 "id": 478,
@@ -1517,7 +1529,13 @@
                   "en": "M View Style Cluster",
                   "he": "סגנון תצוגת M בלוח המחוונים"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/f8030b56910a732fe26c7d2fc3a6e2a9_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/f8030b56910a732fe26c7d2fc3a6e2a9_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of the road with the all-new M View Style Cluster in your BMW 2 Series.  This isn't just a digital instrument cluster; it's a meticulously crafted cockpit experience.  The vibrant, high-resolution display delivers crucial driving information with unparalleled clarity and style, dynamically adapting to your selected driving mode.  From the crisp, precise speedometer and tachometer to the intuitive menu navigation, every detail is engineered for seamless integration and optimal driver engagement.  Customize your view with selectable display options, showcasing performance metrics, navigation guidance, or entertainment information – all presented with an M-specific design language that elevates the driving experience to a new level.  Forget distractions; the M View Style Cluster keeps you informed and connected, empowering you to command the road with confidence and precision. Prepare for a driving experience that's as exhilarating as it is sophisticated."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
               },
               {
                 "id": 479,
@@ -1526,7 +1544,13 @@
                   "en": "Default Driving Mode",
                   "he": "מצב נהיגה ברירת מחדל"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 2 Series's Default Driving Mode isn't just a setting; it's a meticulously calibrated experience.  Engineered for everyday driving, this mode strikes the perfect balance between spirited performance and comfortable efficiency.  You'll enjoy responsive handling, precise steering, and optimized throttle response for a dynamic yet refined journey.  While easily customizable to your preference through the intuitive iDrive system, the Default Driving Mode serves as a testament to BMW's commitment to seamless integration of power and comfort, ensuring an enjoyable drive in any situation.  It's the intelligent starting point for every adventure in your 2 Series."
+                },
+                "category": {
+                  "en": "Performance"
+                }
               },
               {
                 "id": 480,
@@ -1535,7 +1559,13 @@
                   "en": "Horn on Secure",
                   "he": "צפירה בנעילה"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled peace of mind with the 2 Series' innovative Horn on Secure feature.  This isn't just a horn; it's a proactive security measure.  Should an unauthorized attempt to access your vehicle be detected – whether through forced entry or tampering – the system will automatically trigger a loud, attention-grabbing horn blast. This immediate alert not only deters potential thieves but also significantly increases the chances of attracting nearby attention, deterring further action and potentially leading to quicker recovery.  The Horn on Secure feature adds a vital layer of protection to your already robust 2 Series security system, providing an extra safeguard against theft and vandalism.  It's a quiet assurance that your vehicle remains protected, even when you're not around."
+                },
+                "category": {
+                  "en": "Safety"
+                }
               },
               {
                 "id": 481,
@@ -2917,7 +2947,18 @@
                   "en": "Vehicle Check Reset",
                   "he": "איפוס בדיקת רכב"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak performance and ensure your BMW 3 Series is running smoothly with our intuitive Vehicle Check Reset feature.  This isn't just about clearing a warning light; it's about proactive vehicle management.  After performing routine maintenance like an oil change or tire rotation, simply use the user-friendly in-car interface or the BMW ConnectedDrive app to reset the service indicator.  No more guesswork or trips to the dealership for simple resets.  This seamless integration ensures you stay informed about your vehicle's health and allows you to schedule maintenance proactively, maximizing your 3 Series' lifespan and driving enjoyment.  Experience the peace of mind that comes with knowing your car's maintenance is perfectly managed, right at your fingertips.",
+                  "ar": "حافظ على الأداء الأمثل وتأكد من أن سيارتك BMW الفئة الثالثة تعمل بسلاسة مع ميزة إعادة ضبط فحص السيارة البديهية لدينا.  هذا ليس مجرد مسح لمؤشر تحذير؛ بل هو إدارة استباقية للسيارة. بعد إجراء الصيانة الروتينية مثل تغيير الزيت أو تدوير الإطارات، ما عليك سوى استخدام واجهة السيارة سهلة الاستخدام أو تطبيق BMW ConnectedDrive لإعادة ضبط مؤشر الصيانة. لا مزيد من التخمين أو الرحلات إلى الوكيل لإعادة الضبط البسيطة.  يضمن هذا التكامل السلس أن تظل على اطلاع دائم بصحة سيارتك ويتيح لك جدولة الصيانة بشكل استباقي، مما يزيد من عمر الفئة الثالثة و متعة القيادة.  استمتع براحة البال التي تأتي مع معرفة أن صيانة سيارتك مُدارة بشكل مثالي، في متناول يديك.",
+                  "he": "שמרו על ביצועים מיטביים והבטיחו שה-BMW סדרה 3 שלכם פועלת בצורה חלקה באמצעות תכונת איפוס בדיקת הרכב האינטואיטיבית שלנו. זה לא רק לגבי כיבוי נורת אזהרה; זהו ניהול רכב יזום. לאחר ביצוע תחזוקה שגרתית כמו החלפת שמן או סיבוב צמיגים, פשוט השתמשו בממשק נוח למשתמש ברכב או באפליקציית BMW ConnectedDrive כדי לאפס את אינדיקטור השירות. לא עוד ניחושים או טיולים למוסך עבור איפוסים פשוטים. האינטגרציה החלקה הזו מבטיחה שתישארו מעודכנים לגבי מצב הרכב שלכם ומאפשרת לכם לתזמן תחזוקה באופן יזום, ובכך למקסם את אורך חיי הסדרה 3 שלכם ואת הנאת הנהיגה. חוו את השקט הנפשי שנובע מהידיעה שהתחזוקה של המכונית שלכם מנוהלת בצורה מושלמת, ממש בהישג ידכם."
+                },
+                "category": {
+                  "en": "Convenience",
+                  "ar": "",
+                  "he": ""
+                },
+                "price": ""
               },
               {
                 "id": 969,
