@@ -1379,7 +1379,13 @@
                   "en": "Brake Fluid Reset",
                   "he": "איפוס נוזל בלמים"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
+                "description": {
+                  "en": "Experience peak braking performance with the 2 Series' innovative Brake Fluid Reset feature.  This isn't just a routine maintenance item; it's a crucial component of ensuring consistent, reliable stopping power.  After a brake fluid change, the Brake Fluid Reset function precisely calibrates the advanced braking system, optimizing its sensitivity and response time. This ensures optimal braking efficiency, shorter stopping distances, and enhanced driver confidence, particularly in demanding driving conditions.  Don't compromise on safety; utilize the Brake Fluid Reset function for a superior and secure driving experience every time.  This seamless integration allows for a quick and easy reset, putting you back on the road with complete confidence in your braking system’s precision and reliability. Properly resetting your brake fluid after a change is essential for maintaining the peak performance and safety features of your BMW 2 Series."
+                },
+                "category": {
+                  "en": "Safety"
+                }
               },
               {
                 "id": 469,
@@ -1388,7 +1394,13 @@
                   "en": "Engine Oil Reset",
                   "he": "איפוס שמן מנוע"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak performance and extend the life of your BMW 2 Series engine with our effortless Engine Oil Reset service.  This isn't just about resetting a light; it's about ensuring your sophisticated engine continues to deliver the thrilling driving experience you expect.  After an oil change, simply utilize this intuitive in-car system (or via our connected drive app) to accurately reset your oil service indicator.  No more guesswork, no more missed maintenance intervals – just the precision and peace of mind that comes with owning a BMW. This ensures optimal engine health and protects your valuable investment, keeping your 2 Series performing at its absolute best for miles to come. Avoid potential engine damage and unnecessary repairs by utilizing this critical maintenance function correctly."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
               },
               {
                 "id": 470,
@@ -1397,7 +1409,13 @@
                   "en": "Front Brake Pads Reset",
                   "he": "איפוס רפידות בלם קדמיות"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg",
+                "description": {
+                  "en": "Experience precision braking every time with the BMW 2 Series' innovative Front Brake Pads Reset feature.  This isn't just about a simple warning light; it's about proactive maintenance and peak performance.  Our intelligent system monitors pad wear with exceptional accuracy, providing a timely and precise alert when a replacement is due.  Avoid unexpected brake failures and maintain optimal stopping power by staying informed. This sophisticated feature allows you to schedule brake pad replacement conveniently, maximizing the lifespan of your brakes while ensuring your safety and driving enjoyment.  Don't let worn brake pads compromise your driving experience – let the 2 Series' Front Brake Pads Reset keep you in complete control."
+                },
+                "category": {
+                  "en": "Safety"
+                }
               },
               {
                 "id": 471,
@@ -1406,7 +1424,13 @@
                   "en": "Rear Brake Pads Reset",
                   "he": "איפוס רפידות בלם אחוריות"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
+                "description": {
+                  "en": "Experience precise braking control and optimized performance with the BMW 2 Series' Rear Brake Pad Reset feature.  This isn't just about resetting a light; it's about ensuring your braking system operates at peak efficiency.  After replacing your rear brake pads, this intelligent system recalibrates the brake sensors for accurate wear monitoring and optimal Anti-lock Braking System (ABS) and Dynamic Stability Control (DSC) functionality.  This ensures consistent, reliable braking performance throughout the lifespan of your new pads, maximizing safety and extending the life of your brake system components.  Don't settle for compromised braking – experience the precision and peace of mind that comes with a properly reset system.  This simple yet crucial step, accessible through your vehicle's iDrive system, provides you with the control and confidence you deserve."
+                },
+                "category": {
+                  "en": "Safety"
+                }
               },
               {
                 "id": 472,
@@ -1415,7 +1439,13 @@
                   "en": "Vehicle Check Reset",
                   "he": "איפוס בדיקת רכב"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak performance and keep your BMW 2 Series running smoothly with our intuitive Vehicle Check Reset feature.  This isn't just about clearing a warning light; it's about proactive vehicle health management.  A simple, in-car process allows you to reset service indicators after completing routine maintenance, ensuring your instrument cluster reflects the true state of your vehicle.  No more confusing warning lights or missed service appointments.  Vehicle Check Reset empowers you to stay informed and in control of your 2 Series' well-being, promoting long-term reliability and preserving the joy of driving."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
               },
               {
                 "id": 473,
@@ -1424,7 +1454,13 @@
                   "en": "Sport Displays",
                   "he": "תצוגות ספורט"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of the road with the 2 Series' Sport Displays.  These aren't just gauges; they're a dynamic extension of your driving experience.  Crisp, high-resolution graphics deliver vital performance data with breathtaking clarity, transforming your dashboard into a command center.  From a vibrant, customizable tachometer that pulses with the engine's rhythm to a comprehensive display of G-forces and lap times (where applicable), Sport Displays immerse you in the heart of the action.  Intuitive menus allow for easy personalization, letting you select the information most relevant to your driving style.  Forget static displays – with Sport Displays, the 2 Series transforms your daily commute into a spirited drive, providing you with real-time feedback and a visceral connection to the machine under your control.  This isn't just about seeing numbers; it's about feeling the performance."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
               },
               {
                 "id": 474,
@@ -1433,7 +1469,13 @@
                   "en": "Video in Motion",
                   "he": "וידאו בתנועה"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in on-the-go entertainment with the BMW 2 Series' Video in Motion system.  While respecting all applicable local laws and regulations, this innovative feature allows select passengers to enjoy movies, TV shows, and other video content on the central infotainment display while the vehicle is in motion.  This doesn't just mean short clips;  prepare for immersive viewing experiences thanks to the high-resolution screen and seamless integration with your favorite streaming apps. Note:  The driver must always maintain full attention on the road, and the availability of video playback while driving may vary based on vehicle speed and local legal restrictions.  Video in Motion elevates your journeys from simple commutes to engaging adventures, ensuring everyone stays entertained during longer drives.   This feature is designed for passengers' enjoyment and does not compromise safety features.  For the ultimate cinematic experience on the road, choose the BMW 2 Series."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
               },
               {
                 "id": 475,
@@ -1442,7 +1484,13 @@
                   "en": "Tow Hitch Display",
                   "he": "תצוגת וו גרירה"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly manage your towing needs with the innovative 2 Series Tow Hitch Display.  This isn't just a simple indicator; it's a sophisticated system seamlessly integrated into your infotainment screen.  Get real-time feedback on trailer connection status, ensuring safe and secure hitching every time.  Avoid costly mistakes and potential damage with clear visual cues that confirm proper alignment and prevent accidental disconnections. The Tow Hitch Display provides peace of mind, knowing your trailer is securely attached before you hit the road.  It's more than just convenience; it's intelligent towing assurance designed for the discerning 2 Series driver."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
               },
               {
                 "id": 476,
@@ -1541,7 +1589,13 @@
                   "en": "X-View Display",
                   "he": "תצוגת X-View"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/0140c1fab39951bd39b7df229cf96ec4_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/0140c1fab39951bd39b7df229cf96ec4_oca_picture.jpg",
+                "description": {
+                  "en": "Dominate the road with unparalleled awareness. The BMW 2 Series' X-View Display isn't just a screen; it's a revolutionary panoramic digital view of your surroundings.  Seamlessly integrated into the dashboard, this high-resolution display provides a comprehensive, bird's-eye perspective, eliminating blind spots and dramatically enhancing your situational awareness.  From effortlessly maneuvering in tight parking spaces to navigating complex intersections with increased confidence, X-View Display transforms your driving experience. Experience a new level of precision and safety – see more, drive smarter, arrive safer."
+                },
+                "category": {
+                  "en": "Safety"
+                }
               },
               {
                 "id": 487,
@@ -1550,7 +1604,13 @@
                   "en": "Tire Pressure Display in Dashboard",
                   "he": "תצוגת לחץ צמיגים בלוח המחוונים"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain optimal tire pressure effortlessly with the BMW 2 Series' integrated Tire Pressure Display.  This sophisticated system monitors tire pressure in real-time and displays the readings directly on your dashboard.  No more cumbersome manual checks or guesswork – ensuring optimal fuel efficiency, enhanced handling, and significantly improved safety.  The clear, intuitive display provides immediate alerts if pressure is low in any tire, proactively preventing potential blowouts and maximizing your driving experience.  Stay informed, stay in control, and stay safe with this essential feature that seamlessly blends advanced technology with everyday practicality."
+                },
+                "category": {
+                  "en": "Safety"
+                }
               },
               {
                 "id": 488,
@@ -1559,7 +1619,13 @@
                   "en": "Speedometer Scale Display",
                   "he": "תצוגת קנה מידה של מד מהירות"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
+                "description": {
+                  "en": "Experience exhilarating performance with the 2 Series' meticulously engineered Speedometer Scale Display.  This isn't just a gauge; it's a visceral connection to the road.  The crisp, high-resolution display provides instant, accurate feedback on your speed, allowing for precise control and confident driving.  The intuitive design ensures effortless readability, even at a glance, minimizing distractions and maximizing your focus on the journey.  Feel the surge of power, monitor your speed with unwavering clarity, and experience driving redefined with the 2 Series' dynamic Speedometer Scale Display.  Its precision engineering and elegant presentation seamlessly integrate into the driver-focused cockpit, enhancing both the aesthetic appeal and driving experience."
+                },
+                "category": {
+                  "en": "Performance"
+                }
               },
               {
                 "id": 489,
@@ -1568,7 +1634,13 @@
                   "en": "Alpina Style Display",
                   "he": "תצוגה בסגנון אלפינה"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/c873e490b1314a701f9bf13f0d73450d_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/c873e490b1314a701f9bf13f0d73450d_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate your 2 Series driving experience with the Alpina Style Display.  This isn't just a cosmetic upgrade; it's a meticulously crafted digital instrument cluster that seamlessly integrates bespoke Alpina design cues with crucial performance data. Experience the thrill of driving with a vibrant, high-resolution display showcasing a unique Alpina-branded speedometer, tachometer, and intuitive interface.  The crisp graphics and customizable settings deliver a richer, more engaging driving experience, allowing you to monitor key performance metrics with unparalleled clarity. From the subtle Alpina branding to the dynamic animations, every detail has been painstakingly designed to reflect the legendary Alpina heritage and enhance the overall driving pleasure of your 2 Series.  This is more than a display; it's a statement."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
               },
               {
                 "id": 490,
@@ -1577,7 +1649,13 @@
                   "en": "Instrument Cluster Logo",
                   "he": "לוגו לוח מחוונים"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/9281fcbd489723b44ffb99ea3f40e912_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/9281fcbd489723b44ffb99ea3f40e912_oca_picture.jpg",
+                "description": {
+                  "en": "Command the road with the redesigned 2 Series Instrument Cluster Logo.  More than just a visual element, this meticulously crafted emblem projects a sense of refined power and bespoke luxury.  The vibrant, high-resolution display ensures crystal-clear visibility of the logo, seamlessly integrated into the driver's digital experience.  Its subtle yet striking presence reinforces the 2 Series' athletic character, serving as a constant reminder of the exhilarating performance waiting to be unleashed.  Experience the thrill of driving with a logo that reflects your individual style and the unwavering quality of BMW engineering."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
               },
               {
                 "id": 491,
@@ -1586,7 +1664,13 @@
                   "en": "Speed Correction",
                   "he": "תיקון מהירות"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/7047fa424529e794eae380028a306d4b_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/7047fa424529e794eae380028a306d4b_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled control with the BMW 2 Series' innovative Speed Correction system.  This isn't just cruise control; it's predictive speed assistance.  Utilizing advanced GPS data and real-time speed limit recognition, Speed Correction seamlessly adjusts your vehicle's speed to adhere to posted limits, minimizing the risk of unintentional speeding violations.  Beyond simple adherence, the system anticipates upcoming speed changes, smoothly decelerating or accelerating as necessary for a comfortable and confident driving experience.  No more frantic glances at speedometers – focus on the road ahead while maintaining optimal speed and legal compliance. Speed Correction isn't just a feature; it’s a testament to the 2 Series' commitment to driver assistance and peace of mind."
+                },
+                "category": {
+                  "en": "Safety"
+                }
               },
               {
                 "id": 492,
@@ -1595,7 +1679,13 @@
                   "en": "Mirror Dip",
                   "he": "הטיית מראה"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/fe1c329e7609ad1ded3329883fb61d69_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/fe1c329e7609ad1ded3329883fb61d69_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled convenience and safety with the 2 Series' innovative Mirror Dip feature.  When reversing, the passenger-side mirror automatically dips downwards, providing an unobstructed view of the curb and eliminating blind spots.  This subtle yet crucial adjustment significantly enhances maneuverability, especially in tight parking spaces or while navigating challenging environments.  No more awkward contortions or guesswork – simply engage reverse and let the intelligent Mirror Dip system take the strain, ensuring confident and precise parking every time.  This feature isn't just a luxury; it's a smart solution designed to bolster your confidence and enhance your driving experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
               },
               {
                 "id": 493,
@@ -1604,7 +1694,13 @@
                   "en": "Mirror Dip Adjustment",
                   "he": "התאמת הטיית מראה"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/01c516c147596b28c1ae4c1b3fbebb79_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/01c516c147596b28c1ae4c1b3fbebb79_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly enhance your parking experience with the BMW 2 Series' intelligent Mirror Dip Adjustment.  This innovative feature automatically lowers the passenger-side mirror when you engage reverse gear, providing a clear and unobstructed view of the curb and surrounding obstacles.  No more awkward maneuvering or relying on guesswork – simply engage reverse and benefit from significantly improved visibility, making parking in tight spaces a breeze.  This thoughtful addition isn't just convenient; it significantly reduces the risk of costly scrapes and collisions, enhancing both safety and your overall driving confidence.  Experience the seamless integration and precision engineering that defines the BMW driving experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
               },
               {
                 "id": 494,
@@ -1928,7 +2024,13 @@
                   "en": "Emergency Braking Lights Sensitivity",
                   "he": "רגישות אורות בלם חירום"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/ff6286e8eeee48f3c9173f485bd2e547_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/ff6286e8eeee48f3c9173f485bd2e547_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled peace of mind with the BMW 2 Series' enhanced Emergency Braking Lights Sensitivity.  This sophisticated system goes beyond standard hazard lights, employing advanced sensors to detect imminent braking situations, even at lower speeds or in challenging conditions like heavy rain or fog.  When hard braking is detected, the system instantly activates the hazard lights with increased intensity and frequency, significantly improving rearward visibility and alerting following drivers much sooner than conventional systems. This proactive measure dramatically reduces the risk of rear-end collisions, providing an extra layer of safety for you and other road users.  Our engineers have meticulously calibrated the sensitivity to minimize false activations while maximizing effectiveness, ensuring a seamless and reliable experience.  Don't just drive; drive confidently with the 2 Series' superior emergency braking light response."
+                },
+                "category": {
+                  "en": "Safety"
+                }
               },
               {
                 "id": 530,
@@ -4699,7 +4801,1415 @@
           {
             "value": "g30",
             "text": "G30",
-            "activations": []
+            "activations": [
+              {
+                "id": 819,
+                "title": {
+                  "ar": "إعادة ضبط سائل الفرامل",
+                  "en": "Brake Fluid Reset",
+                  "he": "איפוס נוזל בלמים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
+                "description": {
+                  "en": "Experience peak braking performance with the 2 Series' innovative Brake Fluid Reset feature.  This isn't just a routine maintenance item; it's a crucial component of ensuring consistent, reliable stopping power.  After a brake fluid change, the Brake Fluid Reset function precisely calibrates the advanced braking system, optimizing its sensitivity and response time. This ensures optimal braking efficiency, shorter stopping distances, and enhanced driver confidence, particularly in demanding driving conditions.  Don't compromise on safety; utilize the Brake Fluid Reset function for a superior and secure driving experience every time.  This seamless integration allows for a quick and easy reset, putting you back on the road with complete confidence in your braking system’s precision and reliability. Properly resetting your brake fluid after a change is essential for maintaining the peak performance and safety features of your BMW 2 Series."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 820,
+                "title": {
+                  "ar": "إعادة ضبط زيت المحرك",
+                  "en": "Engine Oil Reset",
+                  "he": "איפוס שמן מנוע"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak performance and extend the life of your BMW 2 Series engine with our effortless Engine Oil Reset service.  This isn't just about resetting a light; it's about ensuring your sophisticated engine continues to deliver the thrilling driving experience you expect.  After an oil change, simply utilize this intuitive in-car system (or via our connected drive app) to accurately reset your oil service indicator.  No more guesswork, no more missed maintenance intervals – just the precision and peace of mind that comes with owning a BMW. This ensures optimal engine health and protects your valuable investment, keeping your 2 Series performing at its absolute best for miles to come. Avoid potential engine damage and unnecessary repairs by utilizing this critical maintenance function correctly."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 821,
+                "title": {
+                  "ar": "إعادة ضبط وسادات الفرامل الأمامية",
+                  "en": "Front Brake Pads Reset",
+                  "he": "איפוס רפידות בלם קדמיות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg",
+                "description": {
+                  "en": "Experience precision braking every time with the BMW 2 Series' innovative Front Brake Pads Reset feature.  This isn't just about a simple warning light; it's about proactive maintenance and peak performance.  Our intelligent system monitors pad wear with exceptional accuracy, providing a timely and precise alert when a replacement is due.  Avoid unexpected brake failures and maintain optimal stopping power by staying informed. This sophisticated feature allows you to schedule brake pad replacement conveniently, maximizing the lifespan of your brakes while ensuring your safety and driving enjoyment.  Don't let worn brake pads compromise your driving experience – let the 2 Series' Front Brake Pads Reset keep you in complete control."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 822,
+                "title": {
+                  "ar": "إعادة ضبط وسادات الفرامل الخلفية",
+                  "en": "Rear Brake Pads Reset",
+                  "he": "איפוס רפידות בלם אחוריות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
+                "description": {
+                  "en": "Experience precise braking control and optimized performance with the BMW 2 Series' Rear Brake Pad Reset feature.  This isn't just about resetting a light; it's about ensuring your braking system operates at peak efficiency.  After replacing your rear brake pads, this intelligent system recalibrates the brake sensors for accurate wear monitoring and optimal Anti-lock Braking System (ABS) and Dynamic Stability Control (DSC) functionality.  This ensures consistent, reliable braking performance throughout the lifespan of your new pads, maximizing safety and extending the life of your brake system components.  Don't settle for compromised braking – experience the precision and peace of mind that comes with a properly reset system.  This simple yet crucial step, accessible through your vehicle's iDrive system, provides you with the control and confidence you deserve."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 823,
+                "title": {
+                  "ar": "إعادة ضبط فحص السيارة",
+                  "en": "Vehicle Check Reset",
+                  "he": "איפוס בדיקת רכב"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak performance and keep your BMW 2 Series running smoothly with our intuitive Vehicle Check Reset feature.  This isn't just about clearing a warning light; it's about proactive vehicle health management.  A simple, in-car process allows you to reset service indicators after completing routine maintenance, ensuring your instrument cluster reflects the true state of your vehicle.  No more confusing warning lights or missed service appointments.  Vehicle Check Reset empowers you to stay informed and in control of your 2 Series' well-being, promoting long-term reliability and preserving the joy of driving."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 824,
+                "title": {
+                  "ar": "شاشات عرض رياضية",
+                  "en": "Sport Displays",
+                  "he": "תצוגות ספורט"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of the road with the 2 Series' Sport Displays.  These aren't just gauges; they're a dynamic extension of your driving experience.  Crisp, high-resolution graphics deliver vital performance data with breathtaking clarity, transforming your dashboard into a command center.  From a vibrant, customizable tachometer that pulses with the engine's rhythm to a comprehensive display of G-forces and lap times (where applicable), Sport Displays immerse you in the heart of the action.  Intuitive menus allow for easy personalization, letting you select the information most relevant to your driving style.  Forget static displays – with Sport Displays, the 2 Series transforms your daily commute into a spirited drive, providing you with real-time feedback and a visceral connection to the machine under your control.  This isn't just about seeing numbers; it's about feeling the performance."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 825,
+                "title": {
+                  "ar": "فيديو أثناء الحركة",
+                  "en": "Video in Motion",
+                  "he": "וידאו בתנועה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in on-the-go entertainment with the BMW 2 Series' Video in Motion system.  While respecting all applicable local laws and regulations, this innovative feature allows select passengers to enjoy movies, TV shows, and other video content on the central infotainment display while the vehicle is in motion.  This doesn't just mean short clips;  prepare for immersive viewing experiences thanks to the high-resolution screen and seamless integration with your favorite streaming apps. Note:  The driver must always maintain full attention on the road, and the availability of video playback while driving may vary based on vehicle speed and local legal restrictions.  Video in Motion elevates your journeys from simple commutes to engaging adventures, ensuring everyone stays entertained during longer drives.   This feature is designed for passengers' enjoyment and does not compromise safety features.  For the ultimate cinematic experience on the road, choose the BMW 2 Series."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 826,
+                "title": {
+                  "ar": "عرض خطاف السحب",
+                  "en": "Tow Hitch Display",
+                  "he": "תצוגת וו גרירה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly manage your towing needs with the innovative 2 Series Tow Hitch Display.  This isn't just a simple indicator; it's a sophisticated system seamlessly integrated into your infotainment screen.  Get real-time feedback on trailer connection status, ensuring safe and secure hitching every time.  Avoid costly mistakes and potential damage with clear visual cues that confirm proper alignment and prevent accidental disconnections. The Tow Hitch Display provides peace of mind, knowing your trailer is securely attached before you hit the road.  It's more than just convenience; it's intelligent towing assurance designed for the discerning 2 Series driver."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 827,
+                "title": {
+                  "ar": "5 مرات إشارات انعطاف مريحة",
+                  "en": "5 Times Comfort Turn Signals",
+                  "he": "5 הבהובים נוחים לאיתות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg"
+              },
+              {
+                "id": 828,
+                "title": {
+                  "ar": "رسوم متحركة لشعار M عند بدء التشغيل",
+                  "en": "M Logo Startup Animation",
+                  "he": "אנימציית הפעלה של לוגו M"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c6084ab451c88bc8ef157eb3c16c83d8_oca_picture.jpg"
+              },
+              {
+                "id": 829,
+                "title": {
+                  "ar": "نمط M لشاشة العدادات",
+                  "en": "M View Style Cluster",
+                  "he": "סגנון תצוגת M בלוח המחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/f8030b56910a732fe26c7d2fc3a6e2a9_oca_picture.jpg"
+              },
+              {
+                "id": 830,
+                "title": {
+                  "ar": "وضع القيادة الافتراضي",
+                  "en": "Default Driving Mode",
+                  "he": "מצב נהיגה ברירת מחדל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
+              },
+              {
+                "id": 831,
+                "title": {
+                  "ar": "البوق عند القفل",
+                  "en": "Horn on Secure",
+                  "he": "צפירה בנעילה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg"
+              },
+              {
+                "id": 832,
+                "title": {
+                  "ar": "عرض ضغط ودرجة حرارة TPMS",
+                  "en": "TPMS Pressure and Temperature Display",
+                  "he": "תצוגת לחץ וטמפרטורת TPMS"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/750b6938e0867d44071bbc032182c8cd_oca_picture.jpg"
+              },
+              {
+                "id": 833,
+                "title": {
+                  "ar": "تحذيرات iDrive",
+                  "en": "iDrive Warnings",
+                  "he": "אזהרות iDrive"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/66b0c574cd714768234e1a7a15d798cb_oca_picture.jpg"
+              },
+              {
+                "id": 834,
+                "title": {
+                  "ar": "أضواء الضباب الأمامية مع الأضواء العالية",
+                  "en": "Front Fog Lights w/ High Beams",
+                  "he": "פנסי ערפל קדמיים עם אורות גבוהים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a06b85fa78830e85946ef8354f02a95c_oca_picture.jpg"
+              },
+              {
+                "id": 835,
+                "title": {
+                  "ar": "أضواء الضباب الأمامية مع أضواء الركن",
+                  "en": "Front Fog Lights w/ Parking Lights",
+                  "he": "פנסי ערפל קדמיים עם אורות חניה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg"
+              },
+              {
+                "id": 836,
+                "title": {
+                  "ar": "وضع Sport+",
+                  "en": "Sport+ Mode",
+                  "he": "מצב ספורט+"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/26f786661243e46eb8cdcc6e745da647_oca_picture.jpg"
+              },
+              {
+                "id": 837,
+                "title": {
+                  "ar": "عرض X-View",
+                  "en": "X-View Display",
+                  "he": "תצוגת X-View"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0140c1fab39951bd39b7df229cf96ec4_oca_picture.jpg",
+                "description": {
+                  "en": "Dominate the road with unparalleled awareness. The BMW 2 Series' X-View Display isn't just a screen; it's a revolutionary panoramic digital view of your surroundings.  Seamlessly integrated into the dashboard, this high-resolution display provides a comprehensive, bird's-eye perspective, eliminating blind spots and dramatically enhancing your situational awareness.  From effortlessly maneuvering in tight parking spaces to navigating complex intersections with increased confidence, X-View Display transforms your driving experience. Experience a new level of precision and safety – see more, drive smarter, arrive safer."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 838,
+                "title": {
+                  "ar": "عرض ضغط الإطارات في لوحة القيادة",
+                  "en": "Tire Pressure Display in Dashboard",
+                  "he": "תצוגת לחץ צמיגים בלוח המחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain optimal tire pressure effortlessly with the BMW 2 Series' integrated Tire Pressure Display.  This sophisticated system monitors tire pressure in real-time and displays the readings directly on your dashboard.  No more cumbersome manual checks or guesswork – ensuring optimal fuel efficiency, enhanced handling, and significantly improved safety.  The clear, intuitive display provides immediate alerts if pressure is low in any tire, proactively preventing potential blowouts and maximizing your driving experience.  Stay informed, stay in control, and stay safe with this essential feature that seamlessly blends advanced technology with everyday practicality."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 839,
+                "title": {
+                  "ar": "عرض مقياس السرعة",
+                  "en": "Speedometer Scale Display",
+                  "he": "תצוגת קנה מידה של מד מהירות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
+                "description": {
+                  "en": "Experience exhilarating performance with the 2 Series' meticulously engineered Speedometer Scale Display.  This isn't just a gauge; it's a visceral connection to the road.  The crisp, high-resolution display provides instant, accurate feedback on your speed, allowing for precise control and confident driving.  The intuitive design ensures effortless readability, even at a glance, minimizing distractions and maximizing your focus on the journey.  Feel the surge of power, monitor your speed with unwavering clarity, and experience driving redefined with the 2 Series' dynamic Speedometer Scale Display.  Its precision engineering and elegant presentation seamlessly integrate into the driver-focused cockpit, enhancing both the aesthetic appeal and driving experience."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 840,
+                "title": {
+                  "ar": "عرض بنمط ألبينا",
+                  "en": "Alpina Style Display",
+                  "he": "תצוגה בסגנון אלפינה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c873e490b1314a701f9bf13f0d73450d_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate your 2 Series driving experience with the Alpina Style Display.  This isn't just a cosmetic upgrade; it's a meticulously crafted digital instrument cluster that seamlessly integrates bespoke Alpina design cues with crucial performance data. Experience the thrill of driving with a vibrant, high-resolution display showcasing a unique Alpina-branded speedometer, tachometer, and intuitive interface.  The crisp graphics and customizable settings deliver a richer, more engaging driving experience, allowing you to monitor key performance metrics with unparalleled clarity. From the subtle Alpina branding to the dynamic animations, every detail has been painstakingly designed to reflect the legendary Alpina heritage and enhance the overall driving pleasure of your 2 Series.  This is more than a display; it's a statement."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 841,
+                "title": {
+                  "ar": "شعار لوحة العدادات",
+                  "en": "Instrument Cluster Logo",
+                  "he": "לוגו לוח מחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/9281fcbd489723b44ffb99ea3f40e912_oca_picture.jpg",
+                "description": {
+                  "en": "Command the road with the redesigned 2 Series Instrument Cluster Logo.  More than just a visual element, this meticulously crafted emblem projects a sense of refined power and bespoke luxury.  The vibrant, high-resolution display ensures crystal-clear visibility of the logo, seamlessly integrated into the driver's digital experience.  Its subtle yet striking presence reinforces the 2 Series' athletic character, serving as a constant reminder of the exhilarating performance waiting to be unleashed.  Experience the thrill of driving with a logo that reflects your individual style and the unwavering quality of BMW engineering."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 842,
+                "title": {
+                  "ar": "تصحيح السرعة",
+                  "en": "Speed Correction",
+                  "he": "תיקון מהירות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7047fa424529e794eae380028a306d4b_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled control with the BMW 2 Series' innovative Speed Correction system.  This isn't just cruise control; it's predictive speed assistance.  Utilizing advanced GPS data and real-time speed limit recognition, Speed Correction seamlessly adjusts your vehicle's speed to adhere to posted limits, minimizing the risk of unintentional speeding violations.  Beyond simple adherence, the system anticipates upcoming speed changes, smoothly decelerating or accelerating as necessary for a comfortable and confident driving experience.  No more frantic glances at speedometers – focus on the road ahead while maintaining optimal speed and legal compliance. Speed Correction isn't just a feature; it’s a testament to the 2 Series' commitment to driver assistance and peace of mind."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 843,
+                "title": {
+                  "ar": "خفض المرآة",
+                  "en": "Mirror Dip",
+                  "he": "הטיית מראה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fe1c329e7609ad1ded3329883fb61d69_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled convenience and safety with the 2 Series' innovative Mirror Dip feature.  When reversing, the passenger-side mirror automatically dips downwards, providing an unobstructed view of the curb and eliminating blind spots.  This subtle yet crucial adjustment significantly enhances maneuverability, especially in tight parking spaces or while navigating challenging environments.  No more awkward contortions or guesswork – simply engage reverse and let the intelligent Mirror Dip system take the strain, ensuring confident and precise parking every time.  This feature isn't just a luxury; it's a smart solution designed to bolster your confidence and enhance your driving experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 844,
+                "title": {
+                  "ar": "تعديل خفض المرآة",
+                  "en": "Mirror Dip Adjustment",
+                  "he": "התאמת הטיית מראה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/01c516c147596b28c1ae4c1b3fbebb79_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly enhance your parking experience with the BMW 2 Series' intelligent Mirror Dip Adjustment.  This innovative feature automatically lowers the passenger-side mirror when you engage reverse gear, providing a clear and unobstructed view of the curb and surrounding obstacles.  No more awkward maneuvering or relying on guesswork – simply engage reverse and benefit from significantly improved visibility, making parking in tight spaces a breeze.  This thoughtful addition isn't just convenient; it significantly reduces the risk of costly scrapes and collisions, enhancing both safety and your overall driving confidence.  Experience the seamless integration and precision engineering that defines the BMW driving experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 845,
+                "title": {
+                  "ar": "حساسية RLS",
+                  "en": "RLS Sensitivity",
+                  "he": "רגישות חיישן גשם/אור"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2e9a187ad3e4975457c828d32b265d00_oca_picture.jpg"
+              },
+              {
+                "id": 846,
+                "title": {
+                  "ar": "وقت القفل الذاتي",
+                  "en": "Self Locking Time",
+                  "he": "זמן נעילה עצמית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/017f0cfdfafb6470f1d675974345b4b9_oca_picture.jpg"
+              },
+              {
+                "id": 847,
+                "title": {
+                  "ar": "عرض القيادة المساعدة",
+                  "en": "Assisted Driving View",
+                  "he": "תצוגת נהיגה מסייעת"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/164733e1175a7eab139864fbfd94e301_oca_picture.jpg"
+              },
+              {
+                "id": 848,
+                "title": {
+                  "ar": "تغيير المسار التلقائي",
+                  "en": "Automatic Lane Change",
+                  "he": "החלפת נתיב אוטומטית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fcd9a3378aa7aa47880fbcd7704588d5_oca_picture.jpg"
+              },
+              {
+                "id": 849,
+                "title": {
+                  "ar": "صوت Bower & Wilkins",
+                  "en": "Bower & Wilkins Audio",
+                  "he": "שמע Bower & Wilkins"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3acc77e1efe3590de5374403c43c7431_oca_picture.jpg"
+              },
+              {
+                "id": 850,
+                "title": {
+                  "ar": "تسجيل بطارية 12 فولت",
+                  "en": "12V Battery Registration",
+                  "he": "רישום מצבר 12V"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg"
+              },
+              {
+                "id": 851,
+                "title": {
+                  "ar": "قائمة صوت المحرك",
+                  "en": "Engine Sound Menu",
+                  "he": "תפריט צליל מנוע"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a28d870764ebd97ea21cce79475e45cf_oca_picture.jpg"
+              },
+              {
+                "id": 852,
+                "title": {
+                  "ar": "تدفئة عجلة القيادة التلقائية",
+                  "en": "Automatic Steering Wheel Heating",
+                  "he": "חימום הגה אוטומטי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fa73e81d4d099184693965f006cedf88_oca_picture.jpg"
+              },
+              {
+                "id": 853,
+                "title": {
+                  "ar": "أضواء النهار الاسكندنافية",
+                  "en": "Scandinavian DRLs",
+                  "he": "פנסי יום סקנדינביים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/8722d3c8cc595754444c10f2b88896c9_oca_picture.jpg"
+              },
+              {
+                "id": 854,
+                "title": {
+                  "ar": "إلغاء تنشيط تصميم الصوت النشط",
+                  "en": "Active Sound Design Deactivation",
+                  "he": "ביטול הפעלת צליל פעיל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/159a4022221dacd99df5556dead2d5bb_oca_picture.jpg"
+              },
+              {
+                "id": 855,
+                "title": {
+                  "ar": "شاشة CarPlay كاملة",
+                  "en": "CarPlay Fullscreen",
+                  "he": "CarPlay מסך מלא"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3e57f2fba7767f5d8d7ec4e3517e69c7_oca_picture.jpg"
+              },
+              {
+                "id": 856,
+                "title": {
+                  "ar": "وضع ECO PRO الساحلي",
+                  "en": "ECO PRO Coasting Mode",
+                  "he": "מצב שיוט ECO PRO"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/40b747b342a0e62a4cb41e010cbd8b3c_oca_picture.jpg"
+              },
+              {
+                "id": 857,
+                "title": {
+                  "ar": "وضع Comfort+",
+                  "en": "Comfort+ Mode",
+                  "he": "מצב Comfort+"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/50d957f1871fd64fd925de13c3f20b27_oca_picture.jpg"
+              },
+              {
+                "id": 858,
+                "title": {
+                  "ar": "اختبار أضواء الفرامل",
+                  "en": "Brake Lights Test",
+                  "he": "בדיקת אורות בלם"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/79c83239c057fff25d0ffc0290e44f83_oca_picture.jpg"
+              },
+              {
+                "id": 859,
+                "title": {
+                  "ar": "فتح وإغلاق ستارة المبرد",
+                  "en": "Radiator Blind Opening and Closing ",
+                  "he": "פתיחה וסגירה של תריס הרדיאטור"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/191ec48271def6879338a979daa8a382_oca_picture.jpg"
+              },
+              {
+                "id": 860,
+                "title": {
+                  "ar": "أضواء الفرامل في حالات الطوارئ",
+                  "en": "Emergency Braking Lights",
+                  "he": "אורות בלם חירום"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b550b5057a30ee8204ffd16ec8a730e9_oca_picture.jpg"
+              },
+              {
+                "id": 861,
+                "title": {
+                  "ar": "اختبار مروحة المحرك",
+                  "en": "Engine Fan Test",
+                  "he": "בדיקת מאוורר מנוע"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/695fd1be4b24dfd3b5222090d16f520a_oca_picture.jpg"
+              },
+              {
+                "id": 862,
+                "title": {
+                  "ar": "اختبار أضواء الرجوع للخلف",
+                  "en": "Reversing Lights Test",
+                  "he": "בדיקת אורות רוורס"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/44ecec72499c9f1c68a9bbd6381c4577_oca_picture.jpg"
+              },
+              {
+                "id": 863,
+                "title": {
+                  "ar": "اختبار اهتزاز عجلة القيادة",
+                  "en": "Steering Wheel Vibration Test",
+                  "he": "בדיקת רטט הגה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/05671bc403200ee80861cd573d2f049b_oca_picture.jpg"
+              },
+              {
+                "id": 864,
+                "title": {
+                  "ar": "اختبار البوق",
+                  "en": "Horn Test",
+                  "he": "בדיקת צופר"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/25004774a9c5fa633d3660c65c76ece0_oca_picture.jpg"
+              },
+              {
+                "id": 865,
+                "title": {
+                  "ar": "اختبار أضواء الضباب الخلفية",
+                  "en": "Rear Fog Lights Test",
+                  "he": "בדיקת פנסי ערפל אחוריים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/91efcacfe9b197171c786f359ca28c20_oca_picture.jpg"
+              },
+              {
+                "id": 866,
+                "title": {
+                  "ar": "اختبار مضخة غسيل الزجاج الأمامي",
+                  "en": "Windscreen Washer Pump Test",
+                  "he": "בדיקת משאבת מגבים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/98e61f5539a545cfede9847ac8f79d3a_oca_picture.jpg"
+              },
+              {
+                "id": 867,
+                "title": {
+                  "ar": "قائمة تذكير أحزمة المقاعد الخلفية",
+                  "en": "Rear Seat Belts Reminder Menu",
+                  "he": "תפריט תזכורת חגורות בטיחות אחוריות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/5c692f5330b674a618b7afa3604add04_oca_picture.jpg"
+              },
+              {
+                "id": 868,
+                "title": {
+                  "ar": "فحص المصابيح الأمامية",
+                  "en": "Headlights Check",
+                  "he": "בדיקת פנסים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/f0169c9a66aeaa3564a54473b65c9039_oca_picture.jpg"
+              },
+              {
+                "id": 869,
+                "title": {
+                  "ar": "اختبار أضواء لوحة العدادات",
+                  "en": "Instrument Cluster Lights Test",
+                  "he": "בדיקת נורות לוח מחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/06b677511a8683a43e283a03c7bb6f50_oca_picture.jpg"
+              },
+              {
+                "id": 870,
+                "title": {
+                  "ar": "نظام الاتصال الطارئ SOS",
+                  "en": "SOS Emergency Call System",
+                  "he": "מערכת קריאת חירום SOS"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/63c12ebda4e28525f79ced7e43280430_oca_picture.jpg"
+              },
+              {
+                "id": 871,
+                "title": {
+                  "ar": "إلغاء تنشيط حماية المشاة الصوتية",
+                  "en": "Acoustic Pedestrian Protection Deactivation",
+                  "he": "ביטול הגנה אקוסטית על הולכי רגל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b514793fd8c5955fe2f3205b4acfef8c_oca_picture.jpg"
+              },
+              {
+                "id": 872,
+                "title": {
+                  "ar": "إشارات الانعطاف المريحة",
+                  "en": "Comfort Turn Signals",
+                  "he": "איתותים נוחים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d7acab1c54694044704d81aac0dc355a_oca_picture.jpg"
+              },
+              {
+                "id": 873,
+                "title": {
+                  "ar": "تحذيرات الكاميرا و PDC",
+                  "en": "Camera and PDC Warnings",
+                  "he": "אזהרות מצלמה וחיישני חניה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/48d927c6e56430b1bd113dcf71b500ca_oca_picture.jpg"
+              },
+              {
+                "id": 874,
+                "title": {
+                  "ar": "شريط مستوى الصوت",
+                  "en": "Volume Bar",
+                  "he": "סרגל עוצמת קול"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/654f4d188b050649aad909e76de0c74d_oca_picture.jpg"
+              },
+              {
+                "id": 875,
+                "title": {
+                  "ar": "تحذيرات حزام الأمان المرئية",
+                  "en": "Seat Belt Visual Warnings",
+                  "he": "התראות חזותיות של חגורת בטיחות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0eea7e436cd9ecf1221572bd768f96cf_oca_picture.jpg"
+              },
+              {
+                "id": 876,
+                "title": {
+                  "ar": "تحذير حزام الأمان الأولي",
+                  "en": "Seat Belt Initial Warning",
+                  "he": "אזהרה ראשונית של חגורת בטיחות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/1e9f886ee51b0014551f73a8fa9050ec_oca_picture.jpg"
+              },
+              {
+                "id": 877,
+                "title": {
+                  "ar": "تحذيرات حزام الأمان الصوتية",
+                  "en": "Seat Belt Acoustic Warnings",
+                  "he": "התראות קוליות של חגורת בטיחות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2d0c07d8a9e9d36a2249a1131682b676_oca_picture.jpg"
+              },
+              {
+                "id": 878,
+                "title": {
+                  "ar": "خانة اختيار أضواء النهار",
+                  "en": "Daytime Running Lights Checkbox",
+                  "he": "תיבת סימון אורות יום"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/1b03c462f9d80dd9b3eb8f7ef4a723b1_oca_picture.jpg"
+              },
+              {
+                "id": 879,
+                "title": {
+                  "ar": "إيقاف الأضواء أثناء القيادة",
+                  "en": "Lights OFF while Driving",
+                  "he": "אורות כבויים בזמן נהיגה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/1023db0f823993a6ac7c03962b85af63_oca_picture.jpg"
+              },
+              {
+                "id": 880,
+                "title": {
+                  "ar": "حساسية أضواء الفرامل في حالات الطوارئ",
+                  "en": "Emergency Braking Lights Sensitivity",
+                  "he": "רגישות אורות בלם חירום"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/ff6286e8eeee48f3c9173f485bd2e547_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled peace of mind with the BMW 2 Series' enhanced Emergency Braking Lights Sensitivity.  This sophisticated system goes beyond standard hazard lights, employing advanced sensors to detect imminent braking situations, even at lower speeds or in challenging conditions like heavy rain or fog.  When hard braking is detected, the system instantly activates the hazard lights with increased intensity and frequency, significantly improving rearward visibility and alerting following drivers much sooner than conventional systems. This proactive measure dramatically reduces the risk of rear-end collisions, providing an extra layer of safety for you and other road users.  Our engineers have meticulously calibrated the sensitivity to minimize false activations while maximizing effectiveness, ensuring a seamless and reliable experience.  Don't just drive; drive confidently with the 2 Series' superior emergency braking light response."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 881,
+                "title": {
+                  "ar": "نغمة التحذير",
+                  "en": "Warning Tone",
+                  "he": "צליל אזהרה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/cc58459f6b696fedae4c4de866ba7e62_oca_picture.jpg"
+              },
+              {
+                "id": 882,
+                "title": {
+                  "ar": "إيقاف الأضواء في الوضع 0",
+                  "en": "Lights OFF in Position 0",
+                  "he": "אורות כבויים במצב 0"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fbdd50c79a88ce9024e9b02eee2ffcdb_oca_picture.jpg"
+              },
+              {
+                "id": 883,
+                "title": {
+                  "ar": "إشارات صوتية",
+                  "en": "Sound Signals",
+                  "he": "איתותי צליל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/58689f55e60e877c383aafc0ac2ce456_oca_picture.jpg"
+              },
+              {
+                "id": 884,
+                "title": {
+                  "ar": "شعار الديزل",
+                  "en": "Diesel Logo",
+                  "he": "לוגו דיזל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3e69efe9899b83803c43cbcdc897743f_oca_picture.jpg"
+              },
+              {
+                "id": 885,
+                "title": {
+                  "ar": "أضواء الخطر بعد الفرملة الطارئة",
+                  "en": "Hazard Lights after Emergency Braking",
+                  "he": "אורות חירום לאחר בלימת חירום"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/5917abb6e210ac190d1c5b0d00edf634_oca_picture.jpg"
+              },
+              {
+                "id": 886,
+                "title": {
+                  "ar": "شعار لوحة العدادات بنمط M View",
+                  "en": "M View Cluster Logo",
+                  "he": "לוגו תצוגת M בלוח המחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c8839ec1cb2fb71c7825c6228cc8a3a1_oca_picture.jpg"
+              },
+              {
+                "id": 887,
+                "title": {
+                  "ar": "ذاكرة التشغيل/الإيقاف",
+                  "en": "Start/Stop Memory",
+                  "he": "זיכרון התנעה/עצירה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/cbaab732ffeea18ab07cc27b8fae97ee_oca_picture.jpg"
+              },
+              {
+                "id": 888,
+                "title": {
+                  "ar": "سعة البطارية",
+                  "en": "Battery Capacity",
+                  "he": "קיבולת סוללה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0239dd20ce801b894b0f6e2f3251a516_oca_picture.jpg"
+              },
+              {
+                "id": 889,
+                "title": {
+                  "ar": "الحد الأقصى لمستوى الصوت",
+                  "en": "Maximum Volume",
+                  "he": "עוצמת קול מקסימלית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d4a8c7d87179af7df7f76789b3d6ae91_oca_picture.jpg"
+              },
+              {
+                "id": 890,
+                "title": {
+                  "ar": "تحذير مؤقت لانخفاض الوقود",
+                  "en": "Temporary Low Fuel Warning",
+                  "he": "התראת דלק נמוך זמנית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/bcea307be13d79bb32669ee02849a211_oca_picture.jpg"
+              },
+              {
+                "id": 891,
+                "title": {
+                  "ar": "سلامة النوافذ الكهربائية",
+                  "en": "Power Windows Safety",
+                  "he": "בטיחות חלונות חשמל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/bcd39f18a96e33f22c4bdbff7e8ad905_oca_picture.jpg"
+              },
+              {
+                "id": 892,
+                "title": {
+                  "ar": "تحذير دائم لانخفاض الوقود",
+                  "en": "Permanent Low Fuel Warning",
+                  "he": "התראת דלק נמוך קבועה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a1a24aa519ee8d1851f63532bddb5235_oca_picture.jpg"
+              },
+              {
+                "id": 893,
+                "title": {
+                  "ar": "مسافة ACC الافتراضية",
+                  "en": "ACC Default Distance",
+                  "he": "מרחק ברירת מחדל של ACC"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/185e7f90950c8455a7bdd05fcc5afc5d_oca_picture.jpg"
+              },
+              {
+                "id": 894,
+                "title": {
+                  "ar": "الملاحة في HUD",
+                  "en": "Navigation in HUD",
+                  "he": "ניווט ב-HUD"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7b4fcd086f8fd5d532f776c5500d3f23_oca_picture.jpg"
+              },
+              {
+                "id": 895,
+                "title": {
+                  "ar": "القفل التلقائي",
+                  "en": "Auto Locking",
+                  "he": "נעילה אוטומטית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/bb423a0d85736ba30b261c572f086ff0_oca_picture.jpg"
+              },
+              {
+                "id": 896,
+                "title": {
+                  "ar": "خانة اختيار القفل التلقائي",
+                  "en": "Auto Locking Checkbox",
+                  "he": "תיבת סימון נעילה אוטומטית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/023cab4e5be25c1462d2e28067c3a351_oca_picture.jpg"
+              },
+              {
+                "id": 897,
+                "title": {
+                  "ar": "شعار مفتاح العرض",
+                  "en": "Display Key Logo",
+                  "he": "לוגו מפתח תצוגה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c698a30d46e0624df271dd7d7568fbe7_oca_picture.jpg"
+              },
+              {
+                "id": 898,
+                "title": {
+                  "ar": "نمط جسم السيارة",
+                  "en": "Vehicle Body Style",
+                  "he": "סגנון מרכב רכב"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/deb68388a3ebb3589397949c42e02d98_oca_picture.jpg"
+              },
+              {
+                "id": 899,
+                "title": {
+                  "ar": "إعداد التشغيل/الإيقاف الافتراضي",
+                  "en": "Start/Stop Default Setting",
+                  "he": "הגדרת ברירת מחדל של התנעה/עצירה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3aa388e8f3161795f9d5144b36dbae83_oca_picture.jpg"
+              },
+              {
+                "id": 900,
+                "title": {
+                  "ar": "معدل تحديث عداد السرعة الرقمي",
+                  "en": "Digital Speedometer Refresh Rate",
+                  "he": "קצב רענון מד מהירות דיגיטלי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3f31daea0cda8099111b68c6b7a70e84_oca_picture.jpg"
+              },
+              {
+                "id": 901,
+                "title": {
+                  "ar": "القيمة القصوى لمقياس G",
+                  "en": "G-Meter Max Value",
+                  "he": "ערך מקסימלי של מד G"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/4c48ff5c69e329506a4012b0dc4a730b_oca_picture.jpg"
+              },
+              {
+                "id": 902,
+                "title": {
+                  "ar": "شاشات رياضية في HUD",
+                  "en": "Sport Displays in HUD",
+                  "he": "תצוגות ספורט ב-HUD"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/ee75108966a251c2a389c442a269982a_oca_picture.jpg"
+              },
+              {
+                "id": 903,
+                "title": {
+                  "ar": "أضواء نقل الحركة M",
+                  "en": "M Shift Lights",
+                  "he": "נורות העברת הילוכים M"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/18c00b6412884bde36ed6e1c25132c83_oca_picture.jpg"
+              },
+              {
+                "id": 904,
+                "title": {
+                  "ar": "الوسائط المتعددة بنمط MINI",
+                  "en": "MINI Style Multimedia",
+                  "he": "מולטימדיה בסגנון MINI"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/51151bca6058c6a53f985d81ea9527b3_oca_picture.jpg"
+              },
+              {
+                "id": 905,
+                "title": {
+                  "ar": "الوسائط المتعددة بنمط تويوتا سوبرا",
+                  "en": "Toyota Supra Style Multimedia",
+                  "he": "מולטימדיה בסגנון טויוטה סופרה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7208b91bddd7baa8ae207b2fc41f7e3c_oca_picture.jpg"
+              },
+              {
+                "id": 906,
+                "title": {
+                  "ar": "قائمة الموسيقى في HUD",
+                  "en": "Music List in HUD",
+                  "he": "רשימת מוזיקה ב-HUD"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b5ac34679daecd17558f589fac070230_oca_picture.jpg"
+              },
+              {
+                "id": 907,
+                "title": {
+                  "ar": "تغيير تردد الراديو",
+                  "en": "Radio Frequency Change",
+                  "he": "שינוי תדר רדיו"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c285204fc87c593a7e3722271cc2290d_oca_picture.jpg"
+              },
+              {
+                "id": 908,
+                "title": {
+                  "ar": "تجهيز نظام الوقود",
+                  "en": "Fuel System Priming",
+                  "he": "הכנת מערכת דלק"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/dc54c0c765d19a1ad301dec59461b6a7_oca_picture.jpg"
+              },
+              {
+                "id": 909,
+                "title": {
+                  "ar": "إغلاق صمام العادم",
+                  "en": "Exhaust Flap Close",
+                  "he": "סגירת דש פליטה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7c53f6bf8c5a96248bc231f5ac37fa8a_oca_picture.jpg"
+              },
+              {
+                "id": 910,
+                "title": {
+                  "ar": "فتح صمام العادم",
+                  "en": "Exhaust Flap Open",
+                  "he": "פתיחת דש פליטה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/304bda846f9e6e39fde828aa12d709be_oca_picture.jpg"
+              },
+              {
+                "id": 911,
+                "title": {
+                  "ar": "صفارة عند إغلاق صندوق الأمتعة عبر مفتاح التحكم عن بعد",
+                  "en": "Beeper when Closing Trunk via Key Fob",
+                  "he": "צפצוף בעת סגירת תא מטען דרך שלט רכב"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/862f3dbe545e7fa587bc12bddc502ce1_oca_picture.jpg"
+              },
+              {
+                "id": 912,
+                "title": {
+                  "ar": "صفارة عند إغلاق صندوق الأمتعة عبر الزر الداخلي",
+                  "en": "Beeper when Closing Trunk via Interior Button",
+                  "he": "צפצוף בעת סגירת תא מטען דרך כפתור פנימי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/e0a587379a9916e2031bd24610c33bab_oca_picture.jpg"
+              },
+              {
+                "id": 913,
+                "title": {
+                  "ar": "إغلاق صندوق الأمتعة عبر مفتاح التحكم عن بعد",
+                  "en": "Trunk Closing via Key Fob",
+                  "he": "סגירת תא מטען באמצעות שלט רכב"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b6164e9a99e1bc83a3e69991c15472c2_oca_picture.jpg"
+              },
+              {
+                "id": 914,
+                "title": {
+                  "ar": "إغلاق صندوق الأمتعة عبر الزر الداخلي",
+                  "en": "Trunk Closing via Interior Button",
+                  "he": "סגירת תא מטען באמצעות כפתור פנימי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2ce4c43001bc49b306802be4ef86bb60_oca_picture.jpg"
+              },
+              {
+                "id": 915,
+                "title": {
+                  "ar": "زر صندوق الأمتعة بمفتاح التحكم عن بعد عند الإغلاق",
+                  "en": "Key Fob Trunk Button when Closing",
+                  "he": "כפתור תא מטען בשלט רכב בעת סגירה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/cdc01f573f8b6ddea9edc90b78d16a79_oca_picture.jpg"
+              },
+              {
+                "id": 916,
+                "title": {
+                  "ar": "إلغاء تنشيط وضع خدمة EPB",
+                  "en": "EPB Service Mode Deactivation",
+                  "he": "ביטול מצב שירות EPB"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/ba3c2e39371f0ec6cc525ffaf47412e5_oca_picture.jpg"
+              },
+              {
+                "id": 917,
+                "title": {
+                  "ar": "تفعيل وضع خدمة EPB",
+                  "en": "EPB Service Mode Activation",
+                  "he": "הפעלת מצב שירות EPB"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b713ed748cbb39e18a79a32c93daae93_oca_picture.jpg"
+              },
+              {
+                "id": 918,
+                "title": {
+                  "ar": "عرض السرعة الرقمية في OBC",
+                  "en": "Digital Speed Display in OBC",
+                  "he": "תצוגת מהירות דיגיטלית במחשב דרך"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/89175d8d458af951210147e4ce57a205_oca_picture.jpg"
+              },
+              {
+                "id": 919,
+                "title": {
+                  "ar": "قيود مساعد الازدحام المروري",
+                  "en": "Traffic Jam Assistant Restrictions",
+                  "he": "הגבלות סיוע בפקקים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/23657c119d2afa106243559fc044755a_oca_picture.jpg"
+              },
+              {
+                "id": 920,
+                "title": {
+                  "ar": "إلغاء تنشيط عطل الميكروفون",
+                  "en": "Microphone Fault Deactivation",
+                  "he": "ביטול תקלת מיקרופון"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/da48ef076ec132a0bb23f05eae9986ab_oca_picture.jpg"
+              },
+              {
+                "id": 921,
+                "title": {
+                  "ar": "فتح القفل التلقائي",
+                  "en": "Auto Unlocking",
+                  "he": "פתיחת נעילה אוטומטית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/f589aa8102837ddd82734e1a12d29ab6_oca_picture.jpg"
+              },
+              {
+                "id": 922,
+                "title": {
+                  "ar": "المصابيح الأمامية المقاومة للوهج",
+                  "en": "Anti-dazzle Headlights",
+                  "he": "פנסים נגד סנוור"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/af26db2195df8d0ba850b7c9944b7ee8_oca_picture.jpg"
+              },
+              {
+                "id": 923,
+                "title": {
+                  "ar": "سرعة مساعد الازدحام المروري ميل/ساعة",
+                  "en": "Traffic Jam Assistant Speed MPH",
+                  "he": "מהירות סיוע בפקקים מייל/שעה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/69882440612f31f8f731603248e6b980_oca_picture.jpg"
+              },
+              {
+                "id": 924,
+                "title": {
+                  "ar": "سرعة مساعد الازدحام المروري كيلومتر/ساعة",
+                  "en": "Traffic Jam Assistant Speed KMH",
+                  "he": "מהירות סיוע בפקקים קמ\"ש"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/aa1f0da516f3503047daa93a93971a58_oca_picture.jpg"
+              },
+              {
+                "id": 925,
+                "title": {
+                  "ar": "إصلاح إعدادات الوقت",
+                  "en": "Time Settings Fix",
+                  "he": "תיקון הגדרות זמן"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b895d8a9528d35d5338be99b88a8057d_oca_picture.jpg"
+              },
+              {
+                "id": 926,
+                "title": {
+                  "ar": "التحكم النشط بستارة المبرد",
+                  "en": "Active Radiator Blind Control",
+                  "he": "בקרת תריס רדיאטור אקטיבית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b56e788757b70fdd30578b2210cc2f7b_oca_picture.jpg"
+              },
+              {
+                "id": 927,
+                "title": {
+                  "ar": "فترة صيانة الزيت",
+                  "en": "Oil Maintenance Interval",
+                  "he": "מרווח טיפול שמן"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/231594e4a9f96021ad2e8747f4ccba3e_oca_picture.jpg"
+              },
+              {
+                "id": 928,
+                "title": {
+                  "ar": "حزمة اللغات الأوروبية",
+                  "en": "European Languages Package",
+                  "he": "חבילת שפות אירופאיות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fd268a566e68e841df6e50db102b8ada_oca_picture.jpg"
+              },
+              {
+                "id": 929,
+                "title": {
+                  "ar": "الأضواء عند الاقتراب/المغادرة",
+                  "en": "Lights when Approaching/Leaving",
+                  "he": "אורות בעת התקרבות/עזיבה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2b4518c735cadd7a4119cb3cee79227d_oca_picture.jpg"
+              },
+              {
+                "id": 930,
+                "title": {
+                  "ar": "اختبار أضواء التحذير من المخاطر",
+                  "en": "Hazard Warning Lights Test",
+                  "he": "בדיקת אורות אזהרה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/cfb3803de2dec9b1a488783080d303aa_oca_picture.jpg"
+              },
+              {
+                "id": 931,
+                "title": {
+                  "ar": "اختبار ضوء الضباب الأمامي",
+                  "en": "Front Fog Light Test ",
+                  "he": "בדיקת פנס ערפל קדמי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/5d5527d465db319a182ca639d90b6268_oca_picture.jpg"
+              },
+              {
+                "id": 932,
+                "title": {
+                  "ar": "اختبار ضوء الانعطاف الأمامي الأيسر",
+                  "en": "Front Left Cornering Light Test",
+                  "he": "בדיקת תאורת פנייה קדמית שמאלית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/493fa3fac5206ae7b50481c44e94ecc5_oca_picture.jpg"
+              },
+              {
+                "id": 933,
+                "title": {
+                  "ar": "اختبار ضوء الركن الخلفي الأيسر",
+                  "en": "Left Rear Parking Light Test",
+                  "he": "בדיקת פנס חניה אחורי שמאלי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/14615e0aee392db5cb6f82d186fb143c_oca_picture.jpg"
+              },
+              {
+                "id": 934,
+                "title": {
+                  "ar": "اختبار أضواء القيادة النهارية",
+                  "en": "Daytime Driving Lights Test ",
+                  "he": "בדיקת אורות נהיגה יום"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/073357562373dd998594953c0c3dba7d_oca_picture.jpg"
+              },
+              {
+                "id": 935,
+                "title": {
+                  "ar": "وضع عرض الأضواء",
+                  "en": "Lights Showmode",
+                  "he": "מצב הדגמת אורות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/19a185c958c012dc5ddf285f3b922dd8_oca_picture.jpg"
+              },
+              {
+                "id": 936,
+                "title": {
+                  "ar": "اختبار أضواء الفرامل ذات المرحلتين",
+                  "en": "Two Stage Brake Lights Test ",
+                  "he": "בדיקת פנסי בלם דו-שלביים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/14ad7c498622481f89900e2fa332fcf1_oca_picture.jpg"
+              },
+              {
+                "id": 937,
+                "title": {
+                  "ar": "اختبار أضواء الشعاع العالي",
+                  "en": "High Beam Lights Test ",
+                  "he": "בדיקת אורות דרך גבוהים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/65a31daff776af15806c200a000a4484_oca_picture.jpg"
+              },
+              {
+                "id": 938,
+                "title": {
+                  "ar": "اختبار ضوء الانعطاف الأمامي الأيمن",
+                  "en": "Front Right Cornering Light Test",
+                  "he": "בדיקת תאורת פנייה קדמית ימנית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/91882a1eff84c94fcf215c4d8473c8ca_oca_picture.jpg"
+              },
+              {
+                "id": 939,
+                "title": {
+                  "ar": "اختبار ضوء الركن الخلفي الأيمن",
+                  "en": "Right Rear Parking Light Test ",
+                  "he": "בדיקת פנס חניה אחורי ימני"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d25ea4c0bd7fd1b1b74b29d5b602353d_oca_picture.jpg"
+              },
+              {
+                "id": 940,
+                "title": {
+                  "ar": "اختبار أضواء الشعاع المنخفض",
+                  "en": "Low Beam Lights Test",
+                  "he": "בדיקת אורות דרך נמוכים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/5545ee6a7d57129cf7dfa33630df2f1a_oca_picture.jpg"
+              },
+              {
+                "id": 941,
+                "title": {
+                  "ar": "تدفئة/تبريد المقاعد التلقائي",
+                  "en": "Automatic Seats Heating/Cooling",
+                  "he": "חימום/קירור מושבים אוטומטי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2c66de0816cac2d034584ab5ce63bb46_oca_picture.jpg"
+              },
+              {
+                "id": 942,
+                "title": {
+                  "ar": "ذاكرة تدفئة/تبريد المقاعد",
+                  "en": "Seats Heating/Cooling Memory",
+                  "he": "זיכרון חימום/קירור מושבים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3bc5584b31e29dafb299a32a307548c1_oca_picture.jpg"
+              },
+              {
+                "id": 943,
+                "title": {
+                  "ar": "ذاكرة تدفئة عجلة القيادة",
+                  "en": "Steering Wheel Heating Memory",
+                  "he": "זיכרון חימום הגה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/9e95004485d6b6cd683b4d73b4b6ca1b_oca_picture.jpg"
+              },
+              {
+                "id": 944,
+                "title": {
+                  "ar": "نوع طراز مكبر الصوت",
+                  "en": "Amplifier Model Variant",
+                  "he": "וריאנט דגם מגבר"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d659914c09ffea6c8d9887d926c9604d_oca_picture.jpg"
+              },
+              {
+                "id": 945,
+                "title": {
+                  "ar": "تحذيرات فتح الباب متوقفة",
+                  "en": "Open Door Warnings OFF",
+                  "he": "התראות דלת פתוחה כבויות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/08ba48d51249fbf9fc3310e292855351_oca_picture.jpg"
+              },
+              {
+                "id": 946,
+                "title": {
+                  "ar": "تحذيرات لوحة العدادات متوقفة",
+                  "en": "Instrument Cluster Warnings OFF",
+                  "he": "התראות לוח מחוונים כבויות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/ea033cd24bc31095a275d5bb2c844fd9_oca_picture.jpg"
+              },
+              {
+                "id": 947,
+                "title": {
+                  "ar": "تحذير انخفاض الوقود متوقف",
+                  "en": "Low Fuel Warning OFF",
+                  "he": "התראת דלק נמוך כבויה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c76ec76f470720704be9e184ce5a42e0_oca_picture.jpg"
+              },
+              {
+                "id": 948,
+                "title": {
+                  "ar": "تحذير الخدمة متوقف",
+                  "en": "Service Warning OFF",
+                  "he": "התראת שירות כבויה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/cd8eaf9b9f54eb197c05acfadb9c1f4b_oca_picture.jpg"
+              },
+              {
+                "id": 949,
+                "title": {
+                  "ar": "تحذيرات الوسادة الهوائية متوقفة",
+                  "en": "Airbag Warnings OFF",
+                  "he": "התראות כרית אוויר כבויות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0dc6785a0b0ef3144d321aa734d9c058_oca_picture.jpg"
+              },
+              {
+                "id": 950,
+                "title": {
+                  "ar": "نوع البطارية",
+                  "en": "Battery Type",
+                  "he": "סוג מצבר"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3949b4aeec5a4010a1194f3b7af0cc1e_oca_picture.jpg"
+              },
+              {
+                "id": 951,
+                "title": {
+                  "ar": "مبدلات السرعة",
+                  "en": "Paddle Shifters",
+                  "he": "הגה עם העברת הילוכים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3c15688aec08ff7a526d1a00d89090b6_oca_picture.jpg"
+              },
+              {
+                "id": 952,
+                "title": {
+                  "ar": "إعادة ضبط سائل الفرامل",
+                  "en": "Brake Fluid Reset",
+                  "he": "איפוס נוזל בלמים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg"
+              },
+              {
+                "id": 953,
+                "title": {
+                  "ar": "إعادة ضبط زيت المحرك",
+                  "en": "Engine Oil Reset",
+                  "he": "איפוס שמן מנוע"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg"
+              },
+              {
+                "id": 954,
+                "title": {
+                  "ar": "إعادة ضبط وسادات الفرامل الأمامية",
+                  "en": "Front Brake Pads Reset",
+                  "he": "איפוס רפידות בלם קדמיות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg"
+              },
+              {
+                "id": 955,
+                "title": {
+                  "ar": "إعادة ضبط وسادات الفرامل الخلفية",
+                  "en": "Rear Brake Pads Reset",
+                  "he": "איפוס רפידות בלם אחוריות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg"
+              },
+              {
+                "id": 956,
+                "title": {
+                  "ar": "إعادة ضبط فحص السيارة",
+                  "en": "Vehicle Check Reset",
+                  "he": "איפוס בדיקת רכב"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg"
+              },
+              {
+                "id": 957,
+                "title": {
+                  "ar": "شاشات عرض رياضية",
+                  "en": "Sport Displays",
+                  "he": "תצוגות ספורט"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg"
+              },
+              {
+                "id": 958,
+                "title": {
+                  "ar": "فيديو أثناء الحركة",
+                  "en": "Video in Motion",
+                  "he": "וידאו בתנועה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg"
+              },
+              {
+                "id": 959,
+                "title": {
+                  "ar": "عرض خطاف السحب",
+                  "en": "Tow Hitch Display",
+                  "he": "תצוגת וו גרירה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg"
+              },
+              {
+                "id": 960,
+                "title": {
+                  "ar": "5 مرات إشارات انعطاف مريحة",
+                  "en": "5 Times Comfort Turn Signals",
+                  "he": "5 הבהובים נוחים לאיתות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg"
+              },
+              {
+                "id": 961,
+                "title": {
+                  "ar": "رسوم متحركة لشعار M عند بدء التشغيل",
+                  "en": "M Logo Startup Animation",
+                  "he": "אנימציית הפעלה של לוגו M"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c6084ab451c88bc8ef157eb3c16c83d8_oca_picture.jpg"
+              },
+              {
+                "id": 962,
+                "title": {
+                  "ar": "نمط M لشاشة العدادات",
+                  "en": "M View Style Cluster",
+                  "he": "סגנון תצוגת M בלוח המחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/f8030b56910a732fe26c7d2fc3a6e2a9_oca_picture.jpg"
+              },
+              {
+                "id": 963,
+                "title": {
+                  "ar": "وضع القيادة الافتراضي",
+                  "en": "Default Driving Mode",
+                  "he": "מצב נהיגה ברירת מחדל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
+              }
+            ]
           },
           {
             "value": "g31",
