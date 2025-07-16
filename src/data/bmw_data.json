@@ -5663,6 +5663,24 @@
                   "he": "הגה עם העברת הילוכים"
                 },
                 "image_url": "https://storage.obdeleven.com/parse/3c15688aec08ff7a526d1a00d89090b6_oca_picture.jpg"
+              },
+              {
+                "id": 1110,
+                "title": {
+                  "en": "Brake Fluid Reset",
+                  "ar": "إعادة ضبط سائل الفرامل",
+                  "he": "איפוס נוזל בלמים"
+                },
+                "description": {
+                  "en": "Experience peak braking performance with the 2 Series' innovative Brake Fluid Reset feature.  This isn't just a routine maintenance item; it's a crucial component of ensuring consistent, reliable stopping power.  After a brake fluid change, the Brake Fluid Reset function precisely calibrates the advanced braking system, optimizing its sensitivity and response time. This ensures optimal braking efficiency, shorter stopping distances, and enhanced driver confidence, particularly in demanding driving conditions.  Don't compromise on safety; utilize the Brake Fluid Reset function for a superior and secure driving experience every time.  This seamless integration allows for a quick and easy reset, putting you back on the road with complete confidence in your braking system’s precision and reliability. Properly resetting your brake fluid after a change is essential for maintaining the peak performance and safety features of your BMW 2 Series.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                },
+                "price": "",
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg"
               }
             ]
           },
