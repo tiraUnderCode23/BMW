@@ -4026,12 +4026,2084 @@
           {
             "value": "f30",
             "text": "F30",
-            "activations": []
+            "activations": [
+              {
+                "id": 1295,
+                "title": {
+                  "ar": "تفعيل وضع الرياضة الفردي",
+                  "en": "Activate Individual Sport Mode",
+                  "he": "הפעלת מצב ספורט אישי"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1296,
+                "title": {
+                  "ar": "تفعيل إغلاق النوافذ من المفتاح",
+                  "en": "Activate Window Closing from Key",
+                  "he": "הפעלת סגירת חלונות מהמפתח"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/e311254b0aa70298eed3d3173c86999e_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1297,
+                "title": {
+                  "ar": "تفعيل فتح صندوق الأمتعة من المفتاح",
+                  "en": "Activate Trunk Opening from Key",
+                  "he": "הפעלת פתיחת תא מטען מהמפתח"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1298,
+                "title": {
+                  "ar": "تفعيل وظيفة الترحيب الضوئي",
+                  "en": "Activate Welcome Light Function",
+                  "he": "הפעלת פונקציית תאורת קבלת פנים"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/8722d3c8cc595754444c10f2b88896c9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1299,
+                "title": {
+                  "ar": "تفعيل عرض معلومات المحرك",
+                  "en": "Activate Engine Information Display",
+                  "he": "הפעלת תצוגת מידע מנוע"
+                },
+                "price": "130",
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1300,
+                "title": {
+                  "ar": "5 ومضات لإشارة الانعطاف المريحة",
+                  "en": "5 Times Comfort Turn Signals",
+                  "he": "5 הבהובים לאיתות נוחות"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1301,
+                "title": {
+                  "ar": "وضع القيادة الافتراضي",
+                  "en": "Default Driving Mode",
+                  "he": "מצב נהיגה ברירת מחדל"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1302,
+                "title": {
+                  "ar": "صوت بوق عند القفل",
+                  "en": "Horn on Secure",
+                  "he": "צפצוף בנעילה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1303,
+                "title": {
+                  "ar": "عرض ضغط ودرجة حرارة الإطارات",
+                  "en": "TPMS Pressure and Temperature Display",
+                  "he": "תצוגת לחץ וטמפרטורת צמיגים"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/750b6938e0867d44071bbc032182c8cd_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1304,
+                "title": {
+                  "ar": "تحذيرات iDrive",
+                  "en": "iDrive Warnings",
+                  "he": "התראות iDrive"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/66b0c574cd714768234e1a7a15d798cb_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1305,
+                "title": {
+                  "ar": "مصابيح ضباب أمامية مع الضوء العالي",
+                  "en": "Front Fog Lights w/ High Beams",
+                  "he": "פנסי ערפל קדמיים עם אור גבוה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/a06b85fa78830e85946ef8354f02a95c_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1306,
+                "title": {
+                  "ar": "مصابيح ضباب أمامية مع أضواء الوقوف",
+                  "en": "Front Fog Lights w/ Parking Lights",
+                  "he": "פנסי ערפל קדמיים עם אורות חניה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1307,
+                "title": {
+                  "ar": "وضع Sport+",
+                  "en": "Sport+ Mode",
+                  "he": "מצב Sport+"
+                },
+                "price": "150",
+                "image_url": "https://storage.obdeleven.com/parse/c75546901cd815e8400b4c9e57c8fbda_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1308,
+                "title": {
+                  "ar": "عرض X-View",
+                  "en": "X-View Display",
+                  "he": "תצוגת X-View"
+                },
+                "price": "140",
+                "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1309,
+                "title": {
+                  "ar": "عرض ضغط الإطارات في لوحة العدادات",
+                  "en": "Tire Pressure Display in Dashboard",
+                  "he": "תצוגת לחץ אוויר בצמיגים בלוח המחוונים"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1310,
+                "title": {
+                  "ar": "عرض مقياس السرعة",
+                  "en": "Speedometer Scale Display",
+                  "he": "תצוגת סקאלת מהירות"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1311,
+                "title": {
+                  "ar": "حساسية مستشعر المطر/الضوء",
+                  "en": "RLS Sensitivity",
+                  "he": "רגישות חיישן גשם/אור"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/2e9a187ad3e4975457c828d32b265d00_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1312,
+                "title": {
+                  "ar": "ذاكرة تدفئة/تبريد المقاعد",
+                  "en": "Seats Heating/Cooling Memory",
+                  "he": "זיכרון חימום/קירור מושבים"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3bc5584b31e29dafb299a32a307548c1_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1313,
+                "title": {
+                  "ar": "وقت القفل الذاتي",
+                  "en": "Self Locking Time",
+                  "he": "זמן נעילה עצמית"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/017f0cfdfafb6470f1d675974345b4b9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1314,
+                "title": {
+                  "ar": "أمان النوافذ الأمامية الكهربائية",
+                  "en": "Power Front Windows Safety",
+                  "he": "בטיחות חלונות קדמיים חשמליים"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/2605b25bfe3bf986a09a12dd6ccbafe2_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1315,
+                "title": {
+                  "ar": "أضواء فرامل الطوارئ",
+                  "en": "Emergency Braking Lights",
+                  "he": "אורות בלימת חירום"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/b550b5057a30ee8204ffd16ec8a730e9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1316,
+                "title": {
+                  "ar": "أضواء لوحة الترخيص LED",
+                  "en": "LED License Plate Lights",
+                  "he": "תאורת LED ללוחית רישוי"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/be7c9596369c14bf9a35bce7a9634dff_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1317,
+                "title": {
+                  "ar": "عرض القيادة المساعدة",
+                  "en": "Assisted Driving View",
+                  "he": "מצב נהיגה מסייעת"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/164733e1175a7eab139864fbfd94e301_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1318,
+                "title": {
+                  "ar": "تأكيد الفتح الصوتي",
+                  "en": "Acoustic Unlock Confirmation",
+                  "he": "אישור פתיחה אקוסטי"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/daad8bd4bd769adee75ba9f287b93766_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1319,
+                "title": {
+                  "ar": "تسجيل بطارية 12V",
+                  "en": "12V Battery Registration",
+                  "he": "רישום מצבר 12V"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1320,
+                "title": {
+                  "ar": "تدفئة عجلة القيادة التلقائية",
+                  "en": "Automatic Steering Wheel Heating",
+                  "he": "חימום הגה אוטומטי"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/fa73e81d4d099184693965f006cedf88_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1321,
+                "title": {
+                  "ar": "إضاءة محيطة بدلاً من البرونزي",
+                  "en": "Ambient Lighting Instead of Bronze",
+                  "he": "תאורת אווירה במקום ברונזה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/2f4d0c62ee132453ff0bced6d80618c8_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1322,
+                "title": {
+                  "ar": "لون محيطي بدلاً من البرونزي",
+                  "en": "Ambient Color Instead of Bronze",
+                  "he": "צבע אווירה במקום ברונזה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/26e104be19815c2325202b469119bac7_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1323,
+                "title": {
+                  "ar": "إغلاق عند المطر",
+                  "en": "Rain Closing",
+                  "he": "סגירה בגשם"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/36d4dc3fa8e848c0d6a2f74f26733a39_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1324,
+                "title": {
+                  "ar": "أضواء نهارية اسكندنافية",
+                  "en": "Scandinavian DRLs",
+                  "he": "תאורת יום סקנדינבית"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/8722d3c8cc595754444c10f2b88896c9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1325,
+                "title": {
+                  "ar": "قائمة تذكير أحزمة الأمان الخلفية",
+                  "en": "Rear Seat Belts Reminder Menu",
+                  "he": "תפריט תזכורת חגורות בטיחות אחוריות"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/5c692f5330b674a618b7afa3604add04_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1326,
+                "title": {
+                  "ar": "إلغاء تفعيل تصميم الصوت النشط",
+                  "en": "Active Sound Design Deactivation",
+                  "he": "ביטול עיצוב סאונד אקטיבי"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/159a4022221dacd99df5556dead2d5bb_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1327,
+                "title": {
+                  "ar": "وضع الانزلاق ECO PRO",
+                  "en": "ECO PRO Coasting Mode",
+                  "he": "מצב גלישה ECO PRO"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/40b747b342a0e62a4cb41e010cbd8b3c_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1328,
+                "title": {
+                  "ar": "وضع Comfort+",
+                  "en": "Comfort+ Mode",
+                  "he": "מצב Comfort+"
+                },
+                "price": "130",
+                "image_url": "https://storage.obdeleven.com/parse/c4e5ef27ac26d52bc4fc01c0be79da6e_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1329,
+                "title": {
+                  "ar": "اختبار أضواء الفرامل",
+                  "en": "Brake Lights Test",
+                  "he": "בדיקת אורות בלם"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/79c83239c057fff25d0ffc0290e44f83_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1330,
+                "title": {
+                  "ar": "اختبار أضواء الرجوع للخلف",
+                  "en": "Reversing Lights Test",
+                  "he": "בדיקת אורות רוורס"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/44ecec72499c9f1c68a9bbd6381c4577_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1331,
+                "title": {
+                  "ar": "اختبار مضخة غسيل الزجاج الأمامي",
+                  "en": "Windscreen Washer Pump Test",
+                  "he": "בדיקת משאבת שטיפת שמשות"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/98e61f5539a545cfede9847ac8f79d3a_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1332,
+                "title": {
+                  "ar": "اختبار فتح وإغلاق ستارة المبرد",
+                  "en": "Radiator Blind Opening and Closing",
+                  "he": "בדיקת פתיחה וסגירה של תריס הרדיאטור"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/191ec48271def6879338a979daa8a382_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1333,
+                "title": {
+                  "ar": "اختبار اهتزاز عجلة القيادة",
+                  "en": "Steering Wheel Vibration Test",
+                  "he": "בדיקת רטט הגה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/05671bc403200ee80861cd573d2f049b_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1334,
+                "title": {
+                  "ar": "اختبار مروحة المحرك",
+                  "en": "Engine Fan Test",
+                  "he": "בדיקת מאוורר מנוע"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/695fd1be4b24dfd3b5222090d16f520a_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1335,
+                "title": {
+                  "ar": "اختبار البوق",
+                  "en": "Horn Test",
+                  "he": "بديقت البوق"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/25004774a9c5fa633d3660c65c76ece0_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1336,
+                "title": {
+                  "ar": "اختبار أضواء الضباب الخلفية",
+                  "en": "Rear Fog Lights Test",
+                  "he": "بديقت فوانيس الضباب الخلفية"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/91efcacfe9b197171c786f359ca28c20_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1337,
+                "title": {
+                  "ar": "فحص المصابيح الأمامية",
+                  "en": "Headlights Check",
+                  "he": "فحص المصابيح الأمامية"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/f0169c9a66aeaa3564a54473b65c9039_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1338,
+                "title": {
+                  "ar": "اختبار أضواء لوحة العدادات",
+                  "en": "Instrument Cluster Lights Test",
+                  "he": "بديقت أضواء لوحة العدادات"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/06b677511a8683a43e283a03c7bb6f50_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1339,
+                "title": {
+                  "ar": "فحص نظام الاتصال الطارئ SOS",
+                  "en": "SOS Emergency Call System Check",
+                  "he": "فحص نظام الاتصال الطارئ SOS"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/63c12ebda4e28525f79ced7e43280430_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1340,
+                "title": {
+                  "ar": "إعادة ضبط سائل الفرامل",
+                  "en": "Brake Fluid Reset",
+                  "he": "إعادة ضبط سائل الفرامل"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1341,
+                "title": {
+                  "ar": "إعادة ضبط زيت المحرك",
+                  "en": "Engine Oil Reset",
+                  "he": "إعادة ضبط زيت المحرك"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1342,
+                "title": {
+                  "ar": "إعادة ضبط تيل الفرامل الأمامية",
+                  "en": "Front Brake Pads Reset",
+                  "he": "إعادة ضبط تيل الفرامل الأمامية"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1343,
+                "title": {
+                  "ar": "إعادة ضبط تيل الفرامل الخلفية",
+                  "en": "Rear Brake Pads Reset",
+                  "he": "إعادة ضبط تيل الفرامل الخلفية"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1344,
+                "title": {
+                  "ar": "إعادة ضبط فحص السيارة",
+                  "en": "Vehicle Check Reset",
+                  "he": "إعادة ضبط فحص السيارة"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1345,
+                "title": {
+                  "ar": "شاشات العرض الرياضية",
+                  "en": "Sport Displays",
+                  "he": "شاشات العرض الرياضية"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1346,
+                "title": {
+                  "ar": "فيديو أثناء القيادة",
+                  "en": "Video in Motion",
+                  "he": "فيديو أثناء القيادة"
+                },
+                "price": "180",
+                "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1347,
+                "title": {
+                  "ar": "عرض وصلة الجر",
+                  "en": "Tow Hitch Display",
+                  "he": "عرض وصلة الجر"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1348,
+                "title": {
+                  "ar": "وظائف الراحة عبر Comfort Access",
+                  "en": "Comfort Operation via CA",
+                  "he": "وظائف الراحة عبر Comfort Access"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/16ac1f179b8edc90c11b1fefbb611c33_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1349,
+                "title": {
+                  "ar": "لون شاشات العرض الرياضية",
+                  "en": "Sport Displays Color",
+                  "he": "لون شاشات العرض الرياضية"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/45f535c8fd75cdbea9656621b9a3a7c9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1350,
+                "title": {
+                  "ar": "الصوت الأقصى",
+                  "en": "Maximum Volume",
+                  "he": "الصوت الأقصى"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/d4a8c7d87179af7df7f76789b3d6ae91_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1351,
+                "title": {
+                  "ar": "نمط قائمة NBT EVO",
+                  "en": "NBT EVO Menu Style",
+                  "he": "نمط قائمة NBT EVO"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/265862d2f2fdcd1ae6689152080e9f8d_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              }
+            ]
           },
           {
             "value": "f31",
             "text": "F31",
-            "activations": []
+            "activations": [
+              {
+                "id": 1352,
+                "title": {
+                  "ar": "تفعيل وضع الرياضة الفردي",
+                  "en": "Activate Individual Sport Mode",
+                  "he": "הפעלת מצב ספורט אישי"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1353,
+                "title": {
+                  "ar": "تفعيل إغلاق النوافذ من المفتاح",
+                  "en": "Activate Window Closing from Key",
+                  "he": "הפעלת סגירת חלונות מהמפתח"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/e311254b0aa70298eed3d3173c86999e_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1354,
+                "title": {
+                  "ar": "تفعيل فتح صندوق الأمتعة من المفتاح",
+                  "en": "Activate Trunk Opening from Key",
+                  "he": "הפעלת פתיחת תא מטען מהמפתח"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1355,
+                "title": {
+                  "ar": "تفعيل وظيفة الترحيب الضوئي",
+                  "en": "Activate Welcome Light Function",
+                  "he": "הפעלת פונקציית תאורת קבלת פנים"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/8722d3c8cc595754444c10f2b88896c9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1356,
+                "title": {
+                  "ar": "تفعيل عرض معلومات المحرك",
+                  "en": "Activate Engine Information Display",
+                  "he": "הפעלת תצוגת מידע מנוע"
+                },
+                "price": "130",
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1357,
+                "title": {
+                  "ar": "5 ومضات لإشارة الانعطاف المريحة",
+                  "en": "5 Times Comfort Turn Signals",
+                  "he": "5 הבהובים לאיתות נוחות"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1358,
+                "title": {
+                  "ar": "وضع القيادة الافتراضي",
+                  "en": "Default Driving Mode",
+                  "he": "מצב נהיגה ברירת מחדל"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1359,
+                "title": {
+                  "ar": "صوت بوق عند القفل",
+                  "en": "Horn on Secure",
+                  "he": "צפצוף בנעילה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1360,
+                "title": {
+                  "ar": "عرض ضغط ودرجة حرارة الإطارات",
+                  "en": "TPMS Pressure and Temperature Display",
+                  "he": "תצוגת לחץ וטמפרטורת צמיגים"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/750b6938e0867d44071bbc032182c8cd_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1361,
+                "title": {
+                  "ar": "تحذيرات iDrive",
+                  "en": "iDrive Warnings",
+                  "he": "התראות iDrive"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/66b0c574cd714768234e1a7a15d798cb_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1362,
+                "title": {
+                  "ar": "مصابيح ضباب أمامية مع الضوء العالي",
+                  "en": "Front Fog Lights w/ High Beams",
+                  "he": "פנסי ערפל קדמיים עם אור גבוה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/a06b85fa78830e85946ef8354f02a95c_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1363,
+                "title": {
+                  "ar": "مصابيح ضباب أمامية مع أضواء الوقوف",
+                  "en": "Front Fog Lights w/ Parking Lights",
+                  "he": "פנסי ערפל קדמיים עם אורות חניה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1364,
+                "title": {
+                  "ar": "وضع Sport+",
+                  "en": "Sport+ Mode",
+                  "he": "מצב Sport+"
+                },
+                "price": "150",
+                "image_url": "https://storage.obdeleven.com/parse/c75546901cd815e8400b4c9e57c8fbda_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1365,
+                "title": {
+                  "ar": "عرض X-View",
+                  "en": "X-View Display",
+                  "he": "תצוגת X-View"
+                },
+                "price": "140",
+                "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1366,
+                "title": {
+                  "ar": "عرض ضغط الإطارات في لوحة العدادات",
+                  "en": "Tire Pressure Display in Dashboard",
+                  "he": "תצוגת לחץ אוויר בצמיגים בלוח המחוונים"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1367,
+                "title": {
+                  "ar": "عرض مقياس السرعة",
+                  "en": "Speedometer Scale Display",
+                  "he": "תצוגת סקאלת מהירות"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1368,
+                "title": {
+                  "ar": "حساسية مستشعر المطر/الضوء",
+                  "en": "RLS Sensitivity",
+                  "he": "רגישות חיישן גשם/אור"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/2e9a187ad3e4975457c828d32b265d00_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1369,
+                "title": {
+                  "ar": "ذاكرة تدفئة/تبريد المقاعد",
+                  "en": "Seats Heating/Cooling Memory",
+                  "he": "זיכרון חימום/קירור מושבים"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3bc5584b31e29dafb299a32a307548c1_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1370,
+                "title": {
+                  "ar": "وقت القفل الذاتي",
+                  "en": "Self Locking Time",
+                  "he": "זמן נעילה עצמית"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/017f0cfdfafb6470f1d675974345b4b9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1371,
+                "title": {
+                  "ar": "أمان النوافذ الأمامية الكهربائية",
+                  "en": "Power Front Windows Safety",
+                  "he": "בטיחות חלונות קדמיים חשמליים"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/2605b25bfe3bf986a09a12dd6ccbafe2_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1372,
+                "title": {
+                  "ar": "أضواء فرامل الطوارئ",
+                  "en": "Emergency Braking Lights",
+                  "he": "אורות בלימת חירום"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/b550b5057a30ee8204ffd16ec8a730e9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1373,
+                "title": {
+                  "ar": "أضواء لوحة الترخيص LED",
+                  "en": "LED License Plate Lights",
+                  "he": "תאורת LED ללוחית רישוי"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/be7c9596369c14bf9a35bce7a9634dff_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1374,
+                "title": {
+                  "ar": "عرض القيادة المساعدة",
+                  "en": "Assisted Driving View",
+                  "he": "מצב נהיגה מסייעת"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/164733e1175a7eab139864fbfd94e301_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1375,
+                "title": {
+                  "ar": "تأكيد الفتح الصوتي",
+                  "en": "Acoustic Unlock Confirmation",
+                  "he": "אישור פתיחה אקוסטי"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/daad8bd4bd769adee75ba9f287b93766_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1376,
+                "title": {
+                  "ar": "تغيير الحارة التلقائي",
+                  "en": "Automatic Lane Change",
+                  "he": "החלפת נתיב אוטומטית"
+                },
+                "price": "180",
+                "image_url": "https://storage.obdeleven.com/parse/fcd9a3378aa7aa47880fbcd7704588d5_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1377,
+                "title": {
+                  "ar": "تسجيل بطارية 12V",
+                  "en": "12V Battery Registration",
+                  "he": "רישום מצבר 12V"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1378,
+                "title": {
+                  "ar": "قائمة صوت المحرك",
+                  "en": "Engine Sound Menu",
+                  "he": "תפריט צליל מנוע"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/a28d870764ebd97ea21cce79475e45cf_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1379,
+                "title": {
+                  "ar": "تدفئة عجلة القيادة التلقائية",
+                  "en": "Automatic Steering Wheel Heating",
+                  "he": "חימום הגה אוטומטי"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/fa73e81d4d099184693965f006cedf88_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1380,
+                "title": {
+                  "ar": "إضاءة محيطة بدلاً من البرونزي",
+                  "en": "Ambient Lighting Instead of Bronze",
+                  "he": "תאורת אווירה במקום ברונזה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/2f4d0c62ee132453ff0bced6d80618c8_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1381,
+                "title": {
+                  "ar": "لون محيطي بدلاً من البرونزي",
+                  "en": "Ambient Color Instead of Bronze",
+                  "he": "צבע אווירה במקום ברונזה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/26e104be19815c2325202b469119bac7_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1382,
+                "title": {
+                  "ar": "إغلاق عند المطر",
+                  "en": "Rain Closing",
+                  "he": "סגירה בגשם"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/36d4dc3fa8e848c0d6a2f74f26733a39_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1383,
+                "title": {
+                  "ar": "أضواء نهارية اسكندنافية",
+                  "en": "Scandinavian DRLs",
+                  "he": "תאורת יום סקנדינבית"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/8722d3c8cc595754444c10f2b88896c9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1384,
+                "title": {
+                  "ar": "قائمة تذكير أحزمة الأمان الخلفية",
+                  "en": "Rear Seat Belts Reminder Menu",
+                  "he": "תפריט תזכורת חגורות בטיחות אחוריות"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/5c692f5330b674a618b7afa3604add04_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1385,
+                "title": {
+                  "ar": "إلغاء تفعيل تصميم الصوت النشط",
+                  "en": "Active Sound Design Deactivation",
+                  "he": "ביטול עיצוב סאונד אקטיבי"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/159a4022221dacd99df5556dead2d5bb_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1386,
+                "title": {
+                  "ar": "وضع الانزلاق ECO PRO",
+                  "en": "ECO PRO Coasting Mode",
+                  "he": "מצב גלישה ECO PRO"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/40b747b342a0e62a4cb41e010cbd8b3c_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1387,
+                "title": {
+                  "ar": "اختبار أضواء الفرامل",
+                  "en": "Brake Lights Test",
+                  "he": "בדיקת אורות בלם"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/79c83239c057fff25d0ffc0290e44f83_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1388,
+                "title": {
+                  "ar": "اختبار أضواء الرجوع للخلف",
+                  "en": "Reversing Lights Test",
+                  "he": "בדיקת אורות רוורס"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/44ecec72499c9f1c68a9bbd6381c4577_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1389,
+                "title": {
+                  "ar": "اختبار مضخة غسيل الزجاج الأمامي",
+                  "en": "Windscreen Washer Pump Test",
+                  "he": "בדיקת משאבת שטיפת שמשות"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/98e61f5539a545cfede9847ac8f79d3a_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1390,
+                "title": {
+                  "ar": "اختبار فتح وإغلاق ستارة المبرد",
+                  "en": "Radiator Blind Opening and Closing",
+                  "he": "בדיקת פתיחה וסגירה של תריס הרדיאטור"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/191ec48271def6879338a979daa8a382_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1391,
+                "title": {
+                  "ar": "اختبار اهتزاز عجلة القيادة",
+                  "en": "Steering Wheel Vibration Test",
+                  "he": "בדיקת רטט הגה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/05671bc403200ee80861cd573d2f049b_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1392,
+                "title": {
+                  "ar": "اختبار مروحة المحرك",
+                  "en": "Engine Fan Test",
+                  "he": "בדיקת מאוורר מנוע"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/695fd1be4b24dfd3b5222090d16f520a_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1393,
+                "title": {
+                  "ar": "اختبار البوق",
+                  "en": "Horn Test",
+                  "he": "بديقت البوق"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/25004774a9c5fa633d3660c65c76ece0_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1394,
+                "title": {
+                  "ar": "اختبار أضواء الضباب الخلفية",
+                  "en": "Rear Fog Lights Test",
+                  "he": "بديقت فوانيس الضباب الخلفية"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/91efcacfe9b197171c786f359ca28c20_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1395,
+                "title": {
+                  "ar": "فحص المصابيح الأمامية",
+                  "en": "Headlights Check",
+                  "he": "فحص المصابيح الأمامية"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/f0169c9a66aeaa3564a54473b65c9039_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1396,
+                "title": {
+                  "ar": "اختبار أضواء لوحة العدادات",
+                  "en": "Instrument Cluster Lights Test",
+                  "he": "بديقت أضواء لوحة العدادات"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/06b677511a8683a43e283a03c7bb6f50_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1397,
+                "title": {
+                  "ar": "فحص نظام الاتصال الطارئ SOS",
+                  "en": "SOS Emergency Call System Check",
+                  "he": "فحص نظام الاتصال الطارئ SOS"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/63c12ebda4e28525f79ced7e43280430_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1398,
+                "title": {
+                  "ar": "إعادة ضبط سائل الفرامل",
+                  "en": "Brake Fluid Reset",
+                  "he": "إعادة ضبط سائل الفرامل"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1399,
+                "title": {
+                  "ar": "إعادة ضبط زيت المحرك",
+                  "en": "Engine Oil Reset",
+                  "he": "إعادة ضبط زيت المحرك"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1400,
+                "title": {
+                  "ar": "إعادة ضبط تيل الفرامل الأمامية",
+                  "en": "Front Brake Pads Reset",
+                  "he": "إعادة ضبط تيل الفرامل الأمامية"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1401,
+                "title": {
+                  "ar": "إعادة ضبط تيل الفرامل الخلفية",
+                  "en": "Rear Brake Pads Reset",
+                  "he": "إعادة ضبط تيل الفرامل الخلفية"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1402,
+                "title": {
+                  "ar": "إعادة ضبط فحص السيارة",
+                  "en": "Vehicle Check Reset",
+                  "he": "إعادة ضبط فحص السيارة"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1403,
+                "title": {
+                  "ar": "شاشات العرض الرياضية",
+                  "en": "Sport Displays",
+                  "he": "شاشات العرض الرياضية"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1404,
+                "title": {
+                  "ar": "فيديو أثناء القيادة",
+                  "en": "Video in Motion",
+                  "he": "فيديو أثناء القيادة"
+                },
+                "price": "180",
+                "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1405,
+                "title": {
+                  "ar": "عرض وصلة الجر",
+                  "en": "Tow Hitch Display",
+                  "he": "عرض وصلة الجر"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1406,
+                "title": {
+                  "ar": "وظائف الراحة عبر Comfort Access",
+                  "en": "Comfort Operation via CA",
+                  "he": "وظائف الراحة عبر Comfort Access"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/16ac1f179b8edc90c11b1fefbb611c33_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1407,
+                "title": {
+                  "ar": "لون شاشات العرض الرياضية",
+                  "en": "Sport Displays Color",
+                  "he": "لون شاشات العرض الرياضية"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/45f535c8fd75cdbea9656621b9a3a7c9_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1408,
+                "title": {
+                  "ar": "الصوت الأقصى",
+                  "en": "Maximum Volume",
+                  "he": "الصوت الأقصى"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/d4a8c7d87179af7df7f76789b3d6ae91_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              },
+              {
+                "id": 1409,
+                "title": {
+                  "ar": "نمط قائمة NBT EVO",
+                  "en": "NBT EVO Menu Style",
+                  "he": "نمط قائمة NBT EVO"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/265862d2f2fdcd1ae6689152080e9f8d_oca_picture.jpg",
+                "description": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": ""
+                }
+              }
+            ]
           },
           {
             "value": "f34",
@@ -4055,7 +6127,16 @@
                   "en": "Brake Fluid Reset",
                   "he": "איפוס נוזל בלמים"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg"
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak braking performance in your BMW 3 Series G20 with our simple Brake Fluid Reset function.  This essential service, easily accessed through the iDrive system, ensures optimal brake response and assists with accurate monitoring of your braking system's health, contributing to your safety and driving confidence.",
+                  "ar": "حافظ على أداء فرامل ذروة في سيارتك BMW الفئة الثالثة G20 مع وظيفة إعادة ضبط سائل الفرامل البسيطة لدينا. هذه الخدمة الأساسية، التي يمكن الوصول إليها بسهولة من خلال نظام iDrive، تضمن استجابة فرامل مثالية وتساعد في المراقبة الدقيقة لصحة نظام فرامل سيارتك، مما يساهم في سلامتك وثقتك أثناء القيادة.",
+                  "he": "שמרו על ביצועי בלימה שיאים ב-BMW סדרה 3 G20 שלכם באמצעות פונקציית איפוס נוזל בלמים הפשוטה שלנו. שירות חיוני זה, שנגיש בקלות דרך מערכת ה-iDrive, מבטיח תגובת בלימה מיטבית וסיוע במעקב מדויק אחר בריאות מערכת הבלימה שלכם, תורם לבטיחותכם ולביטחונכם בנהיגה."
+                },
+                "category": {
+                  "en": "Safety"
+                },
+                "price": ""
               },
               {
                 "id": 965,
