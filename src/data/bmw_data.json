@@ -1079,7 +1079,7 @@
                   "en": "Maintenance",
                   "he": "תחזוקה"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg"
               },
               {
@@ -2251,7 +2251,7 @@
                   "en": "Brake Fluid Reset",
                   "he": "إعادة ضبط سائل الفرامل"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak braking performance in your BMW 1 Series F21 with our precise Brake Fluid Reset procedure.  This crucial service ensures optimal responsiveness and safety by accurately resetting the brake system's electronic monitoring after fluid changes, guaranteeing a consistently reliable braking experience.",
@@ -2521,7 +2521,7 @@
                 "category": {
                   "en": "Safety"
                 },
-                "price": ""
+                "price": "50"
               },
               {
                 "id": 469,
@@ -4533,7 +4533,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 602,
@@ -5567,7 +5568,7 @@
                   "en": "Brake Fluid Reset",
                   "he": "إعادة ضبط سائل الفرامل"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak braking performance with the 3 Series F30's Brake Fluid Reset function.  This crucial service interval reminder ensures optimal hydraulic system responsiveness and contributes to the ultimate driving experience, helping you command the road with unwavering confidence.  Don't compromise your safety; reset your brake fluid at the recommended intervals.",
@@ -6617,7 +6618,7 @@
                   "en": "Brake Fluid Reset",
                   "he": "إعادة ضبط سائل الفرامل"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak braking performance in your BMW 3 Series F31 with our precise Brake Fluid Reset function.  This service ensures optimal brake system responsiveness and longevity by accurately resetting the electronic monitoring system after fluid changes, guaranteeing consistent, reliable stopping power.  Experience the unwavering confidence of BMW's legendary braking performance.",
@@ -6859,7 +6860,7 @@
                 "category": {
                   "en": "Safety"
                 },
-                "price": ""
+                "price": "50"
               },
               {
                 "id": 965,
@@ -9109,7 +9110,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 614,
@@ -11311,7 +11313,7 @@
                 "category": {
                   "en": "Safety"
                 },
-                "price": "",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg"
               }
             ]
@@ -11333,7 +11335,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 760,
@@ -12299,7 +12302,7 @@
                 "category": {
                   "en": "Safety"
                 },
-                "price": ""
+                "price": "50"
               },
               {
                 "id": 820,
@@ -14311,7 +14314,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 953,
@@ -14506,7 +14510,7 @@
                 "category": {
                   "en": "Safety"
                 },
-                "price": ""
+                "price": "50"
               },
               {
                 "id": 1112,
@@ -15422,7 +15426,7 @@
                   "en": "Brake Fluid Reset",
                   "he": "איפוס נוזל בלמים"
                 },
-                "price": "",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak braking performance in your BMW 5 Series G60 with our intuitive Brake Fluid Reset function.  This ensures optimal brake system responsiveness and extends the lifespan of your brake components, providing you with the unwavering stopping power you expect from a BMW.  A simple procedure, accessed via the iDrive system, for ultimate driving confidence.",
