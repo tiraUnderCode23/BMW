@@ -14441,11 +14441,14 @@
                 },
                 "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
                 "description": {
-                  "en": "Maintain peak braking performance with the 5 Series G31's Brake Fluid Reset function.  This crucial service interval reminder ensures optimal braking responsiveness and safety, proactively alerting you when a fluid change is due.  Drive with unwavering confidence, knowing your braking system is operating at its absolute best."
+                  "en": "Maintain peak braking performance with the 5 Series G31's Brake Fluid Reset function.  This crucial service interval reminder ensures optimal braking responsiveness and safety, proactively alerting you when a fluid change is due.  Drive with unwavering confidence, knowing your braking system is operating at its absolute best.",
+                  "ar": "حافظ على أداء الكبح الأمثل مع وظيفة إعادة ضبط سائل الفرامل في الفئة 5 G31.  تُعد هذه التذكرة المهمة لفترة الصيانة  ضمانًا للاستجابة المثلى للكبح والسلامة، حيث تُنبهك استباقيًا عند الحاجة إلى تغيير السائل.  سِر بثقة راسخة، مع العلم بأن نظام الكبح الخاص بك يعمل بأفضل حالاته.",
+                  "he": "שמרו על ביצועי בלימה שיאיים עם פונקציית איפוס נוזל בלמים של סדרה 5 G31. תזכורת מרווח שירות חיונית זו מבטיחה תגובתיות בלימה אופטימלית ובטיחות, ומזהירה אותך באופן יזום כאשר יש צורך בהחלפת נוזלים. נהג בבטחון מלא, בידיעה שמערכת הבלימה שלך פועלת ברמה הטובה ביותר."
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": ""
               },
               {
                 "id": 1112,
