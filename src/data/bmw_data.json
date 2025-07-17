@@ -8092,6 +8092,24 @@
                 "category": {
                   "en": "Infotainment"
                 }
+              },
+              {
+                "id": 1410,
+                "title": {
+                  "en": "5 Times Comfort Turn Signals",
+                  "ar": "5 ومضات لإشارة الانعطاف المريحة",
+                  "he": "5 הבהובים לאיתות נוחות"
+                },
+                "description": {
+                  "en": "Experience effortless lane changes with our innovative 5 Times Comfort Turn Signals.  A gentle tap of the indicator stalk activates a five-blink sequence, perfectly signaling your intention without excessive flashing. This subtle yet sophisticated feature enhances driving fluidity and reduces driver distraction.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg"
               }
             ]
           },
