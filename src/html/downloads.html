@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>خدمات وتحميلات - AQ///bimmer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Cairo', sans-serif;
+        }
+        .main-bg {
+            background-image: url('https://wallup.net/wp-content/uploads/2016/01/239736-car-BMW-748x421.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        .custom-checkbox {
+            appearance: none;
+            background-color: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 0.375rem;
+            width: 1.5rem;
+            height: 1.5rem;
+            cursor: pointer;
+            position: relative;
+            transition: all 0.2s ease-in-out;
+            flex-shrink: 0;
+        }
+        .custom-checkbox:checked {
+            background-color: #2563eb;
+            border-color: #1d4ed8;
+            box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+        }
+        .custom-checkbox:checked::after {
+            content: '✔';
+            position: absolute;
+            color: white;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 1rem;
+            font-weight: bold;
+        }
+        .glass-card {
+            background-color: rgba(17, 24, 39, 0.6); /* bg-gray-900 with opacity */
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+    </style>
+</head>
+<body class="bg-black text-white">
+
+    <div class="main-bg">
+        <div class="bg-black/70 min-h-screen flex flex-col">
+
+            <div class="bg-black/50 p-2 text-center text-xs">
+                <button onclick="setLanguage('en')" class="px-3 py-1 rounded-md hover:bg-white/20 transition-colors">EN</button>
+                <button onclick="setLanguage('ar')" class="px-3 py-1 rounded-md bg-blue-600 hover:bg-blue-700 transition-colors">AR</button>
+            </div>
+
+            <header class="bg-black/30 backdrop-blur-md p-4 shadow-lg sticky top-0 z-40">
+                <div class="container mx-auto flex justify-between items-center">
+                    <a href="https://aqbimmer.com" class="flex items-center" data-translate-key="home_link_title" title="العودة للصفحة الرئيسية">
+                        <div class="w-12 h-12 bg-contain bg-center bg-no-repeat" style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg')"></div>
+                        <h1 class="text-2xl mx-3 font-bold">
+                            <span class="text-blue-500">AQ</span><span class="text-gray-300">///</span><span class="text-red-500">bimmer</span>
+                        </h1>
+                    </a>
+                    <nav>
+                        <h1 class="text-xl font-bold text-yellow-400" data-translate-key="page_title">خدمات وتحميلات</h1>
+                    </nav>
+                </div>
+            </header>
+
+            <main class="container mx-auto px-4 py-12 flex-grow">
+                
+                <div id="main-view">
+                    <h2 class="text-3xl md:text-4xl font-extrabold mb-8 text-center text-white border-b-2 border-blue-500 pb-4" data-translate-key="providers_section_title">مقدمي الخدمات وبائعي الملفات</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
+                        
+                        <div class="glass-card rounded-xl p-6 text-center transition-all duration-300 hover:border-blue-500 hover:shadow-2xl hover:shadow-blue-500/20 transform hover:-translate-y-2 flex flex-col justify-between">
+                            <div>
+                                <h3 class="text-2xl font-bold mb-2 text-blue-400">AQ///bimmer</h3>
+                                <p class="text-gray-300 mb-6" data-translate-key="aq_description">خدمات برمجة عن بعد، تفعيلات، وتعديل صور وحدات NBT Evo.</p>
+                            </div>
+                            <button onclick="showProvider('aq_bimmer')" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-transform transform hover:scale-105">
+                                <span data-translate-key="view_services_button">عرض الخدمات</span>
+                            </button>
+                        </div>
+
+                        <div class="glass-card rounded-xl p-6 text-center transition-all duration-300 hover:border-green-500 hover:shadow-2xl hover:shadow-green-500/20 transform hover:-translate-y-2 flex flex-col justify-between">
+                            <div>
+                                <h3 class="text-2xl font-bold mb-2 text-green-400">(Alex)</h3>
+                                <p class="text-gray-300 mb-6" data-translate-key="alex_description">مقدم خدمات متخصص في ملفات FSC، برمجة الأونلاين، وتفعيل الميزات.</p>
+                            </div>
+                             <button onclick="showProvider('alex')" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-lg transition-transform transform hover:scale-105">
+                                <span data-translate-key="view_services_button">عرض الخدمات</span>
+                            </button>
+                        </div>
+
+                        <div class="glass-card rounded-xl p-6 text-center transition-all duration-300 hover:border-yellow-500 hover:shadow-2xl hover:shadow-yellow-500/20 transform hover:-translate-y-2 flex flex-col justify-between">
+                             <div>
+                                <h3 class="text-2xl font-bold mb-2 text-yellow-400">M A coding</h3>
+                                <p class="text-gray-300 mb-6" data-translate-key="ma_description">خبير برمجة عن بعد وبيع ملفات التفعيل لكافة أنواع سيارات BMW.</p>
+                            </div>
+                            <button onclick="showProvider('ma_coding')" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-lg transition-transform transform hover:scale-105">
+                                <span data-translate-key="view_services_button">عرض الخدمات</span>
+                            </button>
+                        </div>
+
+                    </div>
+                    
+                    <section id="downloads" class="my-24">
+                        <h2 class="text-3xl md:text-4xl font-extrabold mb-8 text-center text-white border-b-2 border-red-500 pb-4" data-translate-key="downloads_section_title">برامج، تحميلات ومواقع مفضلة</h2>
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+    
+                            <div class="glass-card rounded-xl p-6 text-center transition-all duration-300 hover:border-blue-500 hover:shadow-2xl hover:shadow-blue-500/20 transform hover:-translate-y-2 flex flex-col">
+                                <img src="https://placehold.co/600x400/1e293b/3b82f6/png?text=E-Sys" alt="E-Sys" class="rounded-lg h-40 w-full object-cover mb-5">
+                                <h3 class="text-xl font-bold mb-2 text-white">E-Sys Launcher Pro</h3>
+                                <p class="text-gray-300 mb-4 flex-grow" data-translate-key="esys_description">نسخة مفعّلة من لانشر E-Sys للبرمجة المتقدمة.</p>
+                                <a href="#" class="mt-auto bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-lg inline-block" data-translate-key="download_button">تحميل</a>
+                            </div>
+                            
+                            <div class="glass-card rounded-xl p-6 text-center transition-all duration-300 hover:border-green-500 hover:shadow-2xl hover:shadow-green-500/20 transform hover:-translate-y-2 flex flex-col">
+                                <img src="https://placehold.co/600x400/1e293b/22c55e/png?text=ISTA%2B" alt="ISTA" class="rounded-lg h-40 w-full object-cover mb-5">
+                                <h3 class="text-xl font-bold mb-2 text-white">ISTA+ Standalone</h3>
+                                <p class="text-gray-300 mb-4 flex-grow" data-translate-key="ista_description">برنامج التشخيص الرسمي من BMW بنسخة مستقلة.</p>
+                                <a href="#" class="mt-auto bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-lg inline-block" data-translate-key="download_button">تحميل</a>
+                            </div>
+                            
+                            <div class="glass-card rounded-xl p-6 text-center transition-all duration-300 hover:border-red-500 hover:shadow-2xl hover:shadow-red-500/20 transform hover:-translate-y-2 flex flex-col">
+                                <img src="https://placehold.co/600x400/1e293b/ef4444/png?text=Bimmer-AZ" alt="Bimmer AZ" class="rounded-lg h-40 w-full object-cover mb-5">
+                                <h3 class="text-xl font-bold mb-2 text-white">Bimmer-AZ.info</h3>
+                                <p class="text-gray-300 mb-4 flex-grow" data-translate-key="bimmeraz_description">مرجع شامل للمعلومات التقنية والبرمجية لسيارات BMW.</p>
+                                <a href="https://bmw-az.info/" target="_blank" rel="noopener noreferrer" class="mt-auto bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-6 rounded-lg inline-block" data-translate-key="visit_website_button">زيارة الموقع</a>
+                            </div>
+                            
+                            <div class="glass-card rounded-xl p-6 text-center transition-all duration-300 hover:border-yellow-500 hover:shadow-2xl hover:shadow-yellow-500/20 transform hover:-translate-y-2 flex flex-col">
+                                <img src="https://placehold.co/600x400/1e293b/eab308/png?text=Mhhatuo" alt="Mhhatuo" class="rounded-lg h-40 w-full object-cover mb-5">
+                                <h3 class="text-xl font-bold mb-2 text-white">Mhhatuo Tools Pack</h3>
+                                <p class="text-gray-300 mb-4 flex-grow" data-translate-key="mhhatuo_description">حزمة أدوات متنوعة ومفيدة مقدمة من المطور mhhatuo.</p>
+                                <a href="#" class="mt-auto bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-lg inline-block" data-translate-key="download_button">تحميل</a>
+                            </div>
+    
+                        </div>
+                    </section>
+                </div>
+
+                <div id="detail-view" class="hidden">
+                    <button onclick="showMainView()" class="mb-6 bg-gray-700 hover:bg-gray-600 px-4 py-2 rounded-lg transition inline-flex items-center shadow-lg">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2 transform rtl:rotate-180" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M9.707 16.707a1 1 0 01-1.414 0l-6-6a1 1 0 010-1.414l6-6a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l4.293 4.293a1 1 0 010 1.414z" clip-rule="evenodd" /></svg>
+                        <span data-translate-key="back_button">العودة للقائمة</span>
+                    </button>
+
+                    <div class="glass-card rounded-2xl p-6 md:p-8 max-w-4xl mx-auto">
+                        <h2 id="provider-name" class="text-3xl font-extrabold mb-6 text-center"></h2>
+                        <div id="service-list" class="space-y-4 mb-6 max-h-[50vh] overflow-y-auto p-2">
+                            </div>
+                        
+                        <div class="border-t-2 border-white/20 pt-6 mt-6 space-y-5">
+                            <div class="flex justify-between items-center text-2xl font-bold">
+                                <span data-translate-key="total_price">المجموع النهائي:</span>
+                                <div>
+                                    <span id="total-price" class="text-yellow-400">0</span>
+                                    <span class="text-yellow-400">€</span>
+                                </div>
+                            </div>
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                               <a id="paypal-link" href="#" target="_blank" rel="noopener noreferrer" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-transform transform hover:scale-105 inline-flex items-center justify-center text-lg">
+                                    <svg class="w-6 h-6 ml-2" fill="currentColor" viewBox="0 0 24 24"><path d="M8.32 7.37C8.25 7.03 7.94 6.5 7.37 6.5H4.19c-.57 0-.94.36-.94.36-.1.25-.1.54-.04.8l1.37 6.95c.07.33.34.73.9.73h2.15c.6 0 .96-.36.96-.36.1-.25.1-.54.04-.8L8.32 7.37zm7.13-1.24c-.23-.9-1.04-1.63-2-1.63h-2.1c-.5 0-.8.25-.8.25-.15.1-.2.27-.2.42l.43 2.15.56 2.8c.08.34.36.74.9.74h.5c.6 0 .96-.36.96-.36.1-.25.1-.54.04-.8l-.8-4.04.02-.01zm5.32 1.34c-.1-.4-.44-.7-1.03-.7h-1.5L18 7.37c-.07-.33-.34-.73-.9-.73h-2.15c-.6 0-.96.36-.96-.36-.1.25-.1.54-.04.8l1.37 6.95c.07.33.34.73.9.73h2.15c.6 0 .96-.36.96-.36s.2-.18.28-.42l.2-1.04.4-2.07.13-.65.25-1.3c.03-.18.04-.37.04-.54 0-.4-.13-.7-.37-.93z"/></svg>
+                                    <span data-translate-key="paypal_button">الدفع عبر PayPal</span>
+                                </a>
+                               <button onclick="sendWhatsAppOrder()" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-lg transition-transform transform hover:scale-105 inline-flex items-center justify-center text-lg">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-2" viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.894 11.892-1.99 0-3.903-.52-5.586-1.456l-6.305 1.654z"/></svg>
+                                    <span data-translate-key="whatsapp_order_button">طلب عبر واتساب</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </main>
+
+            <footer class="bg-black/50 backdrop-blur-md py-8 mt-auto">
+                <div class="container mx-auto px-4 text-center">
+                    <div class="flex justify-center items-center space-x-6 rtl:space-x-reverse mb-4">
+                        <a href="https://wa.me/972528180757" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-green-500 transition-colors">
+                            <svg class="h-7 w-7" fill="currentColor" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.894 11.892-1.99 0-3.903-.52-5.586-1.456l-6.305 1.654z"/></svg>
+                        </a>
+                         <a href="https://www.facebook.com/profile.php?id=100083325222097" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-blue-600 transition-colors">
+                             <svg class="h-7 w-7" fill="currentColor" viewBox="0 0 24 24"><path d="M22.675 0h-21.35c-.732 0-1.325.593-1.325 1.325v21.351c0 .731.593 1.324 1.325 1.324h11.495v-9.294h-3.128v-3.622h3.128v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.795.143v3.24l-1.918.001c-1.504 0-1.795.715-1.795 1.763v2.313h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.325v-21.35c0-.732-.593-1.325-1.325-1.325z"/></svg>
+                        </a>
+                    </div>
+                    <p class="text-gray-500 text-sm" data-translate-key="copyright">© 2024 AQ///bimmer. جميع الحقوق محفوظة.</p>
+                </div>
+            </footer>
+        </div>
+    </div>
+    
+    <div class="fixed bottom-4 right-4 bg-green-500 text-white p-4 rounded-full shadow-lg z-50 hover:bg-green-600 transition-colors transform hover:scale-110">
+        <a href="https://wa.me/972528180757" target="_blank" rel="noopener noreferrer" aria-label="Contact on WhatsApp">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.894 11.892-1.99 0-3.903-.52-5.586-1.456l-6.305 1.654z"/>
+            </svg>
+        </a>
+    </div>
+
+    <script>
+        // --- DATA ---
+        const translations = {
+            ar: {
+                page_title: "خدمات وتحميلات", home_link_title: "العودة للصفحة الرئيسية",
+                providers_section_title: "مقدمي الخدمات وبائعي الملفات",
+                aq_description: "خدمات برمجة عن بعد، تفعيلات، وتعديل صور وحدات NBT Evo.",
+                alex_description: "مقدم خدمات متخصص في ملفات FSC، برمجة الأونلاين، وتفعيل الميزات.",
+                ma_description: "خبير برمجة عن بعد وبيع ملفات التفعيل لكافة أنواع سيارات BMW.",
+                profile_button: "ملفه الشخصي", view_services_button: "عرض الخدمات",
+                back_button: "العودة للقائمة", total_price: "المجموع النهائي:",
+                paypal_button: "الدفع عبر PayPal", whatsapp_order_button: "طلب عبر واتساب",
+                copyright: `© ${new Date().getFullYear()} AQ///bimmer. جميع الحقوق محفوظة.`,
+                whatsapp_greeting: "مرحبًا،", whatsapp_request_intro: "أود طلب الخدمات التالية من طرف AQ///bimmer:",
+                whatsapp_total_line: "المجموع النهائي", whatsapp_thanks: "شكرًا.",
+                no_selection_alert: "الرجاء اختيار خدمة واحدة على الأقل.",
+                downloads_section_title: "برامج، تحميلات ومواقع مفضلة",
+                esys_description: "نسخة مفعّلة من لانشر E-Sys للبرمجة المتقدمة.",
+                ista_description: "برنامج التشخيص الرسمي من BMW بنسخة مستقلة.",
+                bimmeraz_description: "مرجع شامل للمعلومات التقنية والبرمجية لسيارات BMW.",
+                mhhatuo_description: "حزمة أدوات متنوعة ومفيدة مقدمة من المطور mhhatuo.",
+                download_button: "تحميل", visit_website_button: "زيارة الموقع"
+            },
+            en: {
+                page_title: "Services & Downloads", home_link_title: "Return to Homepage",
+                providers_section_title: "Service Providers & File Sellers",
+                aq_description: "Remote coding services, activations, and NBT Evo image modification.",
+                alex_description: "Specialized service provider for FSC files, online coding, and feature activation.",
+                ma_description: "Expert in remote coding and selling activation files for all BMW models.",
+                profile_button: "His Profile", view_services_button: "View Services",
+                back_button: "Back to List", total_price: "Final Total:",
+                paypal_button: "Pay with PayPal", whatsapp_order_button: "Order via WhatsApp",
+                copyright: `© ${new Date().getFullYear()} AQ///bimmer. All rights reserved.`,
+                whatsapp_greeting: "Hello,", whatsapp_request_intro: "I would like to order the following services via AQ///bimmer:",
+                whatsapp_total_line: "Final Total", whatsapp_thanks: "Thank you.",
+                no_selection_alert: "Please select at least one service.",
+                downloads_section_title: "Software, Downloads & Favorite Sites",
+                esys_description: "Activated version of the E-Sys launcher for advanced coding.",
+                ista_description: "Official BMW diagnostic software in a standalone version.",
+                bimmeraz_description: "A comprehensive reference for BMW technical and software information.",
+                mhhatuo_description: "A variety of useful tools package from developer mhhatuo.",
+                download_button: "Download", visit_website_button: "Visit Website"
+            }
+        };
+
+        const serviceList = [
+            { id_prefix: 's', name: 'Full BMW Air Service History to language of choice', name_en: 'Full BMW Air Service History to language of choice', price: 10 },
+            { id_prefix: 's', name: 'Apple CarPlay + Android Auto for MGU ID7', name_en: 'Apple CarPlay + Android Auto for MGU ID7', price: 100 },
+            { id_prefix: 's', name: 'Apple CarPlay + Android Auto for MGU ID8', name_en: 'Apple CarPlay + Android Auto for MGU ID8', price: 100 },
+            { id_prefix: 's', name: 'RTTI + Weather unlimited', name_en: 'RTTI + Weather unlimited', price: 75 },
+            { id_prefix: 's', name: 'Factory Generated FA (XML Format)', name_en: 'Factory Generated FA (XML Format)', price: 5 },
+            { id_prefix: 's', name: 'BMW OEM FSC Repair Kit', name_en: 'BMW OEM FSC Repair Kit', price: 10 },
+            { id_prefix: 's', name: 'BMW OEM SFA Repair Kit', name_en: 'BMW OEM SFA Repair Kit', price: 15 },
+            { id_prefix: 's', name: "BMW NCD2.0 Coding Files (all ECU's)", name_en: "BMW NCD2.0 Coding Files (all ECU's)", price: 40 },
+            { id_prefix: 's', name: "BMW NCD2.0 Coding Files (up to 3 ECU's)", name_en: "BMW NCD2.0 Coding Files (up to 3 ECU's)", price: 25 },
+            { id_prefix: 's', name: 'Feature Installer Code: RTTI + Weather', name_en: 'Feature Installer Code: RTTI + Weather', price: 15 },
+            { id_prefix: 's', name: 'Feature Installer Codes: Lifetime Maps + CarPlay + Full Screen', name_en: 'Feature Installer Codes: Lifetime Maps + CarPlay + Full Screen', price: 25 },
+            { id_prefix: 's', name: 'Feature Installer Codes per function standalone', name_en: 'Feature Installer Codes per function standalone', price: 10 },
+            { id_prefix: 's', name: 'ECU Validation by CBB Request', name_en: 'ECU Validation by CBB Request', price: 15 },
+            { id_prefix: 's', name: 'HU NBT Virginizing via Feature Installer + Retrofit FSC', name_en: 'HU NBT Virginizing via Feature Installer + Retrofit FSC', price: 25 },
+            { id_prefix: 's', name: '1AA OEM FSC after BDC Replace possible (MGU18/21)', name_en: '1AA OEM FSC after BDC Replace possible (MGU18/21)', price: 250 },
+            { id_prefix: 's', name: 'Remove Component Protection (MGU22)', name_en: 'Remove Component Protection (MGU22)', price: 250 },
+            { id_prefix: 's', name: 'SecOC', name_en: 'SecOC', price: 150 },
+            { id_prefix: 's', name: 'LCS', name_en: 'LCS', price: 150 },
+            { id_prefix: 's', name: 'Token KDS', name_en: 'Token KDS', price: 250 },
+            { id_prefix: 's', name: 'Diagtokens', name_en: 'Diagtokens', price: 50 },
+            { id_prefix: 's', name: 'Kafas 4 Virginize', name_en: 'Kafas 4 Virginize', price: 100 },
+        ];
+
+        const providers = {
+            aq_bimmer: {
+                name: 'AQ///bimmer', name_en: 'AQ///bimmer',
+                phone: '972528180757', paypal: 'https://paypal.me/gopromaker',
+                services: serviceList.map((s, i) => ({...s, id: `aq_${s.id_prefix}${i}`}))
+            },
+            alex: {
+                name: '(Alex)', name_en: 'Alex',
+                phone: '32485841448', paypal: 'mailto:stixed5@gmail.com',
+                services: serviceList.map((s, i) => ({...s, id: `alex_${s.id_prefix}${i}`}))
+            },
+            ma_coding: {
+                name: 'M A coding', name_en: 'M A coding',
+                phone: '218913124884', paypal: 'mailto:a.3cx.92@gmail.com',
+                services: serviceList.map((s, i) => ({...s, id: `ma_${s.id_prefix}${i}`}))
+            }
+        };
+
+        // --- GLOBAL STATE ---
+        let currentProviderKey = null;
+        let currentLanguage = 'ar';
+
+        // --- DOM ELEMENTS ---
+        const mainView = document.getElementById('main-view');
+        const detailView = document.getElementById('detail-view');
+        const providerNameEl = document.getElementById('provider-name');
+        const serviceListEl = document.getElementById('service-list');
+        const totalPriceEl = document.getElementById('total-price');
+        const paypalLinkEl = document.getElementById('paypal-link');
+        const langButtons = document.querySelectorAll('.bg-black\\/50 button');
+
+        // --- FUNCTIONS ---
+        
+        function setLanguage(lang) {
+            currentLanguage = lang;
+            document.documentElement.lang = lang;
+            document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
+            
+            langButtons.forEach(btn => {
+                btn.classList.remove('bg-blue-600', 'hover:bg-blue-700');
+                if (btn.innerText.toLowerCase() === lang) {
+                    btn.classList.add('bg-blue-600', 'hover:bg-blue-700');
+                }
+            });
+
+            const elements = document.querySelectorAll('[data-translate-key]');
+            elements.forEach(el => {
+                const key = el.getAttribute('data-translate-key');
+                if (translations[lang][key]) {
+                    el.innerText = translations[lang][key];
+                }
+            });
+            // Refresh detail view if it's open
+            if(currentProviderKey) {
+                showProvider(currentProviderKey, false);
+            }
+        }
+
+        function showProvider(providerKey, shouldScroll = true) {
+            currentProviderKey = providerKey;
+            const providerData = providers[providerKey];
+            
+            providerNameEl.innerText = currentLanguage === 'ar' ? providerData.name : providerData.name_en;
+            providerNameEl.className = `text-3xl font-extrabold mb-6 text-center ${providerKey === 'aq_bimmer' ? 'text-blue-400' : providerKey === 'alex' ? 'text-green-400' : 'text-yellow-400'}`;
+            paypalLinkEl.href = providerData.paypal;
+            
+            serviceListEl.innerHTML = '';
+            providerData.services.forEach(service => {
+                const serviceName = currentLanguage === 'ar' ? service.name : service.name_en;
+                const serviceItem = document.createElement('div');
+                serviceItem.className = 'glass-card flex items-center justify-between p-4 rounded-xl hover:border-blue-500/50 transition-colors duration-200';
+                serviceItem.innerHTML = `
+                    <label for="${service.id}" class="flex-grow cursor-pointer rtl:pr-4 ltr:pl-4 text-gray-200">${serviceName}</label>
+                    <span class="font-bold text-yellow-400 text-lg rtl:ml-4 ltr:mr-4 whitespace-nowrap">€${service.price}</span>
+                    <input type="checkbox" id="${service.id}" data-price="${service.price}" data-name-ar="${service.name}" data-name-en="${service.name_en}" onchange="updateTotal()" class="custom-checkbox">
+                `;
+                serviceListEl.appendChild(serviceItem);
+            });
+
+            updateTotal();
+
+            mainView.classList.add('hidden');
+            detailView.classList.remove('hidden');
+            if (shouldScroll) {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+        }
+
+        function showMainView() {
+            currentProviderKey = null;
+            detailView.classList.add('hidden');
+            mainView.classList.remove('hidden');
+        }
+
+        function updateTotal() {
+            if (!currentProviderKey) return;
+            let total = 0;
+            const checkedServices = serviceListEl.querySelectorAll('input[type="checkbox"]:checked');
+            
+            checkedServices.forEach(checkbox => {
+                total += parseFloat(checkbox.dataset.price);
+            });
+
+            totalPriceEl.innerText = total;
+        }
+
+
+        function sendWhatsAppOrder() {
+            if (!currentProviderKey) return;
+
+            const providerData = providers[currentProviderKey];
+            const checkedServices = serviceListEl.querySelectorAll('input[type="checkbox"]:checked');
+
+            if (checkedServices.length === 0) {
+                alert(translations[currentLanguage].no_selection_alert);
+                return;
+            }
+
+            let message = `${translations[currentLanguage].whatsapp_greeting}\n${translations[currentLanguage].whatsapp_request_intro}\n\n`;
+            let total = 0;
+
+            checkedServices.forEach(checkbox => {
+                const price = parseFloat(checkbox.dataset.price);
+                const name = currentLanguage === 'ar' ? checkbox.dataset.nameAr : checkbox.dataset.nameEn;
+                message += `• ${name} - €${price}\n`;
+                total += price;
+            });
+
+            message += `\n-----------------------------------\n`;
+            message += `*${translations[currentLanguage].whatsapp_total_line}: €${total}*\n\n`;
+            message += `${translations[currentLanguage].whatsapp_thanks}`;
+
+            const encodedMessage = encodeURIComponent(message);
+            const whatsappUrl = `https://wa.me/${providerData.phone}?text=${encodedMessage}`;
+            
+            window.open(whatsappUrl, '_blank');
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            setLanguage('ar');
+        });
+
+    </script>
+</body>
+</html>
