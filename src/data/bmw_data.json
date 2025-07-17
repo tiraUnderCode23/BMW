@@ -219,7 +219,7 @@
                   "en": "Convenience",
                   "he": "נוחות"
                 },
-                "price": "30",
+                "price": "500",
                 "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg"
               },
               {
@@ -1477,7 +1477,7 @@
                   "en": "Horn on Secure",
                   "he": "צפצוף בנעילה"
                 },
-                "price": "70",
+                "price": "500",
                 "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg",
                 "description": {
                   "en": "Experience enhanced security with the 1 Series F21's Horn on Secure feature.  A short blast of the horn automatically sounds when locking your vehicle, providing an extra layer of audible confirmation and deterring potential theft.  Enjoy peace of mind knowing your BMW is protected.",
@@ -2709,7 +2709,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "500"
               },
               {
                 "id": 481,
@@ -4869,7 +4870,7 @@
                   "en": "Horn on Secure",
                   "he": "צפצוף בנעילה"
                 },
-                "price": "70",
+                "price": "500",
                 "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg",
                 "description": {
                   "en": "Experience enhanced security with the Horn on Secure feature.  When locking your BMW 3 Series F30, a brief horn chirp confirms the vehicle's secure status, providing an audible reassurance and deterring potential theft.  This simple yet effective addition offers peace of mind, knowing your vehicle is properly locked.",
@@ -5901,7 +5902,7 @@
                   "en": "Horn on Secure",
                   "he": "צפצוף בנעילה"
                 },
-                "price": "70",
+                "price": "500",
                 "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg",
                 "description": {
                   "en": "Experience the ultimate in peace of mind with Horn on Secure.  Should an unauthorized attempt to access your BMW 3 Series F31 be detected, the vehicle's horn will automatically sound, deterring potential theft and alerting you to the intrusion. This proactive security measure provides an additional layer of protection for your valuable asset.",
@@ -7108,7 +7109,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "500"
               },
               {
                 "id": 982,
@@ -9342,7 +9344,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "500"
               },
               {
                 "id": 631,
@@ -11556,7 +11559,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "500"
               },
               {
                 "id": 777,
@@ -12448,7 +12452,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "500"
               },
               {
                 "id": 832,
@@ -14710,7 +14715,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "500"
               },
               {
                 "id": 1129,
@@ -15667,7 +15673,7 @@
                   "en": "Horn on Secure",
                   "he": "צפירה בנעילה"
                 },
-                "price": "",
+                "price": "500",
                 "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg",
                 "description": {
                   "en": "Experience unparalleled peace of mind with Horn on Secure.  When locking your BMW 5 Series G60, a brief horn chirp confirms the vehicle's secure state, providing immediate audible reassurance and deterring potential theft. This feature adds an extra layer of security to your daily driving experience.",
