@@ -3057,7 +3057,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 504,
@@ -7538,7 +7539,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 1010,
@@ -9777,7 +9779,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 659,
@@ -11996,7 +11999,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 805,
@@ -12815,7 +12819,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 855,
@@ -15160,7 +15165,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 1157,
@@ -16201,7 +16207,7 @@
                   "en": "Active Sound Design Deactivation",
                   "he": "ביטול הפעלת צליל פעיל"
                 },
-                "price": "",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/159a4022221dacd99df5556dead2d5bb_oca_picture.jpg",
                 "description": {
                   "en": "Command absolute control over your driving experience.  With Active Sound Design Deactivation, seamlessly switch between the exhilarating engine soundtrack and a more refined, quieter cabin ambiance at the touch of a button.  Tailor the auditory landscape to perfectly match your desired driving mode and mood.",
