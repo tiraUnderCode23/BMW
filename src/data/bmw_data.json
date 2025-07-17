@@ -339,7 +339,7 @@
                   "en": "Display",
                   "he": "תצוגה"
                 },
-                "price": "140",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg"
               },
               {
@@ -1585,7 +1585,7 @@
                   "en": "X-View Display",
                   "he": "תצוגת X-View"
                 },
-                "price": "140",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg",
                 "description": {
                   "en": "Experience unparalleled awareness with the BMW 1 Series F21's X-View Display.  This innovative system provides a comprehensive bird's-eye view of your surroundings, enhancing maneuverability in tight spaces and significantly improving parking precision.  Navigate confidently, even in the most challenging environments.",
@@ -2807,7 +2807,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 487,
@@ -4999,7 +5000,7 @@
                   "en": "X-View Display",
                   "he": "תצוגת X-View"
                 },
-                "price": "140",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg",
                 "description": {
                   "en": "Experience unparalleled awareness with the X-View Display, providing a bird's-eye perspective of your 3 Series F30's surroundings.  This advanced system seamlessly integrates multiple camera feeds, eliminating blind spots and making parking and maneuvering in tight spaces effortless and safe.",
@@ -6031,7 +6032,7 @@
                   "en": "X-View Display",
                   "he": "תצוגת X-View"
                 },
-                "price": "140",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg",
                 "description": {
                   "en": "Experience unparalleled situational awareness with the X-View Display.  This innovative system provides a comprehensive, bird's-eye view of your surroundings, seamlessly integrated into your BMW 3 Series F31's iDrive interface, enhancing parking maneuvers and overall safety.",
@@ -7228,7 +7229,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 988,
@@ -9477,7 +9479,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 637,
@@ -11706,7 +11709,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 783,
@@ -12607,7 +12611,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 838,
@@ -14893,7 +14898,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 1135,
@@ -15870,7 +15876,7 @@
                   "en": "X-View Display",
                   "he": "תצוגת X-View"
                 },
-                "price": "",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg",
                 "description": {
                   "en": "Experience unparalleled situational awareness with the BMW 5 Series G60's X-View Display. This innovative system provides a comprehensive, bird's-eye view of your surroundings, seamlessly integrating multiple camera perspectives for enhanced parking, maneuvering, and overall safety. Navigate tight spaces and challenging environments with confidence, thanks to the crystal-clear, intuitive visualization of the X-View Display.",
