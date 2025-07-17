@@ -1319,8 +1319,8 @@
                 "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
                 "description": {
                   "en": "Unleash the full potential of your BMW 1 Series F21 with Activate Individual Sport Mode.  This dynamic setting sharpens throttle response, enhances steering precision, and adjusts the transmission for a more engaging and exhilarating driving experience, tailored precisely to your preferences.  Experience the ultimate in driver-focused performance.",
-                  "ar": "",
-                  "he": ""
+                  "ar": "أطلق العنان لإمكانات سيارتك BMW الفئة الأولى F21 الكاملة مع تنشيط وضع الرياضة الفردي. هذا الإعداد الديناميكي يحسّن استجابة دواسة الوقود، ويعزز دقة التوجيه، ويضبط ناقل الحركة لتجربة قيادة أكثر إثارة ومتعة، مصممة خصيصاً لتناسب تفضيلاتك. جرب أقصى درجات الأداء الذي يركز على السائق.",
+                  "he": "שחררו את מלוא הפוטנציאל של ה-BMW סדרה 1 F21 שלכם עם מצב הספורט האינדיבידואלי. הגדרה דינמית זו מחדדת את תגובת המצערת, משפרת את דיוק ההיגוי, ומכווננת את תיבת ההילוכים לחוויית נהיגה מרתקת ומסעירה יותר, שתותאם בדיוק להעדפותיכם. חוו את שיא הביצועים המתמקדים בנהג."
                 },
                 "category": {
                   "en": "Performance"
@@ -6855,11 +6855,14 @@
                 },
                 "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
                 "description": {
-                  "en": "Maintain peak engine performance and extend the life of your BMW 3 Series G20 with our effortless Engine Oil Reset service.  Simply access the intuitive iDrive system to reset your oil service indicator after an oil change, ensuring accurate monitoring and timely maintenance alerts.  Experience the seamless integration of advanced technology and unparalleled driving pleasure."
+                  "en": "Maintain peak engine performance and extend the life of your BMW 3 Series G20 with our effortless Engine Oil Reset service.  Simply access the intuitive iDrive system to reset your oil service indicator after an oil change, ensuring accurate monitoring and timely maintenance alerts.  Experience the seamless integration of advanced technology and unparalleled driving pleasure.",
+                  "ar": "",
+                  "he": ""
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": ""
               },
               {
                 "id": 966,
