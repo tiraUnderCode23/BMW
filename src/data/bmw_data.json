@@ -139,7 +139,7 @@
                   "en": "Lighting",
                   "he": "תאורה"
                 },
-                "price": "80",
+                "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg"
               },
               {
@@ -599,7 +599,7 @@
                   "en": "Maintenance",
                   "he": "תחזוקה"
                 },
-                "price": "100",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg"
               },
               {
@@ -1405,7 +1405,7 @@
                   "en": "5 Times Comfort Turn Signals",
                   "he": "5 הבהובים לאיתות נוחות"
                 },
-                "price": "80",
+                "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
                 "description": {
                   "en": "Experience effortless lane changes with the 1 Series F21's innovative 5-times comfort turn signals.  A gentle, five-flash activation ensures superior visibility to surrounding drivers, enhancing safety and significantly reducing the effort required for signaling.  This subtle yet smart feature elevates your driving experience with understated sophistication.",
@@ -1819,7 +1819,7 @@
                   "en": "12V Battery Registration",
                   "he": "רישום מצבר 12V"
                 },
-                "price": "100",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
                 "description": {
                   "en": "Ensure seamless integration and optimal performance of your BMW 1 Series F21's electrical systems.  12V Battery Registration allows the vehicle's computer to accurately identify and manage the new battery, preventing potential errors and maximizing battery lifespan. This crucial step is essential after battery replacement for a consistently reliable driving experience.",
@@ -2649,7 +2649,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "150"
               },
               {
                 "id": 477,
@@ -2995,7 +2996,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 500,
@@ -4646,7 +4648,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "150"
               },
               {
                 "id": 610,
@@ -4834,7 +4837,7 @@
                   "en": "5 Times Comfort Turn Signals",
                   "he": "5 הבהובים לאיתות נוחות"
                 },
-                "price": "80",
+                "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
                 "description": {
                   "en": "Experience effortless elegance with our 5-Times Comfort Turn Signals.  A subtle yet sophisticated feature, a gentle tap of the turn signal stalk activates five rapid blinks, providing clear indication of your lane change intentions while minimizing repetitive flicking. This understated luxury adds a touch of refined driving ease to your F30 3 Series.",
@@ -5176,7 +5179,7 @@
                   "en": "12V Battery Registration",
                   "he": "רישום מצבר 12V"
                 },
-                "price": "100",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
                 "description": {
                   "en": "Ensure seamless integration and optimal performance of your BMW 3 Series F30's electrical systems.  12V Battery Registration accurately registers your new battery with the vehicle's computer, preventing error messages and ensuring all onboard functions operate flawlessly. This crucial step maintains peak efficiency and prevents potential electrical issues.",
@@ -5866,7 +5869,7 @@
                   "en": "5 Times Comfort Turn Signals",
                   "he": "5 הבהובים לאיתות נוחות"
                 },
-                "price": "80",
+                "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
                 "description": {
                   "en": "Experience unparalleled driving refinement with our 5-Times Comfort Turn Signals.  A gentle, five-time flash of the indicator signals your lane change intentions with subtle elegance, enhancing both safety and the sophisticated driving experience inherent to the BMW 3 Series F31.",
@@ -6226,7 +6229,7 @@
                   "en": "12V Battery Registration",
                   "he": "רישום מצבר 12V"
                 },
-                "price": "100",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
                 "description": {
                   "en": "Experience seamless integration and optimized performance with the 3 Series F31's 12V Battery Registration.  This intelligent system ensures precise monitoring and management of your vehicle's battery, maximizing its lifespan and minimizing the risk of unexpected starting issues.  Enjoy the peace of mind that comes with knowing your BMW is operating at peak efficiency.",
@@ -7049,7 +7052,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "150"
               },
               {
                 "id": 978,
@@ -7395,7 +7399,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 1001,
@@ -9284,7 +9289,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "150"
               },
               {
                 "id": 627,
@@ -9630,7 +9636,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 650,
@@ -11499,7 +11506,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "150"
               },
               {
                 "id": 773,
@@ -11845,7 +11853,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 796,
@@ -12392,7 +12401,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": ""
+                "price": "150"
               },
               {
                 "id": 828,
@@ -12738,7 +12747,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 851,
@@ -14388,7 +14398,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "150"
               },
               {
                 "id": 961,
@@ -14655,7 +14666,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "150"
               },
               {
                 "id": 1125,
@@ -15001,7 +15013,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 1148,
@@ -15601,7 +15614,7 @@
                   "en": "5 Times Comfort Turn Signals",
                   "he": "5 הבהובים נוחים לאיתות"
                 },
-                "price": "",
+                "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
                 "description": {
                   "en": "Experience unparalleled comfort and enhanced safety with our innovative 5 Times Comfort Turn Signals.  A gentle tap of the indicator stalk activates a five-time flash sequence, perfectly suited for lane changes and navigating tight city spaces, minimizing unnecessary repetitive movements and maximizing driver focus.",
@@ -16015,7 +16028,7 @@
                   "en": "12V Battery Registration",
                   "he": "רישום מצבר 12V"
                 },
-                "price": "",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
                 "description": {
                   "en": "The BMW 5 Series G60's intelligent 12V battery registration ensures seamless integration with the vehicle's sophisticated electrical system. This sophisticated feature optimizes battery performance and diagnostics, providing enhanced reliability and preventing potential disruptions to your driving experience. Experience the peace of mind that comes with knowing your vehicle's power source is constantly monitored and managed for optimal efficiency.",
