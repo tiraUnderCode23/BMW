@@ -179,7 +179,7 @@
                   "en": "Display",
                   "he": "תצוגה"
                 },
-                "price": "120",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/f8030b56910a732fe26c7d2fc3a6e2a9_oca_picture.jpg"
               },
               {
@@ -1441,7 +1441,7 @@
                   "en": "M View Style Cluster",
                   "he": "לוח מחוונים בסגנון M"
                 },
-                "price": "120",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/f8030b56910a732fe26c7d2fc3a6e2a9_oca_picture.jpg",
                 "description": {
                   "en": "Command the road with the M View Style Cluster in your BMW 1 Series F21.  Its dynamic, motorsport-inspired design provides crucial driving information with exceptional clarity and a distinctly sporty aesthetic, seamlessly integrating into the cockpit's premium ambiance.  Experience enhanced driver engagement and a more intuitive driving experience.",
@@ -2685,7 +2685,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 479,
@@ -4694,7 +4695,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 612,
@@ -7103,7 +7105,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 980,
@@ -9350,7 +9353,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 629,
@@ -11577,7 +11581,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 775,
@@ -12476,7 +12481,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 830,
@@ -14485,7 +14491,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 963,
@@ -14759,7 +14766,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 1127,
@@ -15712,7 +15720,7 @@
                   "en": "M View Style Cluster",
                   "he": "סגנון תצוגת M בלוח המחוונים"
                 },
-                "price": "",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/f8030b56910a732fe26c7d2fc3a6e2a9_oca_picture.jpg",
                 "description": {
                   "en": "Command the road with the M View Style Cluster in your BMW 5 Series G60.  This meticulously designed digital instrument cluster delivers crucial driving information with unparalleled clarity and a distinctly sporty M aesthetic, enhancing both performance monitoring and driver engagement.",
