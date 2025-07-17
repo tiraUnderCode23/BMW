@@ -239,7 +239,7 @@
                   "en": "Display",
                   "he": "תצוגה"
                 },
-                "price": "110",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/750b6938e0867d44071bbc032182c8cd_oca_picture.jpg"
               },
               {
@@ -3069,7 +3069,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "150"
               },
               {
                 "id": 505,
