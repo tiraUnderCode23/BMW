@@ -9407,7 +9407,1034 @@
           {
             "value": "f34",
             "text": "F34",
-            "activations": []
+            "activations": [
+              {
+                "id": 1295,
+                "title": {
+                  "ar": "تفعيل وضع الرياضة الفردي",
+                  "en": "Activate Individual Sport Mode",
+                  "he": "הפעלת מצב ספורט אישי"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
+                "description": {
+                  "en": "Unleash the full potential of your BMW 3 Series F30.  Activate Individual Sport Mode to tailor throttle response, steering feel, and transmission shifts precisely to your driving style, delivering a uniquely exhilarating and personalized performance experience.  Command the road with unparalleled control and precision.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1296,
+                "title": {
+                  "ar": "تفعيل إغلاق النوافذ من المفتاح",
+                  "en": "Activate Window Closing from Key",
+                  "he": "הפעלת סגירת חלונות מהמפתח"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/e311254b0aa70298eed3d3173c86999e_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly close all your windows from a distance with the key fob's convenient remote function.  A touch of ultimate control and precision, ensuring your BMW 3 Series F30 remains perfectly secured and climate-controlled, even from afar.  Enjoy the seamless integration of technology for a refined driving experience.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1297,
+                "title": {
+                  "ar": "تفعيل فتح صندوق الأمتعة من المفتاح",
+                  "en": "Activate Trunk Opening from Key",
+                  "he": "הפעלת פתיחת תא מטען מהמפתח"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly access your BMW 3 Series F30's trunk with a simple press of a button on your key fob.  This convenient feature eliminates the need to fumble for your key in your pocket or bag, streamlining your everyday experience.  Experience the seamless integration of advanced technology and effortless practicality, uniquely BMW.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1298,
+                "title": {
+                  "ar": "تفعيل وظيفة الترحيب الضوئي",
+                  "en": "Activate Welcome Light Function",
+                  "he": "הפעלת פונקציית תאורת קבלת פנים"
+                },
+                "price": "400",
+                "image_url": "https://storage.obdeleven.com/parse/8722d3c8cc595754444c10f2b88896c9_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate your arrival with the 3 Series F30's sophisticated Welcome Light Function.  A gentle pool of light illuminates the ground around your doors upon unlocking, adding a touch of understated elegance and enhancing nighttime safety and convenience. Experience the signature BMW welcome, seamlessly integrated for a refined driving experience.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1299,
+                "title": {
+                  "ar": "تفعيل عرض معلومات المحرك",
+                  "en": "Activate Engine Information Display",
+                  "he": "הפעלת תצוגת מידע מנוע"
+                },
+                "price": "130",
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "Instantly access vital engine data at a glance.  The Activate Engine Information Display on your 3 Series F30 provides real-time readouts of key performance parameters, allowing for proactive monitoring and enhanced driving awareness.  This intuitive feature puts critical engine information directly within your sightline, optimizing your driving experience.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1300,
+                "title": {
+                  "ar": "5 ومضات لإشارة الانعطاف المريحة",
+                  "en": "5 Times Comfort Turn Signals",
+                  "he": "5 הבהובים לאיתות נוחות"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless elegance with our 5-Times Comfort Turn Signals.  A subtle yet sophisticated feature, a gentle tap of the turn signal stalk activates five rapid blinks, providing clear indication of your lane change intentions while minimizing repetitive flicking. This understated luxury adds a touch of refined driving ease to your F30 3 Series.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1301,
+                "title": {
+                  "ar": "وضع القيادة الافتراضي",
+                  "en": "Default Driving Mode",
+                  "he": "מצב נהיגה ברירת מחדל"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the perfectly balanced BMW driving experience.  The default driving mode expertly calibrates engine response, steering feel, and transmission shifts for a dynamic yet comfortable ride, tailored to everyday driving. This ensures a smooth and intuitive journey, readily adapting to various road conditions without demanding driver intervention.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1302,
+                "title": {
+                  "ar": "صوت بوق عند القفل",
+                  "en": "Horn on Secure",
+                  "he": "צפצוף בנעילה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg",
+                "description": {
+                  "en": "Experience enhanced security with the Horn on Secure feature.  When locking your BMW 3 Series F30, a brief horn chirp confirms the vehicle's secure status, providing an audible reassurance and deterring potential theft.  This simple yet effective addition offers peace of mind, knowing your vehicle is properly locked.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1303,
+                "title": {
+                  "ar": "عرض ضغط ودرجة حرارة الإطارات",
+                  "en": "TPMS Pressure and Temperature Display",
+                  "he": "תצוגת לחץ וטמפרטורת צמיגים"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/750b6938e0867d44071bbc032182c8cd_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain optimal tire pressure and temperature for enhanced safety, handling, and fuel efficiency.  The 3 Series F30's TPMS Pressure and Temperature Display provides real-time monitoring, alerting you to potential issues before they impact your drive, ensuring a consistently smooth and confident journey.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1304,
+                "title": {
+                  "ar": "تحذيرات iDrive",
+                  "en": "iDrive Warnings",
+                  "he": "התראות iDrive"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/66b0c574cd714768234e1a7a15d798cb_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in proactive driving with iDrive Warnings on your BMW 3 Series F30.  Receive timely and clear alerts for potential hazards, from lane departure warnings to impending collisions, enhancing your safety and driving confidence. This intelligent system proactively helps you avoid potentially dangerous situations, keeping you informed and in control.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1305,
+                "title": {
+                  "ar": "مصابيح ضباب أمامية مع الضوء العالي",
+                  "en": "Front Fog Lights w/ High Beams",
+                  "he": "פנסי ערפל קדמיים עם אור גבוה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/a06b85fa78830e85946ef8354f02a95c_oca_picture.jpg",
+                "description": {
+                  "en": "Experience enhanced visibility and safety in challenging conditions with the 3 Series F30's integrated front fog lights, seamlessly activating alongside your high beams.  These precision-engineered lights cut through fog, mist, and light snow, ensuring optimal illumination and confident driving, even in low-visibility situations.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1306,
+                "title": {
+                  "ar": "مصابيح ضباب أمامية مع أضواء الوقوف",
+                  "en": "Front Fog Lights w/ Parking Lights",
+                  "he": "פנסי ערפל קדמיים עם אורות חניה"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg",
+                "description": {
+                  "en": "Enhance visibility and navigate challenging conditions with confidence.  The integrated front fog lights, seamlessly incorporating parking light functionality, provide superior illumination and a distinctive BMW design element for added safety and style.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1307,
+                "title": {
+                  "ar": "وضع Sport+",
+                  "en": "Sport+ Mode",
+                  "he": "מצב Sport+"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/c75546901cd815e8400b4c9e57c8fbda_oca_picture.jpg",
+                "description": {
+                  "en": "Unleash the full potential of your BMW 3 Series F30 with Sport+ Mode.  Experience sharper throttle response, a more aggressive transmission mapping, and a heightened sense of dynamic control, pushing the boundaries of performance and driver engagement. This mode transforms your drive into a thrilling experience, perfectly suited for winding roads and spirited journeys.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1308,
+                "title": {
+                  "ar": "عرض X-View",
+                  "en": "X-View Display",
+                  "he": "תצוגת X-View"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled awareness with the X-View Display, providing a bird's-eye perspective of your 3 Series F30's surroundings.  This advanced system seamlessly integrates multiple camera feeds, eliminating blind spots and making parking and maneuvering in tight spaces effortless and safe.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1309,
+                "title": {
+                  "ar": "عرض ضغط الإطارات في لوحة العدادات",
+                  "en": "Tire Pressure Display in Dashboard",
+                  "he": "תצוגת לחץ אוויר בצמיגים בלוח המחוונים"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain optimal tire pressure and enhance your driving experience with the 3 Series F30's integrated Tire Pressure Display.  This convenient feature provides real-time monitoring directly on your dashboard, allowing for proactive maintenance and improved fuel efficiency, maximizing both safety and performance.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1310,
+                "title": {
+                  "ar": "عرض مقياس السرعة",
+                  "en": "Speedometer Scale Display",
+                  "he": "תצוגת סקאלת מהירות"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of precise driving with the 3 Series F30's meticulously designed speedometer scale display.  Its clear, high-contrast numerals and intuitive layout ensure effortless monitoring of your speed, enhancing both driving engagement and safety.  A hallmark of BMW's commitment to driver focus and performance.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1311,
+                "title": {
+                  "ar": "حساسية مستشعر المطر/الضوء",
+                  "en": "RLS Sensitivity",
+                  "he": "רגישות חיישן גשם/אור"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/2e9a187ad3e4975457c828d32b265d00_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled driving precision with RLS Sensitivity in your BMW 3 Series F30.  This advanced system dynamically adjusts the responsiveness of your car's stability control, providing optimal handling in diverse conditions – from spirited acceleration to challenging road surfaces.  Enjoy a more connected and confident driving experience, tailored to your every input.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1312,
+                "title": {
+                  "ar": "ذاكرة تدفئة/تبريد المقاعد",
+                  "en": "Seats Heating/Cooling Memory",
+                  "he": "זיכרון חימום/קירור מושבים"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3bc5584b31e29dafb299a32a307548c1_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled comfort and personalized luxury with the 3 Series F30's heated and cooled seats featuring memory function.  Enjoy perfectly customized climate control, automatically recalling your preferred temperature settings and seat position for effortless driving pleasure.  This sophisticated system ensures optimal comfort in any season.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1313,
+                "title": {
+                  "ar": "وقت القفل الذاتي",
+                  "en": "Self Locking Time",
+                  "he": "זמן נעילה עצמית"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/017f0cfdfafb6470f1d675974345b4b9_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in peace of mind with Self Locking Time.  This intelligent feature automatically locks your BMW 3 Series F30 doors after a pre-set period of inactivity, ensuring your vehicle's security even if you momentarily forget.  Configurable to your specific needs, Self Locking Time adds a layer of preventative security without compromising convenience.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1314,
+                "title": {
+                  "ar": "أمان النوافذ الأمامية الكهربائية",
+                  "en": "Power Front Windows Safety",
+                  "he": "בטיחות חלונות קדמיים חשמליים"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/2605b25bfe3bf986a09a12dd6ccbafe2_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in driving assurance with the 3 Series F30's Power Front Windows Safety feature.  Intelligent sensors detect obstructions during window closure, instantly reversing the motor to prevent pinching or damage. This proactive safety measure provides peace of mind for all occupants, particularly children and pets.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1315,
+                "title": {
+                  "ar": "أضواء فرامل الطوارئ",
+                  "en": "Emergency Braking Lights",
+                  "he": "אורות בלימת חירום"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/b550b5057a30ee8204ffd16ec8a730e9_oca_picture.jpg",
+                "description": {
+                  "en": "Experience an added layer of proactive safety with the 3 Series F30's Emergency Braking Lights.  These automatically flash rapidly when hard braking is detected, significantly increasing your visibility to following vehicles and dramatically reducing the risk of rear-end collisions.  Drive with enhanced confidence, knowing you have an extra measure of protection on the road.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1316,
+                "title": {
+                  "ar": "أضواء لوحة الترخيص LED",
+                  "en": "LED License Plate Lights",
+                  "he": "תאורת LED ללוחית רישוי"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/be7c9596369c14bf9a35bce7a9634dff_oca_picture.jpg",
+                "description": {
+                  "en": "Experience superior illumination and a refined aesthetic with the BMW 3 Series F30's LED license plate lights.  These energy-efficient LEDs provide brighter, clearer lighting than traditional bulbs, enhancing visibility and adding a subtle yet sophisticated touch to your vehicle's rear.  Their long lifespan ensures enduring performance and reduced maintenance.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1317,
+                "title": {
+                  "ar": "عرض القيادة المساعدة",
+                  "en": "Assisted Driving View",
+                  "he": "מצב נהיגה מסייעת"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/164733e1175a7eab139864fbfd94e301_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled awareness on the road with the 3 Series F30's Assisted Driving View.  This advanced system provides a comprehensive, bird's-eye perspective of your surroundings, enhancing situational awareness and bolstering your confidence in challenging driving conditions.  Navigate tight spaces and complex maneuvers with greater ease and safety.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1318,
+                "title": {
+                  "ar": "تأكيد الفتح الصوتي",
+                  "en": "Acoustic Unlock Confirmation",
+                  "he": "אישור פתיחה אקוסטי"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/daad8bd4bd769adee75ba9f287b93766_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the subtle yet sophisticated reassurance of Acoustic Unlock Confirmation.  A discreet chime confirms your 3 Series F30's unlocking, providing a quiet confidence and eliminating any doubt about successful access.  This refined detail enhances the overall driving experience, adding a touch of BMW's signature precision.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1319,
+                "title": {
+                  "ar": "تسجيل بطارية 12V",
+                  "en": "12V Battery Registration",
+                  "he": "רישום מצבר 12V"
+                },
+                "price": "150",
+                "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure seamless integration and optimal performance of your BMW 3 Series F30's electrical systems.  12V Battery Registration accurately registers your new battery with the vehicle's computer, preventing error messages and ensuring all onboard functions operate flawlessly. This crucial step maintains peak efficiency and prevents potential electrical issues.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1320,
+                "title": {
+                  "ar": "تدفئة عجلة القيادة التلقائية",
+                  "en": "Automatic Steering Wheel Heating",
+                  "he": "חימום הגה אוטומטי"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/fa73e81d4d099184693965f006cedf88_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled comfort even on the coldest days.  The BMW 3 Series F30's automatic steering wheel heating gently warms the wheel's surface, ensuring a pleasurable and confident grip, no matter the conditions.  Enjoy effortless control and superior driving pleasure.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1321,
+                "title": {
+                  "ar": "إضاءة محيطة بدلاً من البرونزي",
+                  "en": "Ambient Lighting Instead of Bronze",
+                  "he": "תאורת אווירה במקום ברונזה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/2f4d0c62ee132453ff0bced6d80618c8_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate the ambiance of your BMW 3 Series F30 with our refined Ambient Lighting upgrade.  Replacing the standard bronze interior lighting with a customizable spectrum of colors, this option allows you to tailor the cabin atmosphere to perfectly match your mood or driving experience.  Experience a sophisticated and personalized driving environment.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1322,
+                "title": {
+                  "ar": "لون محيطي بدلاً من البرونزي",
+                  "en": "Ambient Color Instead of Bronze",
+                  "he": "צבע אווירה במקום ברונזה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/26e104be19815c2325202b469119bac7_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate the ambiance of your BMW 3 Series F30 with our refined Ambient Lighting upgrade.  Replacing the standard bronze hue with a customizable spectrum of colors, you can tailor the interior illumination to perfectly match your mood and driving style, creating a personalized and sophisticated atmosphere.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 1323,
+                "title": {
+                  "ar": "إغلاق عند المطر",
+                  "en": "Rain Closing",
+                  "he": "סגירה בגשם"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/36d4dc3fa8e848c0d6a2f74f26733a39_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless driving in any weather.  BMW Rain Closing automatically activates your windows and sunroof when it detects rainfall, ensuring a dry and comfortable cabin without interrupting your focus on the road.  Enjoy the peace of mind that comes with knowing your BMW is always prepared for the elements.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1324,
+                "title": {
+                  "ar": "أضواء نهارية اسكندنافية",
+                  "en": "Scandinavian DRLs",
+                  "he": "תאורת יום סקנדינבית"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/8722d3c8cc595754444c10f2b88896c9_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the signature BMW glow with our Scandinavian Daytime Running Lights (DRLs), expertly integrated into the 3 Series F30's design. These distinctive LED lights not only enhance visibility and safety during the day but also add a touch of sophisticated elegance, instantly upgrading your driving presence.  Their clean, bright illumination perfectly complements the F30's dynamic lines.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1325,
+                "title": {
+                  "ar": "قائمة تذكير أحزمة الأمان الخلفية",
+                  "en": "Rear Seat Belts Reminder Menu",
+                  "he": "תפריט תזכורת חגורות בטיחות אחוריות"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/5c692f5330b674a618b7afa3604add04_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series F30's Rear Seat Belts Reminder Menu provides an added layer of safety, subtly prompting rear passengers to fasten their seatbelts.  This thoughtful feature enhances overall occupant protection and contributes to a more secure driving experience for everyone on board.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1326,
+                "title": {
+                  "ar": "إلغاء تفعيل تصميم الصوت النشط",
+                  "en": "Active Sound Design Deactivation",
+                  "he": "ביטול עיצוב סאונד אקטיבי"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/159a4022221dacd99df5556dead2d5bb_oca_picture.jpg",
+                "description": {
+                  "en": "Command complete control over your driving experience.  Active Sound Design Deactivation allows you to seamlessly switch off the in-cabin engine sound enhancement, offering a purer, more direct connection to the performance of your BMW 3 Series F30. Enjoy the unfiltered symphony of the engine, or the quietude of the road, at your command.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1327,
+                "title": {
+                  "ar": "وضع الانزلاق ECO PRO",
+                  "en": "ECO PRO Coasting Mode",
+                  "he": "מצב גלישה ECO PRO"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/40b747b342a0e62a4cb41e010cbd8b3c_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless efficiency with ECO PRO Coasting Mode.  This intelligent feature seamlessly disengages the engine at appropriate speeds, allowing the 3 Series F30 to coast, reducing fuel consumption and emissions without compromising safety or control.  Maximize your driving range and minimize your impact on the environment with this innovative technology.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1328,
+                "title": {
+                  "ar": "وضع Comfort+",
+                  "en": "Comfort+ Mode",
+                  "he": "מצב Comfort+"
+                },
+                "price": "130",
+                "image_url": "https://storage.obdeleven.com/parse/c4e5ef27ac26d52bc4fc01c0be79da6e_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in serene driving with Comfort+ Mode.  This meticulously engineered setting adjusts suspension, steering, and throttle response for a supple, effortless ride, transforming even the most demanding commutes into moments of pure relaxation.  Embrace unparalleled comfort without compromising the dynamic handling expected of a BMW 3 Series.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1329,
+                "title": {
+                  "ar": "اختبار أضواء الفرامل",
+                  "en": "Brake Lights Test",
+                  "he": "בדיקת אורות בלם"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/79c83239c057fff25d0ffc0290e44f83_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal braking performance and safety with our comprehensive Brake Lights Test. This diagnostic check verifies the functionality of all brake lights, ensuring they illuminate brightly and consistently, providing crucial visual alerts to following drivers.  A fully functioning system contributes significantly to accident avoidance and overall driving confidence.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1330,
+                "title": {
+                  "ar": "اختبار أضواء الرجوع للخلف",
+                  "en": "Reversing Lights Test",
+                  "he": "בדיקת אורות רוורס"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/44ecec72499c9f1c68a9bbd6381c4577_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal rear visibility during nighttime maneuvers with the 3 Series F30's thorough reversing lights test.  This rigorous process verifies the functionality and intensity of your reversing lamps, guaranteeing confident and safe reversing in any low-light condition.  Drive with peace of mind, knowing your BMW's illumination system meets the highest standards.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1331,
+                "title": {
+                  "ar": "اختبار مضخة غسيل الزجاج الأمامي",
+                  "en": "Windscreen Washer Pump Test",
+                  "he": "בדיקת משאבת שטיפת שמשות"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/98e61f5539a545cfede9847ac8f79d3a_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal windscreen cleaning performance with the 3 Series F30's integrated windscreen washer pump test.  This diagnostic function quickly verifies proper pump operation, preventing unexpected disruptions to your driving experience and maintaining peak visibility.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1332,
+                "title": {
+                  "ar": "اختبار فتح وإغلاق ستارة المبرد",
+                  "en": "Radiator Blind Opening and Closing",
+                  "he": "בדיקת פתיחה וסגירה של תריס הרדיאטור"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/191ec48271def6879338a979daa8a382_oca_picture.jpg",
+                "description": {
+                  "en": "Experience optimized engine temperature management with the intelligent Radiator Blind system.  This innovative feature automatically opens and closes to regulate airflow, maximizing efficiency and enhancing performance in varying conditions,  contributing to improved fuel economy and reduced emissions.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1333,
+                "title": {
+                  "ar": "اختبار اهتزاز عجلة القيادة",
+                  "en": "Steering Wheel Vibration Test",
+                  "he": "בדיקת רטט הגה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/05671bc403200ee80861cd573d2f049b_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series F30's rigorous Steering Wheel Vibration Test ensures optimal responsiveness and feedback, guaranteeing a precise and connected driving experience.  This meticulous process, conducted during manufacturing, identifies and rectifies any inconsistencies, resulting in superior handling and driver confidence.  Experience the hallmark BMW precision engineered into every turn.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1334,
+                "title": {
+                  "ar": "اختبار مروحة المحرك",
+                  "en": "Engine Fan Test",
+                  "he": "בדיקת מאוורר מנוע"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/695fd1be4b24dfd3b5222090d16f520a_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure peak engine performance and longevity with the 3 Series F30's Engine Fan Test. This diagnostic feature allows for a thorough assessment of your cooling system's functionality, proactively identifying potential issues before they impact your driving experience.  Maintain optimal engine temperature and prevent costly repairs with this essential preventative maintenance tool.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1335,
+                "title": {
+                  "ar": "اختبار البوق",
+                  "en": "Horn Test",
+                  "he": "بديقت البوق"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/25004774a9c5fa633d3660c65c76ece0_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure the commanding presence of your BMW 3 Series F30 remains unwavering.  This quick self-diagnostic horn test allows you to effortlessly verify its functionality, providing immediate peace of mind and ensuring you're always heard, particularly in critical situations.  A simple check, a significant assurance.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1336,
+                "title": {
+                  "ar": "اختبار أضواء الضباب الخلفية",
+                  "en": "Rear Fog Lights Test",
+                  "he": "بديقت فوانيس الضباب الخلفية"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/91efcacfe9b197171c786f359ca28c20_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal rear visibility in challenging weather conditions with the BMW 3 Series F30's integrated rear fog light system.  Rigorously tested to exceed safety standards, these lights provide enhanced illumination and increased driver awareness, contributing to a safer driving experience, especially during low visibility situations.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1337,
+                "title": {
+                  "ar": "فحص المصابيح الأمامية",
+                  "en": "Headlights Check",
+                  "he": "فحص المصابيح الأمامية"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/f0169c9a66aeaa3564a54473b65c9039_oca_picture.jpg",
+                "description": {
+                  "en": "Before you embark on your journey, ensure complete confidence with the 3 Series F30's Headlights Check.  A simple glance at the iDrive display confirms the functionality of all exterior lights, preventing unexpected issues and ensuring maximum visibility for a safer and more secure drive.  This pre-departure check is a seamless integration of technology promoting peace of mind.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1338,
+                "title": {
+                  "ar": "اختبار أضواء لوحة العدادات",
+                  "en": "Instrument Cluster Lights Test",
+                  "he": "بديقت أضواء لوحة العدادات"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/06b677511a8683a43e283a03c7bb6f50_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal functionality of your BMW 3 Series F30's instrument cluster lighting. This comprehensive test verifies the illumination of all gauges, warning lights, and displays, guaranteeing clear and safe readability in all driving conditions.  A proactive check for potential issues before they impact your driving experience.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1339,
+                "title": {
+                  "ar": "فحص نظام الاتصال الطارئ SOS",
+                  "en": "SOS Emergency Call System Check",
+                  "he": "فحص نظام الاتصال الطارئ SOS"
+                },
+                "price": "500",
+                "image_url": "https://storage.obdeleven.com/parse/63c12ebda4e28525f79ced7e43280430_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series F30's SOS Emergency Call system provides peace of mind.  In the event of an accident, the system automatically contacts emergency services, transmitting your vehicle's location for rapid response.  Regularly checking the system ensures its readiness to provide vital support when needed.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1340,
+                "title": {
+                  "ar": "إعادة ضبط سائل الفرامل",
+                  "en": "Brake Fluid Reset",
+                  "he": "إعادة ضبط سائل الفرامل"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak braking performance with the 3 Series F30's Brake Fluid Reset function.  This crucial service interval reminder ensures optimal hydraulic system responsiveness and contributes to the ultimate driving experience, helping you command the road with unwavering confidence.  Don't compromise your safety; reset your brake fluid at the recommended intervals.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1341,
+                "title": {
+                  "ar": "إعادة ضبط زيت المحرك",
+                  "en": "Engine Oil Reset",
+                  "he": "إعادة ضبط زيت المحرك"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak engine performance with the 3 Series F30's Engine Oil Reset function.  This convenient feature allows for precise oil service interval tracking and resets the service indicator light after an oil change, ensuring your BMW operates at its optimal efficiency and prolonging engine life.  Simple, accurate, and essential for maintaining your ultimate driving machine.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1342,
+                "title": {
+                  "ar": "إعادة ضبط تيل الفرامل الأمامية",
+                  "en": "Front Brake Pads Reset",
+                  "he": "إعادة ضبط تيل الفرامل الأمامية"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak braking performance in your BMW 3 Series F30.  Our Front Brake Pad Reset procedure accurately calibrates your vehicle's brake system after pad replacement, ensuring optimal stopping power and precise brake feel. This crucial step guarantees consistent, reliable braking and maximizes the lifespan of your new brake pads.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1343,
+                "title": {
+                  "ar": "إعادة ضبط تيل الفرامل الخلفية",
+                  "en": "Rear Brake Pads Reset",
+                  "he": "إعادة ضبط تيل الفرامل الخلفية"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal braking performance and extend the life of your BMW 3 Series F30's brake system.  Our Rear Brake Pad Reset procedure accurately calibrates the brake pad wear sensors, providing precise readings on your instrument panel and preventing premature brake wear warnings.  This simple yet crucial service guarantees peak braking efficiency and safety.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1344,
+                "title": {
+                  "ar": "إعادة ضبط فحص السيارة",
+                  "en": "Vehicle Check Reset",
+                  "he": "إعادة ضبط فحص السيارة"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak performance and optimal functionality with the 3 Series F30's Vehicle Check Reset.  This simple procedure, easily accessed through the onboard computer, clears any temporary warning lights and ensures your vehicle's systems are reporting accurately.  Enjoy a seamless driving experience, free from unnecessary alerts.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1345,
+                "title": {
+                  "ar": "شاشات العرض الرياضية",
+                  "en": "Sport Displays",
+                  "he": "شاشات العرض الرياضية"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "Immerse yourself in the driving experience with the 3 Series F30's Sport Displays.  Crisp, high-resolution graphics deliver vital performance data directly to your instrument cluster, providing real-time feedback on speed, RPM, and more, enhancing your connection to the road. This dynamic display allows for customizable views tailored to your preferred driving style.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1346,
+                "title": {
+                  "ar": "فيديو أثناء القيادة",
+                  "en": "Video in Motion",
+                  "he": "فيديو أثناء القيادة"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
+                "description": {
+                  "en": "Experience seamless entertainment on the go.  BMW's Video in Motion allows you to enjoy videos from compatible sources on your iDrive screen while your 3 Series F30 is in motion, enhancing your driving experience. Note:  This feature should only be used when parked legally and safely, and in accordance with local laws.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1347,
+                "title": {
+                  "ar": "عرض وصلة الجر",
+                  "en": "Tow Hitch Display",
+                  "he": "عرض وصلة الجر"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly manage your towing needs with the 3 Series F30's integrated Tow Hitch Display.  This convenient feature provides real-time feedback on trailer stability and connection status directly within your iDrive system, ensuring a secure and confident towing experience.  No more guesswork – tow with precision and peace of mind.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1348,
+                "title": {
+                  "ar": "وظائف الراحة عبر Comfort Access",
+                  "en": "Comfort Operation via CA",
+                  "he": "وظائف الراحة عبر Comfort Access"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/16ac1f179b8edc90c11b1fefbb611c33_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless control of your BMW 3 Series F30's climate, seats, and other comfort features through the intuitive Comfort Access (CA) system.  Simply approach your vehicle to unlock and activate pre-set climate preferences, ensuring a personalized and welcoming atmosphere awaits you every journey. Seamlessly adjust settings remotely using your key fob, creating the ultimate in driving comfort.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1349,
+                "title": {
+                  "ar": "لون شاشات العرض الرياضية",
+                  "en": "Sport Displays Color",
+                  "he": "لون شاشات العرض الرياضية"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/45f535c8fd75cdbea9656621b9a3a7c9_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of the road with enhanced visual engagement.  Sport Displays Color transforms your BMW 3 Series F30's instrument cluster into a vibrant, dynamic display, providing crucial driving information with a captivating and customizable aesthetic.  Immerse yourself in a driving experience tailored to your preferences.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1350,
+                "title": {
+                  "ar": "الصوت الأقصى",
+                  "en": "Maximum Volume",
+                  "he": "الصوت الأقصى"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/d4a8c7d87179af7df7f76789b3d6ae91_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the full, uncompromised power of the BMW 3 Series F30's audio system.  Maximum Volume delivers breathtaking clarity and depth at any level, transforming your drive into an immersive sonic landscape. Feel the music, not just hear it.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1351,
+                "title": {
+                  "ar": "نمط قائمة NBT EVO",
+                  "en": "NBT EVO Menu Style",
+                  "he": "نمط قائمة NBT EVO"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/265862d2f2fdcd1ae6689152080e9f8d_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in intuitive driving with the NBT EVO Menu Style for your 3 Series F30.  Its redesigned interface offers a streamlined, visually stunning experience, making navigation and control of your vehicle's functions effortless and enjoyable. Upgrade your in-car technology with this sophisticated enhancement.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              }
+            ]
           }
         ]
       },
