@@ -1159,7 +1159,7 @@
                   "en": "Maintenance",
                   "he": "תחזוקה"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg"
               },
               {
@@ -2323,7 +2323,7 @@
                   "en": "Vehicle Check Reset",
                   "he": "إعادة ضبط فحص السيارة"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak performance and ensure your BMW 1 Series F21 operates flawlessly.  The Vehicle Check Reset function conveniently clears any stored diagnostic trouble codes (DTCs) after servicing or repairs, allowing you to promptly address any issues and keep your driving experience optimal.  This simple yet crucial feature ensures a smooth, worry-free journey.",
@@ -2589,7 +2589,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 473,
@@ -4592,7 +4593,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 606,
@@ -5634,7 +5636,7 @@
                   "en": "Vehicle Check Reset",
                   "he": "إعادة ضبط فحص السيارة"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak performance and optimal functionality with the 3 Series F30's Vehicle Check Reset.  This simple procedure, easily accessed through the onboard computer, clears any temporary warning lights and ensures your vehicle's systems are reporting accurately.  Enjoy a seamless driving experience, free from unnecessary alerts.",
@@ -6684,7 +6686,7 @@
                   "en": "Vehicle Check Reset",
                   "he": "إعادة ضبط فحص السيارة"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak performance and ensure optimal functionality with the 3 Series F31's Vehicle Check Reset.  This convenient feature allows you to quickly clear any warning lights or messages, providing immediate reassurance and restoring the pristine driving experience you expect from a BMW.  Simple to use, it keeps you connected and in control.",
@@ -6923,7 +6925,7 @@
                   "ar": "",
                   "he": ""
                 },
-                "price": ""
+                "price": "50"
               },
               {
                 "id": 969,
@@ -9164,7 +9166,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 618,
@@ -11385,7 +11388,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 764,
@@ -12353,7 +12357,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 824,
@@ -14358,7 +14363,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 957,
@@ -14553,7 +14559,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 1116,
@@ -15475,7 +15482,7 @@
                   "en": "Vehicle Check Reset",
                   "he": "איפוס בדיקת רכב"
                 },
-                "price": "",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
                 "description": {
                   "en": "Effortlessly reset your BMW 5 Series G60's vehicle check indicators through the intuitive iDrive system.  Maintain optimal performance and peace of mind by quickly addressing and clearing any warning messages, ensuring your driving experience remains flawlessly smooth and efficient.",
