@@ -1139,7 +1139,7 @@
                   "en": "Maintenance",
                   "he": "תחזוקה"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg"
               },
               {
@@ -2305,7 +2305,7 @@
                   "en": "Rear Brake Pads Reset",
                   "he": "إعادة ضبط تيل الفرامل الخلفية"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
                 "description": {
                   "en": "Ensure optimal braking performance and longevity for your BMW 1 Series F21.  This procedure electronically resets the rear brake pad wear sensors, providing accurate and reliable brake system monitoring.  Maintain peak braking efficiency and avoid unnecessary warning lights with this essential service.",
@@ -2574,7 +2574,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 472,
@@ -4578,7 +4579,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 605,
@@ -5618,7 +5620,7 @@
                   "en": "Rear Brake Pads Reset",
                   "he": "إعادة ضبط تيل الفرامل الخلفية"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
                 "description": {
                   "en": "Ensure optimal braking performance and extend the life of your BMW 3 Series F30's brake system.  Our Rear Brake Pad Reset procedure accurately calibrates the brake pad wear sensors, providing precise readings on your instrument panel and preventing premature brake wear warnings.  This simple yet crucial service guarantees peak braking efficiency and safety.",
@@ -6668,7 +6670,7 @@
                   "en": "Rear Brake Pads Reset",
                   "he": "إعادة ضبط تيل الفرامل الخلفية"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
                 "description": {
                   "en": "Ensure optimal braking performance and extend the life of your BMW 3 Series F31's braking system.  The Rear Brake Pads Reset feature allows for precise recalibration of the brake pad wear sensors after replacement, providing accurate and reliable brake wear monitoring on your iDrive display. This ensures your safety and prevents premature brake pad wear.",
@@ -6905,7 +6907,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 968,
@@ -9151,7 +9154,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 617,
@@ -11373,7 +11377,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 763,
@@ -12342,7 +12347,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 823,
@@ -14348,7 +14354,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 956,
@@ -14544,7 +14551,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 1115,
@@ -15464,7 +15472,7 @@
                   "en": "Rear Brake Pads Reset",
                   "he": "איפוס רפידות בלם אחוריות"
                 },
-                "price": "",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak braking performance in your BMW 5 Series G60 with our effortless Rear Brake Pads Reset feature.  This crucial service reminder ensures optimal braking responsiveness and safety, seamlessly integrated into your iDrive system for your convenience.  Simply reset the indicator after replacing your brake pads, eliminating unnecessary warnings and keeping you focused on the road ahead.",
