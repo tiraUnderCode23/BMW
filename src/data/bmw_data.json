@@ -14907,7 +14907,1288 @@
           {
             "value": "f32",
             "text": "F32",
-            "activations": []
+            "activations": [
+              {
+                "id": 1,
+                "title": {
+                  "ar": "تفعيل وضع الرياضة الفردي",
+                  "en": "Activate Individual Sport Mode",
+                  "he": "הפעלת מצב ספורט אישי"
+                },
+                "description": {
+                  "ar": "تفعيل إمكانية تخصيص وضع القيادة الرياضية حسب تفضيلاتك الشخصية",
+                  "en": "Enable customization of the Sport driving mode to your personal preferences",
+                  "he": "הפעלת האפשרות להתאים אישית את מצב הנהיגה הספורטיבי להעדפותיך האישיות"
+                },
+                "category": {
+                  "ar": "وضع القيادة",
+                  "en": "Driving Mode",
+                  "he": "מצב נהيגה"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
+              },
+              {
+                "id": 2,
+                "title": {
+                  "ar": "تفعيل إغلاق النوافذ من المفتاح",
+                  "en": "Activate Window Closing from Key",
+                  "he": "הפעלת סגירת חלונות מהמפתח"
+                },
+                "description": {
+                  "ar": "إمكانية إغلاق جميع النوافذ عن طريق الضغط المطول على زر القفل في المفتاح",
+                  "en": "Ability to close all windows by long-pressing the lock button on the key",
+                  "he": "אפשרות לסגור את כל החלונות באמצעות לחיצה ממושכת על כפתור הנעילה במפתח"
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Convenience",
+                  "he": "נוחות"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/e311254b0aa70298eed3d3173c86999e_oca_picture.jpg"
+              },
+              {
+                "id": 3,
+                "title": {
+                  "ar": "تفعيل فتح صندوق الأمتعة من المفتاح",
+                  "en": "Activate Trunk Opening from Key",
+                  "he": "הפעלת פתיחת תא מטען מהמפתח"
+                },
+                "description": {
+                  "ar": "إمكانية فتح صندوق الأمتعة عن طريق الضغط المزدوج على زر فتح الأبواب",
+                  "en": "Ability to open the trunk by double-pressing the unlock button",
+                  "he": "אפשרות לפתוח את תא המטען בלחיצה כפולה على כפתור פתיחת הדלתות"
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Convenience",
+                  "he": "נוחות"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg"
+              },
+              {
+                "id": 4,
+                "title": {
+                  "ar": "تفعيل وظيفة الترحيب الضوئي",
+                  "en": "Activate Welcome Light Function",
+                  "he": "הפעלת פונקציית תאורת קבלת פנים"
+                },
+                "description": {
+                  "ar": "إضاءة المصابيح بنمط خاص عند فتح السيارة",
+                  "en": "Lights illuminate in a special pattern when the car is unlocked",
+                  "he": "הפנסים נדלקים בתבנית מיוחדة עם פתיחת נעילת הרכב"
+                },
+                "category": {
+                  "ar": "الإضاءة",
+                  "en": "Lighting",
+                  "he": "תאורה"
+                },
+                "price": "400",
+                "image_url": "https://storage.obdeleven.com/parse/8722d3c8cc595754444c10f2b88896c9_oca_picture.jpg"
+              },
+              {
+                "id": 5,
+                "title": {
+                  "ar": "تفعيل عرض معلومات المحرك",
+                  "en": "Activate Engine Information Display",
+                  "he": "הפעלת תצוגת מידע מנוע"
+                },
+                "description": {
+                  "ar": "عرض معلومات إضافية عن المحرك في شاشة العدادات",
+                  "en": "Display additional engine information on the instrument cluster screen",
+                  "he": "הצגת מידע נוסף על המנוע במסך לוח המחוונים"
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "130",
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg"
+              },
+              {
+                "id": 6,
+                "title": {
+                  "ar": "5 ومضات لإشارة الانعطاف المريحة",
+                  "en": "5 Times Comfort Turn Signals",
+                  "he": "5 הבהובים לאיתות נוחות"
+                },
+                "description": {
+                  "ar": "تفعيل وميض إشارة الانعطاف 5 مرات بضغطة واحدة.",
+                  "en": "Activate the turn signal to flash 5 times with a single tap.",
+                  "he": "הפעלת הבהוב איתות 5 פעמים בלחיצה אחת."
+                },
+                "category": {
+                  "ar": "الإضاءة",
+                  "en": "Lighting",
+                  "he": "תאורה"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg"
+              },
+              {
+                "id": 7,
+                "title": {
+                  "ar": "رسوم متحركة لشعار M عند بدء التشغيل",
+                  "en": "M Logo Startup Animation",
+                  "he": "אנימציית הפעלה עם לוגו M"
+                },
+                "description": {
+                  "ar": "تغيير رسوم بدء التشغيل على شاشة iDrive إلى شعار M.",
+                  "en": "Change the startup animation on the iDrive screen to the M logo.",
+                  "he": "שנה את אנימציית ההפעלה במסך iDrive ללוגו M."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "250",
+                "image_url": "https://storage.obdeleven.com/parse/c6084ab451c88bc8ef157eb3c16c83d8_oca_picture.jpg"
+              },
+              {
+                "id": 8,
+                "title": {
+                  "ar": "تفعيل نمط عرض M",
+                  "en": "M View Style Cluster",
+                  "he": "לוח מחוונים בסגנון M"
+                },
+                "description": {
+                  "ar": "تفعيل نمط عرض M في لوحة العدادات.",
+                  "en": "Activate the M display style in the instrument cluster.",
+                  "he": "הפעלת סגנון תצוגת M בלוח המחוונים."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "250",
+                "image_url": "https://storage.obdeleven.com/parse/f8030b56910a732fe26c7d2fc3a6e2a9_oca_picture.jpg"
+              },
+              {
+                "id": 9,
+                "title": {
+                  "ar": "وضع القيادة الافتراضي",
+                  "en": "Default Driving Mode",
+                  "he": "מצב נהיגה ברירת מחדל"
+                },
+                "description": {
+                  "ar": "تعيين وضع القيادة الافتراضي عند بدء تشغيل السيارة.",
+                  "en": "Set the default driving mode when the car starts.",
+                  "he": "הגדר את מצב הנהיגה כברירת מחדל עם התנעת הרכב."
+                },
+                "category": {
+                  "ar": "وضع القيادة",
+                  "en": "Driving Mode",
+                  "he": "מצב נהיגה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
+              },
+              {
+                "id": 10,
+                "title": {
+                  "ar": "صوت بوق عند القفل",
+                  "en": "Horn on Secure",
+                  "he": "צפצוף בנעילה"
+                },
+                "description": {
+                  "ar": "تفعيل صوت البوق عند قفل السيارة.",
+                  "en": "Activate the horn sound when locking the car.",
+                  "he": "הפעלת צליל הצופר בעת נעילת הרכב."
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Convenience",
+                  "he": "נוחות"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg"
+              },
+              {
+                "id": 11,
+                "title": {
+                  "ar": "عرض ضغط ودرجة حرارة الإطارات",
+                  "en": "TPMS Pressure and Temperature Display",
+                  "he": "תצוגת לחץ וטמפרטורת צמיגים"
+                },
+                "description": {
+                  "ar": "عرض ضغط ودرجة حرارة الإطارات في شاشة النظام.",
+                  "en": "Display tire pressure and temperature on the system screen.",
+                  "he": "הצגת לחץ وטמפרטורת הצמיגים במסך המערכת."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/750b6938e0867d44071bbc032182c8cd_oca_picture.jpg"
+              },
+              {
+                "id": 12,
+                "title": {
+                  "ar": "تحذيرات iDrive",
+                  "en": "iDrive Warnings",
+                  "he": "התראות iDrive"
+                },
+                "description": {
+                  "ar": "تخصيص أو إيقاف تحذيرات iDrive.",
+                  "en": "Customize or disable iDrive warnings.",
+                  "he": "התאמה אישית או השבתה של התראות iDrive."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/66b0c574cd714768234e1a7a15d798cb_oca_picture.jpg"
+              },
+              {
+                "id": 13,
+                "title": {
+                  "ar": "مصابيح ضباب أمامية مع الضوء العالي",
+                  "en": "Front Fog Lights w/ High Beams",
+                  "he": "פנסי ערפל קדמיים עם אור גבוה"
+                },
+                "description": {
+                  "ar": "تفعيل المصابيح الأمامية للضباب مع الأضواء العالية.",
+                  "en": "Activate front fog lights with high beams.",
+                  "he": "הפעלת פנסי ערפל קדמיים יחד עם אורות גבוהים."
+                },
+                "category": {
+                  "ar": "الإضاءة",
+                  "en": "Lighting",
+                  "he": "תאורה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/a06b85fa78830e85946ef8354f02a95c_oca_picture.jpg"
+              },
+              {
+                "id": 14,
+                "title": {
+                  "ar": "مصابيح ضباب أمامية مع أضواء الوقوف",
+                  "en": "Front Fog Lights w/ Parking Lights",
+                  "he": "פנסי ערפל קדמיים עם אורות חניה"
+                },
+                "description": {
+                  "ar": "تفعيل المصابيح الأمامية للضباب مع أضواء الوقوف.",
+                  "en": "Activate front fog lights with parking lights.",
+                  "he": "הפעלת פנסי ערפל קדמיים יחד עם אורות חניה."
+                },
+                "category": {
+                  "ar": "الإضاءة",
+                  "en": "Lighting",
+                  "he": "תאורה"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg"
+              },
+              {
+                "id": 15,
+                "title": {
+                  "ar": "وضع Sport+",
+                  "en": "Sport+ Mode",
+                  "he": "מצב Sport+"
+                },
+                "description": {
+                  "ar": "تفعيل وضع Sport+ للقيادة الرياضية المعززة.",
+                  "en": "Activate Sport+ mode for enhanced sporty driving.",
+                  "he": "הפעלת מצב Sport+ לנהيגה ספורטיבית משופרת."
+                },
+                "category": {
+                  "ar": "وضع القيادة",
+                  "en": "Driving Mode",
+                  "he": "מצב נהיגה"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/c75546901cd815e8400b4c9e57c8fbda_oca_picture.jpg"
+              },
+              {
+                "id": 16,
+                "title": {
+                  "ar": "عرض X-View",
+                  "en": "X-View Display",
+                  "he": "תצוגת X-View"
+                },
+                "description": {
+                  "ar": "تفعيل عرض X-View في شاشة العدادات (معلومات الطرق الوعرة).",
+                  "en": "Activate X-View display in the instrument cluster (off-road information).",
+                  "he": "הפעלת תצוגת X-View בלוח המחוונים (מידע שטח)."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg"
+              },
+              {
+                "id": 17,
+                "title": {
+                  "ar": "عرض ضغط الإطارات في لوحة العدادات",
+                  "en": "Tire Pressure Display in Dashboard",
+                  "he": "תצוגת לחץ אוויר בצמיגים בלוח המחוונים"
+                },
+                "description": {
+                  "ar": "عرض ضغط الإطارات مباشرة في لوحة العدادات.",
+                  "en": "Display tire pressure directly in the instrument cluster.",
+                  "he": "הצגת לחץ האוויר בצמיגים ישירות בלוח המחוונים."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg"
+              },
+              {
+                "id": 18,
+                "title": {
+                  "ar": "عرض مقياس السرعة",
+                  "en": "Speedometer Scale Display",
+                  "he": "תצוגת סקאלת מהירות"
+                },
+                "description": {
+                  "ar": "عرض مقياس السرعة بتصميمات إضافية.",
+                  "en": "Display the speedometer with additional designs.",
+                  "he": "הצגת מד המהירות בעיצובים נוספים."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg"
+              },
+              {
+                "id": 20,
+                "title": {
+                  "ar": "حساسية مستشعر المطر/الضوء",
+                  "en": "RLS Sensitivity",
+                  "he": "רגישות חיישן גשם/אור"
+                },
+                "description": {
+                  "ar": "تعديل حساسية مستشعر المطر والضوء.",
+                  "en": "Adjust the sensitivity of the rain and light sensor.",
+                  "he": "התאמת רגישות חיישן הגשם והאור."
+                },
+                "category": {
+                  "ar": "الإضاءة",
+                  "en": "Lighting",
+                  "he": "תאורה"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/2e9a187ad3e4975457c828d32b265d00_oca_picture.jpg"
+              },
+              {
+                "id": 21,
+                "title": {
+                  "ar": "ذاكرة تدفئة/تبريد المقاعد",
+                  "en": "Seats Heating/Cooling Memory",
+                  "he": "זיכרון חימום/קירור מושבים"
+                },
+                "description": {
+                  "ar": "تفعيل ذاكرة تسخين/تبريد المقاعد.",
+                  "en": "Activate memory for seat heating/cooling.",
+                  "he": "הפעלת זיכרון לחימום/קירור המושבים."
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Convenience",
+                  "he": "נוחות"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3bc5584b31e29dafb299a32a307548c1_oca_picture.jpg"
+              },
+              {
+                "id": 22,
+                "title": {
+                  "ar": "وقت القفل الذاتي",
+                  "en": "Self Locking Time",
+                  "he": "זמן נעילה עצמית"
+                },
+                "description": {
+                  "ar": "تعديل وقت القفل التلقائي للأبواب.",
+                  "en": "Adjust the automatic door locking time.",
+                  "he": "התאמת זמן נעילת הדלתות האוטומטית."
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Convenience",
+                  "he": "נוחות"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/017f0cfdfafb6470f1d675974345b4b9_oca_picture.jpg"
+              },
+              {
+                "id": 23,
+                "title": {
+                  "ar": "أمان النوافذ الأمامية الكهربائية",
+                  "en": "Power Front Windows Safety",
+                  "he": "בטיחות חלונות קדמיים חשמליים"
+                },
+                "description": {
+                  "ar": "تعديل حساسية نظام أمان النوافذ الأمامية.",
+                  "en": "Adjust the sensitivity of the front power windows safety system.",
+                  "he": "התאמת רגישות מערכת הבטיחות של החלונות הקדמיים החשמליים."
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Convenience",
+                  "he": "נוחות"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/2605b25bfe3bf986a09a12dd6ccbafe2_oca_picture.jpg"
+              },
+              {
+                "id": 24,
+                "title": {
+                  "ar": "أضواء فرامل الطوارئ",
+                  "en": "Emergency Braking Lights",
+                  "he": "אורות בלימת חירום"
+                },
+                "description": {
+                  "ar": "تفعيل أضواء الفرامل الوامضة في حالات الفرملة الطارئة.",
+                  "en": "Activate flashing brake lights during emergency braking.",
+                  "he": "הפעלת הבהוב אורות הבלם בבלימת חירום."
+                },
+                "category": {
+                  "ar": "الإضاءة",
+                  "en": "Lighting",
+                  "he": "תאורה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/b550b5057a30ee8204ffd16ec8a730e9_oca_picture.jpg"
+              },
+              {
+                "id": 25,
+                "title": {
+                  "ar": "أضواء لوحة الترخيص LED",
+                  "en": "LED License Plate Lights",
+                  "he": "תאורת LED ללוחית רישוי"
+                },
+                "description": {
+                  "ar": "تعديل إعدادات أضواء لوحة الترخيص LED.",
+                  "en": "Adjust settings for LED license plate lights.",
+                  "he": "התאמת הגדרות תאורת ה-LED של לוחית הרישוי."
+                },
+                "category": {
+                  "ar": "الإضاءة",
+                  "en": "Lighting",
+                  "he": "תאורה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/be7c9596369c14bf9a35bce7a9634dff_oca_picture.jpg"
+              },
+              {
+                "id": 26,
+                "title": {
+                  "ar": "عرض القيادة المساعدة",
+                  "en": "Assisted Driving View",
+                  "he": "מצב נהיגה מסייעת"
+                },
+                "description": {
+                  "ar": "تفعيل عرض مساعدة القيادة في الشاشة.",
+                  "en": "Activate the assisted driving view on the screen.",
+                  "he": "הפעלת תצוגת סיוע בנהיגה במסך."
+                },
+                "category": {
+                  "ar": "مساعدة السائق",
+                  "en": "Driver Assistance",
+                  "he": "סיוע לנהג"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/164733e1175a7eab139864fbfd94e301_oca_picture.jpg"
+              },
+              {
+                "id": 27,
+                "title": {
+                  "ar": "تأكيد الفتح الصوتي",
+                  "en": "Acoustic Unlock Confirmation",
+                  "he": "אישור פתיחה אקוסטי"
+                },
+                "description": {
+                  "ar": "تفعيل صوت تأكيد فتح الأبواب.",
+                  "en": "Activate an acoustic confirmation for unlocking doors.",
+                  "he": "הפעלת אישור קולי לפתיחת הדלתות."
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Convenience",
+                  "he": "נוחות"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/daad8bd4bd769adee75ba9f287b93766_oca_picture.jpg"
+              },
+              {
+                "id": 28,
+                "title": {
+                  "ar": "تغيير الحارة التلقائي",
+                  "en": "Automatic Lane Change",
+                  "he": "החלפת נתיב אוטומטית"
+                },
+                "description": {
+                  "ar": "تفعيل وظيفة تغيير المسار التلقائي.",
+                  "en": "Activate the automatic lane change function.",
+                  "he": "הפעלת פונקציית החלפת נתיב אוטומטית."
+                },
+                "category": {
+                  "ar": "مساعدة السائق",
+                  "en": "Driver Assistance",
+                  "he": "סיוע לנהג"
+                },
+                "price": "180",
+                "image_url": "https://storage.obdeleven.com/parse/fcd9a3378aa7aa47880fbcd7704588d5_oca_picture.jpg"
+              },
+              {
+                "id": 29,
+                "title": {
+                  "ar": "صوتيات Bower & Wilkins",
+                  "en": "Bower & Wilkins Audio",
+                  "he": "שמע של Bower & Wilkins"
+                },
+                "description": {
+                  "ar": "تفعيل إعدادات صوت Bower & Wilkins (إذا كان النظام متوفرًا).",
+                  "en": "Activate Bower & Wilkins sound settings (if the system is available).",
+                  "he": "הפעלת הגדרות שמע של Bower & Wilkins (אם המערכת זמינה)."
+                },
+                "category": {
+                  "ar": "الصوت",
+                  "en": "Audio",
+                  "he": "שמע"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/3acc77e1efe3590de5374403c43c7431_oca_picture.jpg"
+              },
+              {
+                "id": 30,
+                "title": {
+                  "ar": "تسجيل بطارية 12V",
+                  "en": "12V Battery Registration",
+                  "he": "רישום מצבר 12V"
+                },
+                "description": {
+                  "ar": "تسجيل بطارية 12 فولت جديدة.",
+                  "en": "Register a new 12V battery.",
+                  "he": "רישום מצבר 12 וולט חדש."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "150",
+                "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg"
+              },
+              {
+                "id": 31,
+                "title": {
+                  "ar": "قائمة صوت المحرك",
+                  "en": "Engine Sound Menu",
+                  "he": "תפריט צליל מנוע"
+                },
+                "description": {
+                  "ar": "تفعيل قائمة إعدادات صوت المحرك.",
+                  "en": "Activate the engine sound settings menu.",
+                  "he": "הפעלת תפריט הגדרות צליל המנוע."
+                },
+                "category": {
+                  "ar": "الصوت",
+                  "en": "Audio",
+                  "he": "שמע"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/a28d870764ebd97ea21cce79475e45cf_oca_picture.jpg"
+              },
+              {
+                "id": 32,
+                "title": {
+                  "ar": "شعار لوحة العدادات",
+                  "en": "Instrument Cluster Logo",
+                  "he": "לוגו לוח מחוונים"
+                },
+                "description": {
+                  "ar": "تغيير شعار لوحة العدادات.",
+                  "en": "Change the instrument cluster logo.",
+                  "he": "שינוי לוגו לוח המחוונים."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/9281fcbd489723b44ffb99ea3f40e912_oca_picture.jpg"
+              },
+              {
+                "id": 33,
+                "title": {
+                  "ar": "تدفئة عجلة القيادة التلقائية",
+                  "en": "Automatic Steering Wheel Heating",
+                  "he": "חימום הגה אוטומטי"
+                },
+                "description": {
+                  "ar": "تفعيل التسخين التلقائي لعجلة القيادة.",
+                  "en": "Activate automatic steering wheel heating.",
+                  "he": "הפעלת חימום אוטומטי להגה."
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Convenience",
+                  "he": "נוחות"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/fa73e81d4d099184693965f006cedf88_oca_picture.jpg"
+              },
+              {
+                "id": 34,
+                "title": {
+                  "ar": "إضاءة محيطة بدلاً من البرونزي",
+                  "en": "Ambient Lighting Instead of Bronze",
+                  "he": "תאורת אווירה במקום ברונזה"
+                },
+                "description": {
+                  "ar": "تغيير لون الإضاءة المحيطة من البرونزي.",
+                  "en": "Change the ambient lighting color from bronze.",
+                  "he": "שינוי צבע تאورتا الأجواء من البرونز."
+                },
+                "category": {
+                  "ar": "الإضاءة",
+                  "en": "Lighting",
+                  "he": "תאורה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/2f4d0c62ee132453ff0bced6d80618c8_oca_picture.jpg"
+              },
+              {
+                "id": 35,
+                "title": {
+                  "ar": "لون محيطي بدلاً من البرونزي",
+                  "en": "Ambient Color Instead of Bronze",
+                  "he": "צבע אווירה במקום ברונזה"
+                },
+                "description": {
+                  "ar": "تغيير لون الإضاءة المحيطة من البرونزي.",
+                  "en": "Change the ambient lighting color from bronze.",
+                  "he": "שינוי צבע תאורת الأجواء من البرونز."
+                },
+                "category": {
+                  "ar": "الإضاءة",
+                  "en": "Lighting",
+                  "he": "תאורה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/26e104be19815c2325202b469119bac7_oca_picture.jpg"
+              },
+              {
+                "id": 36,
+                "title": {
+                  "ar": "إغلاق عند المطر",
+                  "en": "Rain Closing",
+                  "he": "סגירה בגשם"
+                },
+                "description": {
+                  "ar": "إغلاق النوافذ وفتحة السقف تلقائيًا عند استشعار المطر.",
+                  "en": "Automatically close windows and sunroof when rain is detected.",
+                  "he": "סגירה אוטומטית של חלונות וגג שמש בזיהוי גשם."
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Convenience",
+                  "he": "נוחות"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/36d4dc3fa8e848c0d6a2f74f26733a39_oca_picture.jpg"
+              },
+              {
+                "id": 37,
+                "title": {
+                  "ar": "أضواء نهارية اسكندنافية",
+                  "en": "Scandinavian DRLs",
+                  "he": "תאורת יום סקנדינבית"
+                },
+                "description": {
+                  "ar": "تفعيل أضواء النهار الاسكندنافية.",
+                  "en": "Activate Scandinavian daytime running lights.",
+                  "he": "הפעלת תאורת יום סקנדינבית."
+                },
+                "category": {
+                  "ar": "الإضاءة",
+                  "en": "Lighting",
+                  "he": "תאורה"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/8722d3c8cc595754444c10f2b88896c9_oca_picture.jpg"
+              },
+              {
+                "id": 38,
+                "title": {
+                  "ar": "شعار M View في لوحة العدادات",
+                  "en": "M View Cluster Logo",
+                  "he": "לוגו M View בלוח המחוונים"
+                },
+                "description": {
+                  "ar": "تفعيل شعار M في لوحة العدادات بنمط العرض M.",
+                  "en": "Activate the M logo in the instrument cluster with M view style.",
+                  "he": "הפעלת לוגו M בלוח המחוונים עם סגנון תצוגת M."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/8b5fe8386d999b366f513f18496d7230_oca_picture.jpg"
+              },
+              {
+                "id": 39,
+                "title": {
+                  "ar": "قائمة تذكير أحزمة الأمان الخلفية",
+                  "en": "Rear Seat Belts Reminder Menu",
+                  "he": "תפריט תזכורת חגורות בטיחות אחוריות"
+                },
+                "description": {
+                  "ar": "تفعيل قائمة تذكير أحزمة الأمان للمقاعد الخلفية.",
+                  "en": "Activate the rear seat belts reminder menu.",
+                  "he": "הפעלת תפריט תזכורת חגורות בטיחות אחוריות."
+                },
+                "category": {
+                  "ar": "السلامة",
+                  "en": "Safety",
+                  "he": "בטיחות"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/5c692f5330b674a618b7afa3604add04_oca_picture.jpg"
+              },
+              {
+                "id": 40,
+                "title": {
+                  "ar": "إلغاء تفعيل تصميم الصوت النشط",
+                  "en": "Active Sound Design Deactivation",
+                  "he": "ביטול עיצוב סאונד אקטיבי"
+                },
+                "description": {
+                  "ar": "إلغاء تنشيط نظام الصوت النشط (ASD).",
+                  "en": "Deactivate the Active Sound Design (ASD) system.",
+                  "he": "ביטול מערכת עיצוב סאונד אקטיבי (ASD)."
+                },
+                "category": {
+                  "ar": "الصوت",
+                  "en": "Audio",
+                  "he": "שמע"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/159a4022221dacd99df5556dead2d5bb_oca_picture.jpg"
+              },
+              {
+                "id": 41,
+                "title": {
+                  "ar": "وضع الانزلاق ECO PRO",
+                  "en": "ECO PRO Coasting Mode",
+                  "he": "מצב גלישה ECO PRO"
+                },
+                "description": {
+                  "ar": "تفعيل وضع الانزلاق في ECO PRO.",
+                  "en": "Activate coasting mode in ECO PRO.",
+                  "he": "הפעלת מצב גלישה ב-ECO PRO."
+                },
+                "category": {
+                  "ar": "وضع القيادة",
+                  "en": "Driving Mode",
+                  "he": "מצב נהיגה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/40b747b342a0e62a4cb41e010cbd8b3c_oca_picture.jpg"
+              },
+              {
+                "id": 42,
+                "title": {
+                  "ar": "وضع Comfort+",
+                  "en": "Comfort+ Mode",
+                  "he": "מצב Comfort+"
+                },
+                "description": {
+                  "ar": "تفعيل وضع Comfort+.",
+                  "en": "Activate Comfort+ mode.",
+                  "he": "הפעלת מצב Comfort+."
+                },
+                "category": {
+                  "ar": "وضع القيادة",
+                  "en": "Driving Mode",
+                  "he": "מצב נהيגה"
+                },
+                "price": "130",
+                "image_url": "https://storage.obdeleven.com/parse/c4e5ef27ac26d52bc4fc01c0be79da6e_oca_picture.jpg"
+              },
+              {
+                "id": 43,
+                "title": {
+                  "ar": "اختبار أضواء الفرامل",
+                  "en": "Brake Lights Test",
+                  "he": "בדיקת אורות בלם"
+                },
+                "description": {
+                  "ar": "اختبار أضواء الفرامل.",
+                  "en": "Test the brake lights.",
+                  "he": "בדיקת אורות הבלם."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/79c83239c057fff25d0ffc0290e44f83_oca_picture.jpg"
+              },
+              {
+                "id": 44,
+                "title": {
+                  "ar": "اختبار أضواء الرجوع للخلف",
+                  "en": "Reversing Lights Test",
+                  "he": "בדיקת אורות רוורס"
+                },
+                "description": {
+                  "ar": "اختبار أضواء الرجوع للخلف.",
+                  "en": "Test the reversing lights.",
+                  "he": "בדיקת אורות הרוורס."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/44ecec72499c9f1c68a9bbd6381c4577_oca_picture.jpg"
+              },
+              {
+                "id": 45,
+                "title": {
+                  "ar": "اختبار مضخة غسيل الزجاج الأمامي",
+                  "en": "Windscreen Washer Pump Test",
+                  "he": "בדיקת משאבת שטיפת שמשות"
+                },
+                "description": {
+                  "ar": "اختبار مضخة غسيل الزجاج الأمامي.",
+                  "en": "Test the windscreen washer pump.",
+                  "he": "בדיקת משאבת שטיפת השמשות."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/98e61f5539a545cfede9847ac8f79d3a_oca_picture.jpg"
+              },
+              {
+                "id": 46,
+                "title": {
+                  "ar": "اختبار فتح وإغلاق ستارة المبرد",
+                  "en": "Radiator Blind Opening and Closing",
+                  "he": "בדיקת פתיחה וסגירה של תריס הרדיאטור"
+                },
+                "description": {
+                  "ar": "اختبار فتح وإغلاق ستارة المبرد.",
+                  "en": "Test the opening and closing of the radiator blind.",
+                  "he": "בדיקת פתיחה וסגירה של תריס הרדיאטור."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/191ec48271def6879338a979daa8a382_oca_picture.jpg"
+              },
+              {
+                "id": 47,
+                "title": {
+                  "ar": "اختبار اهتزاز عجلة القيادة",
+                  "en": "Steering Wheel Vibration Test",
+                  "he": "בדיקת רטט הגה"
+                },
+                "description": {
+                  "ar": "اختبار اهتزاز عجلة القيادة.",
+                  "en": "Test the steering wheel vibration.",
+                  "he": "בדיקת רטט ההגה."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/05671bc403200ee80861cd573d2f049b_oca_picture.jpg"
+              },
+              {
+                "id": 48,
+                "title": {
+                  "ar": "اختبار مروحة المحرك",
+                  "en": "Engine Fan Test",
+                  "he": "בדיקת מאוורר מנוע"
+                },
+                "description": {
+                  "ar": "اختبر مروحة المحرك.",
+                  "en": "Test the engine fan.",
+                  "he": "בדוק את מאוורר המנוע."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/695fd1be4b24dfd3b5222090d16f520a_oca_picture.jpg"
+              },
+              {
+                "id": 49,
+                "title": {
+                  "ar": "اختبار البوق",
+                  "en": "Horn Test",
+                  "he": "بديقت البوق"
+                },
+                "description": {
+                  "ar": "اختبار البوق.",
+                  "en": "Test the horn.",
+                  "he": "בדיקת הצופר."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/25004774a9c5fa633d3660c65c76ece0_oca_picture.jpg"
+              },
+              {
+                "id": 50,
+                "title": {
+                  "ar": "اختبار أضواء الضباب الخلفية",
+                  "en": "Rear Fog Lights Test",
+                  "he": "بديقت فوانيس الضباب الخلفية"
+                },
+                "description": {
+                  "ar": "اختبار أضواء الضباب الخلفية.",
+                  "en": "Test the rear fog lights.",
+                  "he": "بديقت أضواء الضباب الخلفية."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/91efcacfe9b197171c786f359ca28c20_oca_picture.jpg"
+              },
+              {
+                "id": 51,
+                "title": {
+                  "ar": "فحص المصابيح الأمامية",
+                  "en": "Headlights Check",
+                  "he": "فحص المصابيح الأمامية"
+                },
+                "description": {
+                  "ar": "فحص المصابيح الأمامية.",
+                  "en": "Check the headlights.",
+                  "he": "פנסים קדמיים."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/f0169c9a66aeaa3564a54473b65c9039_oca_picture.jpg"
+              },
+              {
+                "id": 52,
+                "title": {
+                  "ar": "اختبار أضواء لوحة العدادات",
+                  "en": "Instrument Cluster Lights Test",
+                  "he": "بديقت أضواء لوحة العدادات"
+                },
+                "description": {
+                  "ar": "اختبار أضواء لوحة العدادات.",
+                  "en": "Test the instrument cluster lights.",
+                  "he": "بديقت أضواء لوحة العدادات."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/06b677511a8683a43e283a03c7bb6f50_oca_picture.jpg"
+              },
+              {
+                "id": 53,
+                "title": {
+                  "ar": "فحص نظام الاتصال الطارئ SOS",
+                  "en": "SOS Emergency Call System Check",
+                  "he": "فحص نظام الاتصال الطارئ SOS"
+                },
+                "description": {
+                  "ar": "فحص نظام الاتصال الطارئ SOS.",
+                  "en": "Check the SOS emergency call system.",
+                  "he": "فحص نظام الاتصال الطارئ SOS."
+                },
+                "category": {
+                  "ar": "السلامة",
+                  "en": "Safety",
+                  "he": "בטיחות"
+                },
+                "price": "500",
+                "image_url": "https://storage.obdeleven.com/parse/63c12ebda4e28525f79ced7e43280430_oca_picture.jpg"
+              },
+              {
+                "id": 54,
+                "title": {
+                  "ar": "إعادة ضبط سائل الفرامل",
+                  "en": "Brake Fluid Reset",
+                  "he": "إعادة ضبط سائل الفرامل"
+                },
+                "description": {
+                  "ar": "إعادة ضبط سائل الفرامل.",
+                  "en": "Reset the brake fluid.",
+                  "he": "إعادة ضبط سائل الفرامل."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg"
+              },
+              {
+                "id": 55,
+                "title": {
+                  "ar": "إعادة ضبط زيت المحرك",
+                  "en": "Engine Oil Reset",
+                  "he": "إعادة ضبط زيت المحرك"
+                },
+                "description": {
+                  "ar": "إعادة ضبط زيت المحرك.",
+                  "en": "Reset the engine oil.",
+                  "he": "إعادة ضبط زيت المحرك."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg"
+              },
+              {
+                "id": 56,
+                "title": {
+                  "ar": "إعادة ضبط تيل الفرامل الأمامية",
+                  "en": "Front Brake Pads Reset",
+                  "he": "إعادة ضبط تيل الفرامل الأمامية"
+                },
+                "description": {
+                  "ar": "إعادة ضبط تيل الفرامل الأمامية.",
+                  "en": "Reset the front brake pads.",
+                  "he": "إعادة ضبط تيل الفرامل الأمامية."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg"
+              },
+              {
+                "id": 57,
+                "title": {
+                  "ar": "إعادة ضبط تيل الفرامل الخلفية",
+                  "en": "Rear Brake Pads Reset",
+                  "he": "إعادة ضبط تيل الفرامل الخلفية"
+                },
+                "description": {
+                  "ar": "إعادة ضبط تيل الفرامل الخلفية.",
+                  "en": "Reset the rear brake pads.",
+                  "he": "إعادة ضبط تيل الفرامل الخلفية."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg"
+              },
+              {
+                "id": 58,
+                "title": {
+                  "ar": "إعادة ضبط فحص السيارة",
+                  "en": "Vehicle Check Reset",
+                  "he": "إعادة ضبط فحص السيارة"
+                },
+                "description": {
+                  "ar": "إعادة ضبط فحص السيارة.",
+                  "en": "Reset the vehicle check.",
+                  "he": "إعادة ضبط فحص السيارة."
+                },
+                "category": {
+                  "ar": "الصيانة",
+                  "en": "Maintenance",
+                  "he": "תחזוקה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg"
+              },
+              {
+                "id": 59,
+                "title": {
+                  "ar": "شاشات العرض الرياضية",
+                  "en": "Sport Displays",
+                  "he": "شاشات العرض الرياضية"
+                },
+                "description": {
+                  "ar": "تفعيل شاشات العرض الرياضية.",
+                  "en": "Activate the sport displays.",
+                  "he": "تفعيل شاشات العرض الرياضية."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "تצוגה"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg"
+              },
+              {
+                "id": 60,
+                "title": {
+                  "ar": "فيديو أثناء القيادة",
+                  "en": "Video in Motion",
+                  "he": "فيديو أثناء القيادة"
+                },
+                "description": {
+                  "ar": "تفعيل تشغيل الفيديو أثناء القيادة.",
+                  "en": "Enable video playback while driving.",
+                  "he": "تفعيل تشغيل الفيديو أثناء القيادة."
+                },
+                "category": {
+                  "ar": "الترفيه",
+                  "en": "Entertainment",
+                  "he": "בידור"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg"
+              },
+              {
+                "id": 61,
+                "title": {
+                  "ar": "عرض وصلة الجر",
+                  "en": "Tow Hitch Display",
+                  "he": "عرض وصلة الجر"
+                },
+                "description": {
+                  "ar": "تفعيل عرض معلومات وصلة الجر.",
+                  "en": "Activate the tow hitch information display.",
+                  "he": "تفعيل عرض معلومات وصلة الجر."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "تצוגה"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg"
+              },
+              {
+                "id": 62,
+                "title": {
+                  "ar": "وظائف الراحة عبر Comfort Access",
+                  "en": "Comfort Operation via CA",
+                  "he": "وظائف الراحة عبر Comfort Access"
+                },
+                "description": {
+                  "ar": "تفعيل وظائف الراحة عبر نظام الوصول المريح (Comfort Access).",
+                  "en": "Activate comfort functions via the Comfort Access system.",
+                  "he": "تفعيل وظائف الراحة عبر نظام الوصول المريح (Comfort Access)."
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Comfort",
+                  "he": "נוחות"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/16ac1f179b8edc90c11b1fefbb611c33_oca_picture.jpg"
+              },
+              {
+                "id": 63,
+                "title": {
+                  "ar": "لون شاشات العرض الرياضية",
+                  "en": "Sport Displays Color",
+                  "he": "لون شاشات العرض الرياضية"
+                },
+                "description": {
+                  "ar": "تغيير لون شاشات العرض الرياضية.",
+                  "en": "Change the color of the sport displays.",
+                  "he": "تغيير لون شاشات العرض الرياضية."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "تצוגה"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/45f535c8fd75cdbea9656621b9a3a7c9_oca_picture.jpg"
+              },
+              {
+                "id": 64,
+                "title": {
+                  "ar": "الصوت الأقصى",
+                  "en": "Maximum Volume",
+                  "he": "الصوت الأقصى"
+                },
+                "description": {
+                  "ar": "تعديل مستوى الصوت الأقصى.",
+                  "en": "Adjust the maximum volume level.",
+                  "he": "تعديل مستوى الصوت الأقصى."
+                },
+                "category": {
+                  "ar": "الصوت",
+                  "en": "Audio",
+                  "he": "שמע"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/d4a8c7d87179af7df7f76789b3d6ae91_oca_picture.jpg"
+              },
+              {
+                "id": 65,
+                "title": {
+                  "ar": "نمط قائمة NBT EVO",
+                  "en": "NBT EVO Menu Style",
+                  "he": "نمط قائمة NBT EVO"
+                },
+                "description": {
+                  "ar": "تغيير نمط قائمة NBT EVO.",
+                  "en": "Change the NBT EVO menu style.",
+                  "he": "تغيير نمط قائمة NBT EVO."
+                },
+                "category": {
+                  "ar": "العرض",
+                  "en": "Display",
+                  "he": "תצוגה"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/265862d2f2fdcd1ae6689152080e9f8d_oca_picture.jpg"
+              }
+            ]
           },
           {
             "value": "f33",
