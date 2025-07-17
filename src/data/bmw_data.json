@@ -59,7 +59,7 @@
                   "en": "Convenience",
                   "he": "נוחות"
                 },
-                "price": "0",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/e311254b0aa70298eed3d3173c86999e_oca_picture.jpg"
               },
               {
@@ -599,7 +599,7 @@
                   "en": "Maintenance",
                   "he": "תחזוקה"
                 },
-                "price": "250",
+                "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg"
               },
               {
@@ -1333,7 +1333,7 @@
                   "en": "Activate Window Closing from Key",
                   "he": "הפעלת סגירת חלונות מהמפתח"
                 },
-                "price": "100",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/e311254b0aa70298eed3d3173c86999e_oca_picture.jpg",
                 "description": {
                   "en": "Effortlessly close all your windows from a distance with the key fob.  A simple press ensures your BMW 1 Series F21 remains secure and protected from the elements, even when you're away. Experience the ultimate in convenient control and peace of mind.",
@@ -1819,7 +1819,7 @@
                   "en": "12V Battery Registration",
                   "he": "רישום מצבר 12V"
                 },
-                "price": "250",
+                "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
                 "description": {
                   "en": "Ensure seamless integration and optimal performance of your BMW 1 Series F21's electrical systems.  12V Battery Registration allows the vehicle's computer to accurately identify and manage the new battery, preventing potential errors and maximizing battery lifespan. This crucial step is essential after battery replacement for a consistently reliable driving experience.",
@@ -2995,7 +2995,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": "250"
+                "price": "150"
               },
               {
                 "id": 500,
@@ -4761,7 +4761,7 @@
                   "en": "Activate Window Closing from Key",
                   "he": "הפעלת סגירת חלונות מהמפתח"
                 },
-                "price": "0",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/e311254b0aa70298eed3d3173c86999e_oca_picture.jpg",
                 "description": {
                   "en": "Effortlessly close all your windows from a distance with the key fob's convenient remote function.  A touch of ultimate control and precision, ensuring your BMW 3 Series F30 remains perfectly secured and climate-controlled, even from afar.  Enjoy the seamless integration of technology for a refined driving experience.",
@@ -5175,7 +5175,7 @@
                   "en": "12V Battery Registration",
                   "he": "רישום מצבר 12V"
                 },
-                "price": "250",
+                "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
                 "description": {
                   "en": "Ensure seamless integration and optimal performance of your BMW 3 Series F30's electrical systems.  12V Battery Registration accurately registers your new battery with the vehicle's computer, preventing error messages and ensuring all onboard functions operate flawlessly. This crucial step maintains peak efficiency and prevents potential electrical issues.",
@@ -5793,7 +5793,7 @@
                   "en": "Activate Window Closing from Key",
                   "he": "הפעלת סגירת חלונות מהמפתח"
                 },
-                "price": "0",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/e311254b0aa70298eed3d3173c86999e_oca_picture.jpg",
                 "description": {
                   "en": "Effortlessly secure your BMW 3 Series F31 from a distance.  With a simple press of your key fob, activate the automatic window closure, ensuring peace of mind and preventing unwanted elements from entering your vehicle.  A small touch, a significant enhancement to your daily drive.",
@@ -6225,7 +6225,7 @@
                   "en": "12V Battery Registration",
                   "he": "רישום מצבר 12V"
                 },
-                "price": "250",
+                "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
                 "description": {
                   "en": "Experience seamless integration and optimized performance with the 3 Series F31's 12V Battery Registration.  This intelligent system ensures precise monitoring and management of your vehicle's battery, maximizing its lifespan and minimizing the risk of unexpected starting issues.  Enjoy the peace of mind that comes with knowing your BMW is operating at peak efficiency.",
@@ -7394,7 +7394,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": "250"
+                "price": "150"
               },
               {
                 "id": 1001,
@@ -9629,7 +9629,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": "250"
+                "price": "150"
               },
               {
                 "id": 650,
@@ -11844,7 +11844,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": "250"
+                "price": "150"
               },
               {
                 "id": 796,
@@ -12737,7 +12737,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": "250"
+                "price": "150"
               },
               {
                 "id": 851,
@@ -15000,7 +15000,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": "250"
+                "price": "150"
               },
               {
                 "id": 1148,
@@ -16014,7 +16014,7 @@
                   "en": "12V Battery Registration",
                   "he": "רישום מצבר 12V"
                 },
-                "price": "250",
+                "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
                 "description": {
                   "en": "The BMW 5 Series G60's intelligent 12V battery registration ensures seamless integration with the vehicle's sophisticated electrical system. This sophisticated feature optimizes battery performance and diagnostics, providing enhanced reliability and preventing potential disruptions to your driving experience. Experience the peace of mind that comes with knowing your vehicle's power source is constantly monitored and managed for optimal efficiency.",
