@@ -299,7 +299,7 @@
                   "en": "Lighting",
                   "he": "תאורה"
                 },
-                "price": "90",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg"
               },
               {
@@ -1549,7 +1549,7 @@
                   "en": "Front Fog Lights w/ Parking Lights",
                   "he": "פנסי ערפל קדמיים עם אורות חניה"
                 },
-                "price": "90",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg",
                 "description": {
                   "en": "Enhance your 1 Series F21's visibility and assertive road presence with integrated front fog lights incorporating parking light functionality.  These elegantly integrated lights provide superior illumination in challenging weather conditions, while also serving as stylish daytime running lights, ensuring you're seen and stand out.",
@@ -2776,7 +2776,8 @@
                 },
                 "category": {
                   "en": "Lighting"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 485,
@@ -4965,7 +4966,7 @@
                   "en": "Front Fog Lights w/ Parking Lights",
                   "he": "פנסי ערפל קדמיים עם אורות חניה"
                 },
-                "price": "90",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg",
                 "description": {
                   "en": "Enhance visibility and navigate challenging conditions with confidence.  The integrated front fog lights, seamlessly incorporating parking light functionality, provide superior illumination and a distinctive BMW design element for added safety and style.",
@@ -5997,7 +5998,7 @@
                   "en": "Front Fog Lights w/ Parking Lights",
                   "he": "פנסי ערפל קדמיים עם אורות חניה"
                 },
-                "price": "90",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg",
                 "description": {
                   "en": "Enhance visibility and safety in challenging conditions with the integrated front fog lights, seamlessly incorporating parking light functionality for added convenience and a refined aesthetic.  Experience confident driving, day or night, with this intelligent lighting solution.",
@@ -7199,7 +7200,8 @@
                 },
                 "category": {
                   "en": "Lighting"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 986,
@@ -9450,7 +9452,8 @@
                 },
                 "category": {
                   "en": "Lighting"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 635,
@@ -11681,7 +11684,8 @@
                 },
                 "category": {
                   "en": "Lighting"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 781,
@@ -12584,7 +12588,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 836,
@@ -14872,7 +14877,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 1133,
@@ -15846,7 +15852,7 @@
                   "en": "Front Fog Lights w/ Parking Lights",
                   "he": "פנסי ערפל קדמיים עם אורות חניה"
                 },
-                "price": "",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg",
                 "description": {
                   "en": "Experience enhanced visibility and a sophisticated aesthetic with the 5 Series G60's integrated front fog lights, seamlessly incorporating parking light functionality.  These precision-engineered lights offer superior illumination in challenging conditions, while adding a refined touch to the vehicle's signature design.",
