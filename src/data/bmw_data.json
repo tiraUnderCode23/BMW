@@ -359,7 +359,7 @@
                   "en": "Display",
                   "he": "תצוגה"
                 },
-                "price": "100",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg"
               },
               {
@@ -1603,7 +1603,7 @@
                   "en": "Tire Pressure Display in Dashboard",
                   "he": "תצוגת לחץ אוויר בצמיגים בלוח המחוונים"
                 },
-                "price": "100",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
                 "description": {
                   "en": "Maintain optimal tire pressure and enhance your 1 Series F21's handling with the integrated Tire Pressure Display.  This convenient feature provides real-time monitoring directly on your dashboard, allowing for proactive maintenance and improved fuel efficiency, ensuring a safer and more enjoyable driving experience.",
@@ -2823,7 +2823,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 488,
@@ -5018,7 +5019,7 @@
                   "en": "Tire Pressure Display in Dashboard",
                   "he": "תצוגת לחץ אוויר בצמיגים בלוח המחוונים"
                 },
-                "price": "100",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
                 "description": {
                   "en": "Maintain optimal tire pressure and enhance your driving experience with the 3 Series F30's integrated Tire Pressure Display.  This convenient feature provides real-time monitoring directly on your dashboard, allowing for proactive maintenance and improved fuel efficiency, maximizing both safety and performance.",
@@ -6050,7 +6051,7 @@
                   "en": "Tire Pressure Display in Dashboard",
                   "he": "תצוגת לחץ אוויר בצמיגים בלוח המחוונים"
                 },
-                "price": "100",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
                 "description": {
                   "en": "Maintain optimal tire pressure and enhance your driving experience with the 3 Series F31's integrated tire pressure display.  This convenient feature provides real-time monitoring directly on your dashboard, alerting you to potential issues before they impact handling or fuel efficiency, ensuring a safer and more confident drive.",
@@ -7245,7 +7246,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 989,
@@ -9495,7 +9497,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 638,
@@ -11725,7 +11728,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 784,
@@ -12627,7 +12631,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 839,
@@ -14914,7 +14919,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 1136,
@@ -15894,7 +15900,7 @@
                   "en": "Tire Pressure Display in Dashboard",
                   "he": "תצוגת לחץ צמיגים בלוח המחוונים"
                 },
-                "price": "",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
                 "description": {
                   "en": "Maintain optimal tire pressure effortlessly with the 5 Series G60's integrated tire pressure display.  This convenient dashboard feature provides real-time monitoring, ensuring optimal handling, fuel efficiency, and tire longevity for a safer and more refined driving experience.",
