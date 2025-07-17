@@ -159,7 +159,7 @@
                   "en": "Display",
                   "he": "תצוגה"
                 },
-                "price": "100",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/c6084ab451c88bc8ef157eb3c16c83d8_oca_picture.jpg"
               },
               {
@@ -1423,7 +1423,7 @@
                   "en": "M Logo Startup Animation",
                   "he": "אנימציית הפעלה עם לוגו M"
                 },
-                "price": "100",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/c6084ab451c88bc8ef157eb3c16c83d8_oca_picture.jpg",
                 "description": {
                   "en": "Ignite your driving passion with the exclusive M Logo Startup Animation, projected onto the ground as your 1 Series F21 awakens.  This captivating display, a hallmark of M performance, adds a touch of unmistakable BMW M character and visual excitement to every journey.",
@@ -2669,7 +2669,8 @@
                 },
                 "category": {
                   "en": "Cosmetic"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 478,
@@ -4677,7 +4678,8 @@
                 },
                 "category": {
                   "en": "Cosmetic"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 611,
@@ -7085,7 +7087,8 @@
                 },
                 "category": {
                   "en": "Cosmetic"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 979,
@@ -9331,7 +9334,8 @@
                 },
                 "category": {
                   "en": "Cosmetic"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 628,
@@ -11557,7 +11561,8 @@
                 },
                 "category": {
                   "en": "Cosmetic"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 774,
@@ -12455,7 +12460,8 @@
                 },
                 "category": {
                   "en": "Cosmetic"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 829,
@@ -14463,7 +14469,8 @@
                 },
                 "category": {
                   "en": "Cosmetic"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 962,
@@ -14736,7 +14743,8 @@
                 },
                 "category": {
                   "en": "Cosmetic"
-                }
+                },
+                "price": "250"
               },
               {
                 "id": 1126,
@@ -15686,7 +15694,7 @@
                   "en": "M Logo Startup Animation",
                   "he": "אנימציית הפעלה של לוגو M"
                 },
-                "price": "",
+                "price": "250",
                 "image_url": "https://storage.obdeleven.com/parse/c6084ab451c88bc8ef157eb3c16c83d8_oca_picture.jpg",
                 "description": {
                   "en": "Witness the iconic M logo ignite on your 5 Series G60's iDrive screen with a captivating startup animation.  This exclusive visual experience elevates the feeling of driving an M-inspired BMW, subtly showcasing the power and heritage within.  A uniquely engaging start to every journey.",
