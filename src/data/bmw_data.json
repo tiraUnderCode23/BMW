@@ -379,7 +379,7 @@
                   "en": "Display",
                   "he": "תצוגה"
                 },
-                "price": "70",
+                "price": "200",
                 "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg"
               },
               {
@@ -1621,7 +1621,7 @@
                   "en": "Speedometer Scale Display",
                   "he": "תצוגת סקאלת מהירות"
                 },
-                "price": "70",
+                "price": "200",
                 "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
                 "description": {
                   "en": "Experience the thrill of precise control with the 1 Series F21's meticulously designed speedometer scale display.  Its clear, high-contrast numerals ensure effortless monitoring of your speed, enhancing both driving focus and the overall cockpit experience.  This driver-centric design element seamlessly integrates with the vehicle's dynamic performance.",
@@ -2840,7 +2840,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 489,
@@ -5040,7 +5041,7 @@
                   "en": "Speedometer Scale Display",
                   "he": "תצוגת סקאלת מהירות"
                 },
-                "price": "70",
+                "price": "200",
                 "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
                 "description": {
                   "en": "Experience the thrill of precise driving with the 3 Series F30's meticulously designed speedometer scale display.  Its clear, high-contrast numerals and intuitive layout ensure effortless monitoring of your speed, enhancing both driving engagement and safety.  A hallmark of BMW's commitment to driver focus and performance.",
@@ -6072,7 +6073,7 @@
                   "en": "Speedometer Scale Display",
                   "he": "תצוגת סקאלת מהירות"
                 },
-                "price": "70",
+                "price": "200",
                 "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
                 "description": {
                   "en": "Experience the thrill of precise control with the 3 Series F31's dynamic Speedometer Scale Display.  Its crisp, clear presentation provides an immediate and intuitive understanding of your vehicle's speed, enhancing both driving engagement and awareness.  Seamlessly integrated into the instrument cluster, it's a testament to BMW's commitment to driver-focused design.",
@@ -7267,7 +7268,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 990,
@@ -9521,7 +9523,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 639,
@@ -11755,7 +11758,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 785,
@@ -12660,7 +12664,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 840,
@@ -14952,7 +14957,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 1137,
@@ -15936,7 +15942,7 @@
                   "en": "Speedometer Scale Display",
                   "he": "תצוגת קנה מידה של מד מהירות"
                 },
-                "price": "",
+                "price": "200",
                 "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
                 "description": {
                   "en": "Experience the thrill of the road with the 5 Series G60's dynamic Speedometer Scale Display.  Its crisp, high-resolution graphics provide an intuitive and engaging driving experience, seamlessly integrating speed information within the instrument cluster for optimal readability and a heightened sense of control.",
