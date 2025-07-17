@@ -2885,7 +2885,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 492,
@@ -7047,7 +7048,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 976,
@@ -9299,7 +9301,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 625,
@@ -11531,7 +11534,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 771,
@@ -12697,7 +12701,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 843,
@@ -14724,7 +14729,8 @@
                 },
                 "category": {
                   "en": "Performance"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 1123,
@@ -15672,7 +15678,7 @@
                   "en": "Speed Correction",
                   "he": "תיקון מהירות"
                 },
-                "price": "",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/7047fa424529e794eae380028a306d4b_oca_picture.jpg",
                 "description": {
                   "en": "Experience unparalleled precision and control with BMW's innovative Speed Correction.  This advanced system subtly adjusts your vehicle's speed based on real-time navigation data, ensuring you effortlessly maintain the optimal speed limit and arrive at your destination smoothly and safely.  Enjoy a more relaxed and confident driving experience, reducing stress and enhancing your journey.",
