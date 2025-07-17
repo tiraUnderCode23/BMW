@@ -1199,7 +1199,7 @@
                   "en": "Entertainment",
                   "he": "בידור"
                 },
-                "price": "180",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg"
               },
               {
@@ -2359,7 +2359,7 @@
                   "en": "Video in Motion",
                   "he": "فيديو أثناء القيادة"
                 },
-                "price": "180",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
                 "description": {
                   "en": "Experience the ultimate in effortless entertainment with Video in Motion.  Enjoy your favorite movies or TV shows on your 1 Series F21's iDrive screen while the vehicle is in motion (where legally permitted).  This feature transforms your commute into a cinematic experience, seamlessly blending driving pleasure with in-car entertainment.",
@@ -2619,7 +2619,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 475,
@@ -4618,7 +4619,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 608,
@@ -5665,7 +5667,7 @@
                   "en": "Video in Motion",
                   "he": "فيديو أثناء القيادة"
                 },
-                "price": "180",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
                 "description": {
                   "en": "Experience seamless entertainment on the go.  BMW's Video in Motion allows you to enjoy videos from compatible sources on your iDrive screen while your 3 Series F30 is in motion, enhancing your driving experience. Note:  This feature should only be used when parked legally and safely, and in accordance with local laws.",
@@ -6715,7 +6717,7 @@
                   "en": "Video in Motion",
                   "he": "فيديو أثناء القيادة"
                 },
-                "price": "180",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
                 "description": {
                   "en": "Experience effortless entertainment on the go with BMW's Video in Motion.  Enjoy your favorite movies or TV shows on the iDrive screen while your 3 Series F31 is stationary or in motion (where legally permitted).  Seamlessly integrate your entertainment with the ultimate driving machine.",
@@ -6947,7 +6949,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 971,
@@ -9184,7 +9187,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 620,
@@ -11401,7 +11405,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 766,
@@ -12367,7 +12372,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 826,
@@ -14368,7 +14374,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 959,
@@ -14561,7 +14568,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "100"
               },
               {
                 "id": 1118,
@@ -15487,7 +15495,7 @@
                   "en": "Video in Motion",
                   "he": "וידאו בתנועה"
                 },
-                "price": "",
+                "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
                 "description": {
                   "en": "Experience seamless entertainment on the go with BMW's Video in Motion.  Enjoy your favorite movies or shows on the central display while your 5 Series G60 is stationary or at low speed, enhancing your journeys with captivating visuals.  This feature is thoughtfully designed to comply with all relevant safety regulations.",
