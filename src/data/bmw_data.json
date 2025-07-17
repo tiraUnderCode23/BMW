@@ -2855,7 +2855,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "300"
               },
               {
                 "id": 490,
@@ -7281,7 +7282,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "300"
               },
               {
                 "id": 991,
@@ -9534,7 +9536,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "300"
               },
               {
                 "id": 640,
@@ -11767,7 +11770,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "300"
               },
               {
                 "id": 786,
@@ -12671,7 +12675,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "300"
               },
               {
                 "id": 841,
@@ -14962,7 +14967,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "300"
               },
               {
                 "id": 1138,
@@ -15948,7 +15954,7 @@
                   "en": "Alpina Style Display",
                   "he": "תצוגה בסגנון אלפינה"
                 },
-                "price": "",
+                "price": "300",
                 "image_url": "https://storage.obdeleven.com/parse/c873e490b1314a701f9bf13f0d73450d_oca_picture.jpg",
                 "description": {
                   "en": "Elevate your driving experience with the Alpina Style Display, featuring bespoke graphics and animations exclusive to the 5 Series G60.  This meticulously crafted digital instrument cluster showcases a unique blend of performance data and elegant design, seamlessly integrated into the BMW iDrive system for an unparalleled level of driver engagement.",
