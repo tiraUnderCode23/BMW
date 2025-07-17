@@ -1179,7 +1179,7 @@
                   "en": "Display",
                   "he": "تצוגה"
                 },
-                "price": "110",
+                "price": "200",
                 "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg"
               },
               {
@@ -2341,7 +2341,7 @@
                   "en": "Sport Displays",
                   "he": "شاشات العرض الرياضية"
                 },
-                "price": "110",
+                "price": "200",
                 "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
                 "description": {
                   "en": "Immerse yourself in the thrill of the drive with the 1 Series F21's Sport Displays.  Experience dynamic, driver-focused instrumentation that provides crisp, real-time information, enhancing your connection to the road and maximizing performance awareness.  Instantly access vital driving data, precisely tailored for an exhilarating and controlled ride.",
@@ -2606,7 +2606,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 474,
@@ -4613,7 +4614,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 607,
@@ -5658,7 +5660,7 @@
                   "en": "Sport Displays",
                   "he": "شاشات العرض الرياضية"
                 },
-                "price": "110",
+                "price": "200",
                 "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
                 "description": {
                   "en": "Immerse yourself in the driving experience with the 3 Series F30's Sport Displays.  Crisp, high-resolution graphics deliver vital performance data directly to your instrument cluster, providing real-time feedback on speed, RPM, and more, enhancing your connection to the road. This dynamic display allows for customizable views tailored to your preferred driving style.",
@@ -6708,7 +6710,7 @@
                   "en": "Sport Displays",
                   "he": "شاشات العرض الرياضية"
                 },
-                "price": "110",
+                "price": "200",
                 "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
                 "description": {
                   "en": "Experience the thrill of the road with heightened driving engagement.  Sport Displays provide dynamic, real-time information – from G-force readings to lap times – projected onto your instrument cluster, transforming every drive into a precision performance event.  Immerse yourself in the exhilarating data stream, enhancing your connection to the machine and your driving expertise.",
@@ -6945,7 +6947,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 970,
@@ -9190,7 +9193,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 619,
@@ -11415,7 +11419,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 765,
@@ -12385,7 +12390,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 825,
@@ -14394,7 +14400,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 958,
@@ -14591,7 +14598,8 @@
                 },
                 "category": {
                   "en": "Infotainment"
-                }
+                },
+                "price": "200"
               },
               {
                 "id": 1117,
@@ -15516,7 +15524,7 @@
                   "en": "Sport Displays",
                   "he": "תצוגות ספורט"
                 },
-                "price": "",
+                "price": "200",
                 "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
                 "description": {
                   "en": "Command the road with unparalleled precision using the 5 Series G60's Sport Displays.  Experience dynamic, driver-focused instrumentation that seamlessly integrates vital performance data, enhancing your driving experience and providing real-time feedback for optimal control.  Immerse yourself in a cockpit designed for exhilaration.",
