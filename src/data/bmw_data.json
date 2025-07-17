@@ -1099,7 +1099,7 @@
                   "en": "Maintenance",
                   "he": "תחזוקה"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg"
               },
               {
@@ -2269,7 +2269,7 @@
                   "en": "Engine Oil Reset",
                   "he": "إعادة ضبط زيت المحرك"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak engine performance with the 1 Series F21's Engine Oil Reset function.  This simple procedure, accessible through the iDrive system, accurately resets the oil service indicator after an oil change, ensuring your engine continues to operate at its optimal efficiency and extending its lifespan.  No more guessing – precise maintenance is at your fingertips.",
@@ -2539,7 +2539,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": ""
+                "price": "50"
               },
               {
                 "id": 470,
@@ -4548,7 +4548,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 603,
@@ -5584,7 +5585,7 @@
                   "en": "Engine Oil Reset",
                   "he": "إعادة ضبط زيت المحرك"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak engine performance with the 3 Series F30's Engine Oil Reset function.  This convenient feature allows for precise oil service interval tracking and resets the service indicator light after an oil change, ensuring your BMW operates at its optimal efficiency and prolonging engine life.  Simple, accurate, and essential for maintaining your ultimate driving machine.",
@@ -6634,7 +6635,7 @@
                   "en": "Engine Oil Reset",
                   "he": "إعادة ضبط زيت المحرك"
                 },
-                "price": "70",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak engine performance and extend the life of your BMW 3 Series F31's powerplant with our effortless Engine Oil Reset service.  This crucial procedure accurately resets your vehicle's onboard computer, ensuring precise monitoring of oil life and timely service alerts.  Experience the ultimate in preventative maintenance, keeping your BMW running smoothly and reliably for years to come.",
@@ -6876,7 +6877,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": ""
+                "price": "50"
               },
               {
                 "id": 966,
@@ -9123,7 +9124,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 615,
@@ -11346,7 +11348,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 761,
@@ -12314,7 +12317,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": ""
+                "price": "50"
               },
               {
                 "id": 821,
@@ -14323,7 +14326,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "50"
               },
               {
                 "id": 954,
@@ -14520,7 +14524,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": ""
+                "price": "50"
               },
               {
                 "id": 1113,
@@ -15436,7 +15440,7 @@
                   "en": "Engine Oil Reset",
                   "he": "איפוס שמן מנוע"
                 },
-                "price": "",
+                "price": "50",
                 "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
                 "description": {
                   "en": "Maintain peak engine performance with the BMW 5 Series G60's intuitive Engine Oil Reset function.  Simply and accurately reset your oil service indicator after an oil change, ensuring your sophisticated engine continues to deliver exhilarating performance for miles to come.  No more guesswork, just seamless precision.",
