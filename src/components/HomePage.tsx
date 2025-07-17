@@ -1,13 +1,9 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 
 // ===============================================================================================
-// --- ⚙️ استيراد البيانات من ملفات JSON ---
-// --- تأكد من أن هذه الملفات موجودة في المسار 'src/data' ---
+// --- ⚙️ تم حذف استيراد البيانات الثابتة من هنا ---
+// --- سيتم الآن جلب البيانات مباشرة من GitHub ---
 // ===============================================================================================
-// بيانات وهمية للتوضيح - استبدلها بملفات JSON الفعلية
-import bmwModels from '../data/bmw_models.json';
-import bmwYearsGenerations from '../data/bmw_years_generations.json';
-import bmwData from '../data/bmw_data.json';
 
 
 // ===============================================================================================
@@ -226,20 +222,21 @@ const translations: LanguageMap = {
 };
 
 const ourWorkData: WorkItem[] = [
-{ 
-    image_url: 'https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2', 
-    title: { 
-        en: 'For BMW Coders', 
-        ar: 'لمبرمجي BMW', 
-        he: 'למקודדי BMW' 
-    }, 
-    description: { 
-        en: 'Remote assistance, file services, and specialized solutions for programmers.', 
-        ar: 'صفحة خاصة للمساعدة عن بعد، شراء ملفات، وخدمات متقدمة للمبرمجين.', 
-        he: 'עזרה מרחוק, קניית קבצים ושירותים מתקדמים למתכנתים.' 
-    }, 
-    link: 'https://aqbimmer.netlify.app/bmw' 
-},    { image_url: 'https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2', title: { en: 'Performance Tuning', ar: 'تعديل الأداء', he: 'כוונון ביצועים' }, description: { en: 'Enhancing engine performance and driving dynamics for a thrilling experience.', ar: 'تحسين أداء المحرك وديناميكيات القيادة لتجربة مثيرة.', he: 'שיפור ביצועי המנוע ודינמיקת הנהיגה לחוויה מרגשת.' }, link: '#' },
+    { 
+        image_url: 'https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2', 
+        title: { 
+            en: 'For BMW Coders', 
+            ar: 'لمبرمجي BMW', 
+            he: 'למקודדי BMW' 
+        }, 
+        description: { 
+            en: 'Remote assistance, file services, and specialized solutions for programmers.', 
+            ar: 'صفحة خاصة للمساعدة عن بعد، شراء ملفات، وخدمات متقدمة للمبرمجين.', 
+            he: 'עזרה מרחוק, קניית קבצים ושירותים מתקדמים למתכנתים.' 
+        }, 
+        link: 'https://aqbimmer.netlify.app/bmw' 
+    },
+    { image_url: 'https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2', title: { en: 'Performance Tuning', ar: 'تعديل الأداء', he: 'כוונון ביצועים' }, description: { en: 'Enhancing engine performance and driving dynamics for a thrilling experience.', ar: 'تحسين أداء المحرك وديناميكيات القيادة لتجربة مثيرة.', he: 'שיפור ביצועי המנוע ודינמיקת הנהיגה לחוויה מרגשת.' }, link: '#' },
     { image_url: 'https://images.pexels.com/photos/892522/pexels-photo-892522.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2', title: { en: 'Retrofit Installations', ar: 'تركيب تحديثات', he: 'התקנות רטרופיט' }, description: { en: 'Installing the latest BMW hardware and software into older models.', ar: 'تركيب أحدث أجهزة وبرامج BMW في الموديلات القديمة.', he: 'התקנת חומרת ותוכנת BMW העדכניות ביותר בדגמים ישנים יותר.' }, link: '#' },
 ];
 
@@ -287,7 +284,12 @@ const BrandName: React.FC = () => (
 );
 
 // --- مكون اختيار السيارة (ModelSelector) ---
-const ModelSelector: React.FC<{ onSelectionChange: (selection: any | null) => void; t: any; }> = ({ onSelectionChange, t }) => {
+const ModelSelector: React.FC<{ 
+    onSelectionChange: (selection: any | null) => void; 
+    t: any;
+    bmwModels: any[];
+    bmwYearsGenerations: any;
+}> = ({ onSelectionChange, t, bmwModels, bmwYearsGenerations }) => {
     const [selectedModel, setSelectedModel] = useState<string>('');
     const [selectedModelName, setSelectedModelName] = useState<string>('');
     const [selectedYear, setSelectedYear] = useState<string>('');
@@ -308,7 +310,7 @@ const ModelSelector: React.FC<{ onSelectionChange: (selection: any | null) => vo
         } else {
             setAvailableYears([]);
         }
-    }, [selectedModel]);
+    }, [selectedModel, bmwYearsGenerations]);
 
     useEffect(() => {
         setSelectedGeneration('');
@@ -319,7 +321,7 @@ const ModelSelector: React.FC<{ onSelectionChange: (selection: any | null) => vo
         } else {
             setAvailableGenerations([]);
         }
-    }, [selectedYear, selectedModel]);
+    }, [selectedYear, selectedModel, bmwYearsGenerations]);
 
     useEffect(() => {
         if (selectedModel && selectedYear && selectedGeneration) {
@@ -482,12 +484,14 @@ const ActivationsView: React.FC<{
     addToCart: (activation: ActivationInfo) => void;
     showDetail: (activation: ActivationInfo) => void;
     language: LanguageCode;
-}> = ({ t, selectedCar, handleSelectionChange, displayedActivations, cart, addToCart, showDetail, language }) => {
+    bmwModels: any[];
+    bmwYearsGenerations: any;
+}> = ({ t, selectedCar, handleSelectionChange, displayedActivations, cart, addToCart, showDetail, language, bmwModels, bmwYearsGenerations }) => {
     
     return (
         <section>
             <div className="container mx-auto">
-                <ModelSelector onSelectionChange={handleSelectionChange} t={t} />
+                <ModelSelector onSelectionChange={handleSelectionChange} t={t} bmwModels={bmwModels} bmwYearsGenerations={bmwYearsGenerations}/>
                 
                 {selectedCar && (
                 <div className="mt-16 bg-white/10 backdrop-blur-md rounded-lg p-6 shadow-xl shadow-blue-500/10">
@@ -976,6 +980,12 @@ const HomePage: React.FC = () => {
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
     const [currentTool, setCurrentTool] = useState<Tool | null>(null);
     
+    // --- ✅ حالات جديدة للبيانات الديناميكية ---
+    const [bmwModels, setBmwModels] = useState<any[]>([]);
+    const [bmwYearsGenerations, setBmwYearsGenerations] = useState<any>({});
+    const [bmwData, setBmwData] = useState<any[]>([]);
+    const [isLoading, setIsLoading] = useState<boolean>(true);
+    
     // --- المراجع (Refs) ---
     const contactRef = useRef<HTMLElement>(null);
     const t = translations[language];
@@ -986,6 +996,41 @@ const HomePage: React.FC = () => {
         document.documentElement.dir = language === 'en' ? 'ltr' : 'rtl';
         document.documentElement.lang = language;
     }, [language]);
+
+    // --- ✅ جلب البيانات عند تحميل المكون ---
+    useEffect(() => {
+        const fetchData = async () => {
+            setIsLoading(true);
+            const repoBaseUrl = 'https://raw.githubusercontent.com/tiraUnderCode23/BMW/main/src/data';
+            try {
+                const [modelsRes, yearsRes, dataRes] = await Promise.all([
+                    fetch(`${repoBaseUrl}/bmw_models.json`),
+                    fetch(`${repoBaseUrl}/bmw_years_generations.json`),
+                    fetch(`${repoBaseUrl}/bmw_data.json`)
+                ]);
+
+                if (!modelsRes.ok || !yearsRes.ok || !dataRes.ok) {
+                    throw new Error('Network response was not ok');
+                }
+
+                const modelsData = await modelsRes.json();
+                const yearsData = await yearsRes.json();
+                const mainData = await dataRes.json();
+
+                setBmwModels(modelsData);
+                setBmwYearsGenerations(yearsData);
+                setBmwData(mainData);
+
+            } catch (error) {
+                console.error("Failed to fetch BMW data:", error);
+                // يمكنك عرض رسالة خطأ للمستخدم هنا
+            } finally {
+                setIsLoading(false);
+            }
+        };
+
+        fetchData();
+    }, []);
 
     // --- ✅ منطق عرض التفعيلات المُحسَّن ---
     const displayedActivations = useMemo((): ActivationInfo[] => {
@@ -1002,35 +1047,26 @@ const HomePage: React.FC = () => {
             }));
         };
 
-        // التأكد من أن السيارة محددة بالكامل قبل المتابعة
-        if (!selectedCar || !selectedCar.model || !selectedCar.year || !selectedCar.generation) {
+        if (!selectedCar || !selectedCar.model || !selectedCar.year || !selectedCar.generation || bmwData.length === 0) {
             return [];
         }
 
-        // --- 1. محاولة العثور على تطابق تام ---
-        const modelData = (bmwData as any[]).find(m => m.model === selectedCar.model);
+        const modelData = bmwData.find(m => m.model === selectedCar.model);
         if (modelData) {
             const yearData = modelData.years.find((y: any) => y.value === selectedCar.year);
             if (yearData) {
                 const genData = yearData.generations.find((g: any) => g.value === selectedCar.generation);
-                // إذا تم العثور على تطابق تام مع وجود تفعيلات، يتم إرجاعها فورًا.
                 if (genData && genData.activations && genData.activations.length > 0) {
                     return mapActivations(genData.activations);
                 }
             }
         }
-
-        // --- 2. إذا لم يتم العثور على تطابق تام، يتم بدء المنطق الاحتياطي ---
+        
         const family = selectedCar.model.charAt(0).toLowerCase(); // 'f' or 'g'
-
-        // التكرار عبر جميع البيانات للعثور على أول نموذج متوافق في نفس العائلة
-        for (const fallbackModel of (bmwData as any[])) {
+        for (const fallbackModel of bmwData) {
             if (fallbackModel.model.charAt(0).toLowerCase() === family) {
-                // البحث عن أول سنة في هذا النموذج
                 for (const fallbackYear of fallbackModel.years) {
-                    // البحث عن أول جيل في هذه السنة
                     for (const fallbackGen of fallbackYear.generations) {
-                        // إذا كان هذا الجيل يحتوي على تفعيلات، فاستخدمه كخيار احتياطي
                         if (fallbackGen.activations && fallbackGen.activations.length > 0) {
                             console.log(`No exact match found. Falling back to activations from ${fallbackModel.model} for family '${family}'.`);
                             return mapActivations(fallbackGen.activations);
@@ -1039,10 +1075,9 @@ const HomePage: React.FC = () => {
                 }
             }
         }
-
-        // --- 3. إذا لم يتم العثور على أي تفعيلات على الإطلاق (لا تطابق تام ولا احتياطي)، يتم إرجاع مصفوفة فارغة ---
+        
         return [];
-    }, [selectedCar]);
+    }, [selectedCar, bmwData]);
 
     const handleSelectionChange = (selection: any) => setSelectedCar(selection);
     
@@ -1087,6 +1122,18 @@ const HomePage: React.FC = () => {
             .slice(0, 3);
     }, [currentDetailedActivation, displayedActivations, language]);
     
+    // --- ✅ عرض مؤشر التحميل ---
+    if (isLoading) {
+        return (
+            <div className="flex items-center justify-center min-h-screen bg-black text-white">
+                <div className="flex items-center space-x-4">
+                    <div className="w-12 h-12 bg-contain bg-center bg-no-repeat animate-pulse" style={{ backgroundImage: 'url(https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg)' }}></div>
+                    <span className="text-xl">Loading Latest Activations...</span>
+                </div>
+            </div>
+        );
+    }
+
     return (
         <div className="flex flex-col min-h-screen bg-black text-white font-sans" dir={language === 'en' ? 'ltr' : 'rtl'}>
             <div className="fixed inset-0 -z-20 overflow-hidden">
@@ -1150,7 +1197,7 @@ const HomePage: React.FC = () => {
                         language={language}
                         onBack={() => setCurrentDetailedActivation(null)}
                         onAddToCart={addToCart}
-                        onShowDetail={showDetail} // Pass the function to allow navigation between detail pages
+                        onShowDetail={showDetail}
                     />
                 ) : currentTool ? (
                     <ToolDetailView 
@@ -1173,6 +1220,8 @@ const HomePage: React.FC = () => {
                                 addToCart={addToCart}
                                 showDetail={showDetail}
                                 language={language}
+                                bmwModels={bmwModels}
+                                bmwYearsGenerations={bmwYearsGenerations}
                             />
                         )}
                         <ContactSection t={t} contactRef={contactRef} language={language} openingStatus={openingStatus} />
