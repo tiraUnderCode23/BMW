@@ -12670,7 +12670,2227 @@
           {
             "value": "g21",
             "text": "G21",
-            "activations": []
+            "activations": [
+              {
+                "id": 964,
+                "title": {
+                  "ar": "إعادة ضبط سائل الفرامل",
+                  "en": "Brake Fluid Reset",
+                  "he": "איפוס נוזל בלמים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak braking performance in your BMW 3 Series G20 with our simple Brake Fluid Reset function.  This essential service, easily accessed through the iDrive system, ensures optimal brake response and assists with accurate monitoring of your braking system's health, contributing to your safety and driving confidence.",
+                  "ar": "حافظ على أداء فرامل ذروة في سيارتك BMW الفئة الثالثة G20 مع وظيفة إعادة ضبط سائل الفرامل البسيطة لدينا. هذه الخدمة الأساسية، التي يمكن الوصول إليها بسهولة من خلال نظام iDrive، تضمن استجابة فرامل مثالية وتساعد في المراقبة الدقيقة لصحة نظام فرامل سيارتك، مما يساهم في سلامتك وثقتك أثناء القيادة.",
+                  "he": "שמרו על ביצועי בלימה שיאים ב-BMW סדרה 3 G20 שלכם באמצעות פונקציית איפוס נוזל בלמים הפשוטה שלנו. שירות חיוני זה, שנגיש בקלות דרך מערכת ה-iDrive, מבטיח תגובת בלימה מיטבית וסיוע במעקב מדויק אחר בריאות מערכת הבלימה שלכם, תורם לבטיחותכם ולביטחונכם בנהיגה."
+                },
+                "category": {
+                  "en": "Safety"
+                },
+                "price": "50"
+              },
+              {
+                "id": 965,
+                "title": {
+                  "ar": "إعادة ضبط زيت المحرك",
+                  "en": "Engine Oil Reset",
+                  "he": "איפוס שמן מנוע"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak engine performance and extend the life of your BMW 3 Series G20 with our effortless Engine Oil Reset service.  Simply access the intuitive iDrive system to reset your oil service indicator after an oil change, ensuring accurate monitoring and timely maintenance alerts.  Experience the seamless integration of advanced technology and unparalleled driving pleasure.",
+                  "ar": "",
+                  "he": ""
+                },
+                "category": {
+                  "en": "Convenience"
+                },
+                "price": "50"
+              },
+              {
+                "id": 966,
+                "title": {
+                  "ar": "إعادة ضبط وسادات الفرامل الأمامية",
+                  "en": "Front Brake Pads Reset",
+                  "he": "איפוס רפידות בלם קדמיות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak braking performance in your BMW 3 Series G20 with our precise Front Brake Pad Reset procedure.  This essential service ensures accurate brake wear monitoring and prevents potential malfunctions, guaranteeing optimal stopping power and safety.  Schedule your reset today for uninterrupted driving confidence."
+                },
+                "category": {
+                  "en": "Safety"
+                },
+                "price": "50"
+              },
+              {
+                "id": 967,
+                "title": {
+                  "ar": "إعادة ضبط وسادات الفرامل الخلفية",
+                  "en": "Rear Brake Pads Reset",
+                  "he": "איפוס רפידות בלם אחוריות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak braking performance with the 3 Series G20's Rear Brake Pad Reset feature.  This simple procedure, accessible through the iDrive system, accurately resets the brake pad wear indicators after replacement, ensuring optimal braking responsiveness and preventing unnecessary warning messages. Experience the precision and control expected of a BMW."
+                },
+                "category": {
+                  "en": "Safety"
+                },
+                "price": "50"
+              },
+              {
+                "id": 968,
+                "title": {
+                  "ar": "إعادة ضبط فحص السيارة",
+                  "en": "Vehicle Check Reset",
+                  "he": "איפוס בדיקת רכב"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak performance and ensure your BMW 3 Series is running smoothly with our intuitive Vehicle Check Reset feature.  This isn't just about clearing a warning light; it's about proactive vehicle management.  After performing routine maintenance like an oil change or tire rotation, simply use the user-friendly in-car interface or the BMW ConnectedDrive app to reset the service indicator.  No more guesswork or trips to the dealership for simple resets.  This seamless integration ensures you stay informed about your vehicle's health and allows you to schedule maintenance proactively, maximizing your 3 Series' lifespan and driving enjoyment.  Experience the peace of mind that comes with knowing your car's maintenance is perfectly managed, right at your fingertips.",
+                  "ar": "حافظ على الأداء الأمثل وتأكد من أن سيارتك BMW الفئة الثالثة تعمل بسلاسة مع ميزة إعادة ضبط فحص السيارة البديهية لدينا.  هذا ليس مجرد مسح لمؤشر تحذير؛ بل هو إدارة استباقية للسيارة. بعد إجراء الصيانة الروتينية مثل تغيير الزيت أو تدوير الإطارات، ما عليك سوى استخدام واجهة السيارة سهلة الاستخدام أو تطبيق BMW ConnectedDrive لإعادة ضبط مؤشر الصيانة. لا مزيد من التخمين أو الرحلات إلى الوكيل لإعادة الضبط البسيطة.  يضمن هذا التكامل السلس أن تظل على اطلاع دائم بصحة سيارتك ويتيح لك جدولة الصيانة بشكل استباقي، مما يزيد من عمر الفئة الثالثة و متعة القيادة.  استمتع براحة البال التي تأتي مع معرفة أن صيانة سيارتك مُدارة بشكل مثالي، في متناول يديك.",
+                  "he": "שמרו על ביצועים מיטביים והבטיחו שה-BMW סדרה 3 שלכם פועלת בצורה חלקה באמצעות תכונת איפוס בדיקת הרכב האינטואיטיבית שלנו. זה לא רק לגבי כיבוי נורת אזהרה; זהו ניהול רכב יזום. לאחר ביצוע תחזוקה שגרתית כמו החלפת שמן או סיבוב צמיגים, פשוט השתמשו בממשק נוח למשתמש ברכב או באפליקציית BMW ConnectedDrive כדי לאפס את אינדיקטור השירות. לא עוד ניחושים או טיולים למוסך עבור איפוסים פשוטים. האינטגרציה החלקה הזו מבטיחה שתישארו מעודכנים לגבי מצב הרכב שלכם ומאפשרת לכם לתזמן תחזוקה באופן יזום, ובכך למקסם את אורך חיי הסדרה 3 שלכם ואת הנאת הנהיגה. חוו את השקט הנפשי שנובע מהידיעה שהתחזוקה של המכונית שלכם מנוהלת בצורה מושלמת, ממש בהישג ידכם."
+                },
+                "category": {
+                  "en": "Convenience",
+                  "ar": "",
+                  "he": ""
+                },
+                "price": "50"
+              },
+              {
+                "id": 969,
+                "title": {
+                  "ar": "شاشات عرض رياضية",
+                  "en": "Sport Displays",
+                  "he": "תצוגות ספורט"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "Immerse yourself in the thrill of driving with the 3 Series G20's Sport Displays.  Experience dynamic, customizable instrument clusters and head-up display graphics that prioritize essential performance data, delivering critical information at a glance for a more engaged and intuitive driving experience. Elevate your connection to the road with dynamic responsiveness and sharp visuals."
+                },
+                "category": {
+                  "en": "Infotainment"
+                },
+                "price": "200"
+              },
+              {
+                "id": 970,
+                "title": {
+                  "ar": "فيديو أثناء الحركة",
+                  "en": "Video in Motion",
+                  "he": "וידאו בתנועה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
+                "description": {
+                  "en": "Experience seamless entertainment on the go with BMW's Video in Motion.  Enjoy your favorite movies or TV shows on the central display, safely and comfortably, even while your 3 Series G20 is moving (when legally permitted and with the appropriate safety measures in place).  This feature transforms your daily commute into a premium viewing experience."
+                },
+                "category": {
+                  "en": "Infotainment"
+                },
+                "price": "100"
+              },
+              {
+                "id": 971,
+                "title": {
+                  "ar": "عرض خطاف السحب",
+                  "en": "Tow Hitch Display",
+                  "he": "תצוגת וו גרירה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly manage your towing needs with the 3 Series G20's integrated Tow Hitch Display.  This intelligent system provides clear visual cues on your iDrive screen, indicating hitch status and assisting with safe and convenient trailer attachment and maneuvering.  Never worry about misalignment or hidden obstructions again."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 972,
+                "title": {
+                  "ar": "التحكم المريح عبر CA",
+                  "en": "Comfort Operation via CA",
+                  "he": "הפעלה נוחה באמצעות CA"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/16ac1f179b8edc90c11b1fefbb611c33_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled ease and control with Comfort Operation via CA in your BMW 3 Series G20.  Seamlessly adjust your seat position, steering wheel, and mirror settings to your precise preferences with intuitive controls, ensuring a personalized driving experience tailored to your comfort.  Effortlessly optimize your driving posture for enhanced comfort and reduced fatigue on every journey."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 973,
+                "title": {
+                  "ar": "الحد الأقصى لمستوى الصوت",
+                  "en": "Maximum Volume",
+                  "he": "עוצמת קול מקסימלית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d4a8c7d87179af7df7f76789b3d6ae91_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the full spectrum of your audio journey with the 3 Series G20's Maximum Volume feature.  Engineered for pristine sound reproduction even at peak levels, it delivers a powerful and exhilarating listening experience without distortion or compromise. Immerse yourself in your favourite tracks with unmatched clarity and intensity."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 974,
+                "title": {
+                  "ar": "رسوم متحركة لبدء تشغيل iDrive",
+                  "en": "iDrive Startup Animation",
+                  "he": "אנימציית הפעלה של iDrive"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/eb90277ec20434f7870df9cec9407a0e_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of the drive before you even turn the key.  The BMW 3 Series G20's iDrive startup animation delivers a captivating visual sequence, showcasing the brand's iconic design language and setting the stage for an exhilarating journey. This meticulously crafted animation is a testament to BMW's commitment to seamlessly blending technology and driving pleasure."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 975,
+                "title": {
+                  "ar": "تصحيح السرعة",
+                  "en": "Speed Correction",
+                  "he": "תיקון מהירות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7047fa424529e794eae380028a306d4b_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unwavering precision with BMW's Speed Correction. This advanced system subtly adjusts your vehicle's speed based on real-time GPS data and navigation inputs, ensuring you maintain the exact speed limit and enhancing your driving experience with effortless compliance and enhanced safety.  Navigate confidently, knowing your speed is always precisely controlled."
+                },
+                "category": {
+                  "en": "Safety"
+                },
+                "price": "0"
+              },
+              {
+                "id": 976,
+                "title": {
+                  "ar": "ذاكرة HVAC",
+                  "en": "HVAC Memory",
+                  "he": "זיכרון בקרת אקלים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/01d4cbb5a8b6246c4a34782aa676cb8e_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless climate control with the 3 Series G20's HVAC Memory.  Your preferred temperature, fan speed, and airflow settings are intelligently saved and automatically restored upon your return, ensuring optimal comfort every journey.  Enjoy personalized climate perfection without the need for constant readjustments."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 977,
+                "title": {
+                  "ar": "5 مرات إشارات انعطاف مريحة",
+                  "en": "5 Times Comfort Turn Signals",
+                  "he": "5 הבהובים נוחים לאיתות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled convenience with our 5 Times Comfort Turn Signals.  A gentle tap of the turn signal stalk activates five rapid flashes, perfect for quick lane changes and navigating tight spaces – enhancing both safety and driver comfort without excessive signaling."
+                },
+                "category": {
+                  "en": "Convenience"
+                },
+                "price": "0"
+              },
+              {
+                "id": 978,
+                "title": {
+                  "ar": "رسوم متحركة لشعار M عند بدء التشغيل",
+                  "en": "M Logo Startup Animation",
+                  "he": "אנימציית הפעלה של לוגו M"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c6084ab451c88bc8ef157eb3c16c83d8_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of the M spirit before you even turn the key.  The exclusive M Logo Startup Animation projects the iconic M emblem onto the ground, a captivating prelude to the exhilarating performance awaiting you in your BMW 3 Series G20. This bespoke animation adds a touch of unmistakable M character to your driving experience."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                },
+                "price": "250"
+              },
+              {
+                "id": 979,
+                "title": {
+                  "ar": "نمط M لشاشة العدادات",
+                  "en": "M View Style Cluster",
+                  "he": "סגנון תצוגת M בלוח המחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/f8030b56910a732fe26c7d2fc3a6e2a9_oca_picture.jpg",
+                "description": {
+                  "en": "Command the road with the M View Style Cluster in your BMW 3 Series G20.  This customizable digital instrument display delivers critical driving information with unparalleled clarity and a distinctly sporty M design aesthetic, enhancing both your driving experience and the car's overall visual appeal."
+                },
+                "category": {
+                  "en": "Infotainment"
+                },
+                "price": "250"
+              },
+              {
+                "id": 980,
+                "title": {
+                  "ar": "وضع القيادة الافتراضي",
+                  "en": "Default Driving Mode",
+                  "he": "מצב נהיגה ברירת מחדל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the perfectly balanced driving character of your BMW 3 Series G20 with the default driving mode.  Engine response, transmission shifts, and steering feel are harmoniously calibrated for a refined and engaging everyday driving experience, seamlessly blending comfort and agility."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 981,
+                "title": {
+                  "ar": "البوق عند القفل",
+                  "en": "Horn on Secure",
+                  "he": "צפירה בנעילה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg",
+                "description": {
+                  "en": "Experience enhanced security with the Horn on Secure feature.  Should an unauthorized attempt to access your BMW 3 Series G20 be detected, the horn will automatically sound, deterring potential theft and alerting you to the incident.  This proactive measure adds an extra layer of protection to your peace of mind."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 982,
+                "title": {
+                  "ar": "عرض ضغط ودرجة حرارة TPMS",
+                  "en": "TPMS Pressure and Temperature Display",
+                  "he": "תצוגת לחץ וטמפרטורת TPMS"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/750b6938e0867d44071bbc032182c8cd_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain optimal tire pressure and temperature for enhanced safety, handling, and fuel efficiency.  The 3 Series G20's TPMS Pressure and Temperature Display provides real-time monitoring directly on your instrument cluster, proactively alerting you to potential issues before they impact your driving experience."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 983,
+                "title": {
+                  "ar": "تحذيرات iDrive",
+                  "en": "iDrive Warnings",
+                  "he": "אזהרות iDrive"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/66b0c574cd714768234e1a7a15d798cb_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled peace of mind with the 3 Series G20's advanced iDrive Warnings.  Receive timely and intuitive alerts for critical driving situations, from potential collisions to low tire pressure, ensuring you're always informed and in control.  These proactive warnings enhance your driving experience and contribute to a safer journey."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 984,
+                "title": {
+                  "ar": "أضواء الضباب الأمامية مع الأضواء العالية",
+                  "en": "Front Fog Lights w/ High Beams",
+                  "he": "פנסי ערפל קדמיים עם אורות גבוהים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a06b85fa78830e85946ef8354f02a95c_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled visibility in challenging conditions with the 3 Series G20's integrated front fog lights, seamlessly incorporating high-beam functionality for superior illumination and enhanced safety on even the darkest roads.  This intelligent system optimizes your nighttime driving experience, providing a crucial safety advantage."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 985,
+                "title": {
+                  "ar": "أضواء الضباب الأمامية مع أضواء الركن",
+                  "en": "Front Fog Lights w/ Parking Lights",
+                  "he": "פנסי ערפל קדמיים עם אורות חניה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d5b143538118c4617d57ca691c004a75_oca_picture.jpg",
+                "description": {
+                  "en": "Experience enhanced visibility and a sophisticated aesthetic with the integrated front fog lights and parking lights.  These elegantly designed units not only improve low-visibility driving conditions but also add a distinctive, signature BMW lighting element to your 3 Series G20, ensuring you're seen and admired."
+                },
+                "category": {
+                  "en": "Lighting"
+                },
+                "price": "0"
+              },
+              {
+                "id": 986,
+                "title": {
+                  "ar": "وضع Sport+",
+                  "en": "Sport+ Mode",
+                  "he": "מצב ספורט+"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/9c077a4ab683fc337b55bdd836a42fcf_oca_picture.jpg",
+                "description": {
+                  "en": "Unleash the full potential of your BMW 3 Series G20 with Sport+ Mode.  Experience sharper throttle response, a more aggressive transmission mapping, and enhanced dynamic stability control for an exhilarating and precisely controlled driving experience. This mode transforms your journey into a truly engaging performance drive."
+                },
+                "category": {
+                  "en": "Performance"
+                },
+                "price": "200"
+              },
+              {
+                "id": 987,
+                "title": {
+                  "ar": "عرض X-View",
+                  "en": "X-View Display",
+                  "he": "תצוגת X-View"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled situational awareness with the BMW 3 Series G20's X-View Display.  This innovative system seamlessly integrates multiple camera perspectives, providing a bird's-eye view of your surroundings for enhanced parking and maneuverability in tight spaces.  Navigate confidently, even in challenging environments."
+                },
+                "category": {
+                  "en": "Safety"
+                },
+                "price": "100"
+              },
+              {
+                "id": 988,
+                "title": {
+                  "ar": "عرض ضغط الإطارات في لوحة القيادة",
+                  "en": "Tire Pressure Display in Dashboard",
+                  "he": "תצוגת לחץ צמיגים בלוח המחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain optimal tire pressure and enhance your driving experience with the 3 Series G20's integrated Tire Pressure Display.  This convenient feature provides real-time monitoring directly on your dashboard, ensuring optimal handling, fuel efficiency, and tire longevity for a safer, more confident drive."
+                },
+                "category": {
+                  "en": "Safety"
+                },
+                "price": "0"
+              },
+              {
+                "id": 989,
+                "title": {
+                  "ar": "عرض مقياس السرعة",
+                  "en": "Speedometer Scale Display",
+                  "he": "תצוגת קנה מידה של מד מהירות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of driving with the 3 Series G20's dynamic Speedometer Scale Display.  Its crisp, high-resolution graphics provide an immediate and intuitive understanding of your vehicle's speed, enhancing both driving precision and the overall cockpit experience.  This meticulously designed element seamlessly integrates with the driver-focused design philosophy of the 3 Series."
+                },
+                "category": {
+                  "en": "Infotainment"
+                },
+                "price": "200"
+              },
+              {
+                "id": 990,
+                "title": {
+                  "ar": "عرض بنمط ألبينا",
+                  "en": "Alpina Style Display",
+                  "he": "תצוגה בסגנון אלפינה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c873e490b1314a701f9bf13f0d73450d_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate your 3 Series G20 driving experience with the Alpina Style Display.  This exclusive digital instrument cluster showcases bespoke Alpina graphics and animations, seamlessly integrating performance data with refined aesthetics for a truly immersive and exhilarating drive.  Experience the signature Alpina look and feel, right from your driver's seat."
+                },
+                "category": {
+                  "en": "Infotainment"
+                },
+                "price": "300"
+              },
+              {
+                "id": 991,
+                "title": {
+                  "ar": "شعار لوحة العدادات",
+                  "en": "Instrument Cluster Logo",
+                  "he": "לוגו לוח מחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/9281fcbd489723b44ffb99ea3f40e912_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the iconic BMW roundel, subtly illuminated within the 3 Series G20's digital instrument cluster.  This meticulously crafted detail enhances the cockpit's premium aesthetic, adding a touch of understated elegance to your driving experience.  A testament to BMW's dedication to driver-focused design."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 992,
+                "title": {
+                  "ar": "إغلاق عند المطر",
+                  "en": "Rain Closing",
+                  "he": "סגירה בחזית גשם"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/36d4dc3fa8e848c0d6a2f74f26733a39_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in driving confidence with Rain Closing.  This intelligent feature automatically closes your windows and sunroof at the first sign of rainfall, ensuring a dry and comfortable cabin, even during unexpected showers.  Enjoy uninterrupted focus on the road, leaving the worry of inclement weather behind."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 993,
+                "title": {
+                  "ar": "خفض المرآة",
+                  "en": "Mirror Dip",
+                  "he": "הטיית מראה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fe1c329e7609ad1ded3329883fb61d69_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless maneuvering with BMW's intelligent Mirror Dip.  When reversing, the passenger-side mirror automatically angles downwards, providing a crystal-clear view of the curb and eliminating blind spots.  This subtle yet invaluable feature enhances safety and simplifies parking in tight spaces."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 994,
+                "title": {
+                  "ar": "تعديل خفض المرآة",
+                  "en": "Mirror Dip Adjustment",
+                  "he": "התאמת הטיית מראה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/01c516c147596b28c1ae4c1b3fbebb79_oca_picture.jpg",
+                "description": {
+                  "en": "Dominate the road with unparalleled confidence, thanks to the 4 Series' innovative Mirror Dip Adjustment.  This isn't just a convenience; it's a smart enhancement designed to improve visibility and safety, especially when reversing or navigating tight spaces.  With a simple adjustment, the driver-side mirror automatically dips downwards when reverse gear is engaged, providing a clear, unobstructed view of the curb and nearby obstacles.  No more awkward maneuvering or guesswork – just precise control and effortless parking.  Experience the difference that thoughtful engineering makes, and enjoy the peace of mind that comes with enhanced visibility.  The Mirror Dip Adjustment on the 4 Series:  a small feature with a big impact on your driving experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 995,
+                "title": {
+                  "ar": "حساسية RLS",
+                  "en": "RLS Sensitivity",
+                  "he": "רגישות חיישן גשם/אור"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2e9a187ad3e4975457c828d32b265d00_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in driving control with the 4 Series' refined RLS (Roll Stability Limitation) Sensitivity.  This isn't just about preventing rollovers; it's about enhancing the driving experience by subtly adjusting the car's responsiveness based on real-time driving conditions.  Our advanced system meticulously analyzes factors such as steering input, throttle application, and lateral acceleration, providing seamless adjustments to the chassis control systems.  This translates to a more predictable and confident handling feel, particularly on uneven surfaces or during spirited driving. You'll experience less body roll, improved grip, and enhanced steering precision, giving you greater control and confidence on any road. Forget jarring corrections; experience a refined, connected, and supremely controlled drive. RLS Sensitivity on the 4 Series isn't just a safety feature; it's a dynamic performance enhancer, seamlessly blending stability and agility for an exhilarating yet secure ride."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 996,
+                "title": {
+                  "ar": "وقت القفل الذاتي",
+                  "en": "Self Locking Time",
+                  "he": "זמן נעילה עצמית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/017f0cfdfafb6470f1d675974345b4b9_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in peace of mind with the BMW 4 Series' innovative Self Locking Time feature.  This isn't just about locking your doors; it's about intelligent security tailored to your life.  Self Locking Time allows you to pre-program the exact moment your vehicle automatically locks, eliminating the worry of leaving your doors unlocked. Choose a specific time after you've exited the vehicle, ensuring your 4 Series remains secure, even if you're distracted or in a hurry.  No more second-guessing – just the confidence that your prized possession is protected.  Configurable through the intuitive iDrive system, Self Locking Time is a subtle yet powerful enhancement to the 4 Series' already impressive security suite.  This feature seamlessly integrates with the existing alarm system, offering an additional layer of protection against theft and unauthorized access.  It’s the smart, sophisticated security solution you’ve been waiting for."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 997,
+                "title": {
+                  "ar": "عرض القيادة المساعدة",
+                  "en": "Assisted Driving View",
+                  "he": "תצוגת נהיגה מסייעת"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/164733e1175a7eab139864fbfd94e301_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled confidence and control on the road with the BMW 4 Series' Assisted Driving View. This cutting-edge system seamlessly integrates a suite of advanced driver-assistance technologies, providing a comprehensive, intuitive overview of your surroundings.  A crystal-clear, high-resolution display intelligently combines data from multiple sensors – including cameras, radar, and ultrasonic sensors – to create a real-time, bird's-eye view of your vehicle and its immediate vicinity.  Navigate tight parking spaces with ease, confidently maneuver in challenging traffic, and benefit from enhanced awareness of potential hazards thanks to a dynamic, user-friendly interface. Assisted Driving View isn't just about convenience; it's about significantly enhancing your safety and reducing driving stress, allowing you to focus on the pure joy of the drive."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 998,
+                "title": {
+                  "ar": "تغيير المسار التلقائي",
+                  "en": "Automatic Lane Change",
+                  "he": "החלפת נתיב אוטומטית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fcd9a3378aa7aa47880fbcd7704588d5_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless lane changes with the 4 Series' innovative Automatic Lane Change system.  This advanced feature isn't just about convenience; it's about enhancing safety and reducing driver fatigue on long journeys.  Using sophisticated sensor technology, the system monitors surrounding traffic and, upon confirmation via the intuitive steering wheel controls, gently guides your 4 Series into the adjacent lane.  The system is designed to only activate when it's safe to do so, and it provides clear visual and haptic feedback to the driver, keeping you fully informed and in control.  It's not autonomous driving, but rather a thoughtful assist designed to make your driving experience smoother, safer, and more enjoyable.  Experience the difference – seamlessly navigate traffic and arrive refreshed."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 999,
+                "title": {
+                  "ar": "صوت Bower & Wilkins",
+                  "en": "Bower & Wilkins Audio",
+                  "he": "שמע Bower & Wilkins"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3acc77e1efe3590de5374403c43c7431_oca_picture.jpg",
+                "description": {
+                  "en": "Immerse yourself in a symphony of sound with the groundbreaking Bower & Wilkins Audio system in the BMW 4 Series.  Engineered for the discerning audiophile, this meticulously crafted system delivers an unparalleled listening experience.  Experience rich, detailed highs, deep resonant bass, and crystal-clear mids – all perfectly balanced to bring your favorite music to life.  From the meticulously selected speakers to the advanced digital signal processing, every component is designed to reproduce audio with breathtaking fidelity.  Don't just hear your music; feel it.  The Bower & Wilkins system in the 4 Series transforms your drive into a concert hall on wheels, setting a new standard for in-car audio excellence.  Experience the difference that superior engineering and world-renowned craftsmanship can make. Prepare to be captivated."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1000,
+                "title": {
+                  "ar": "تسجيل بطارية 12 فولت",
+                  "en": "12V Battery Registration",
+                  "he": "רישום מצבר 12V"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
+                "description": {
+                  "en": "Intelligent 12V battery registration in your BMW 3 Series G20 ensures optimal performance and longevity of your vehicle's electrical system.  This sophisticated feature allows your car's onboard computer to precisely manage battery charging and discharge cycles, preventing premature wear and maximizing efficiency. Experience seamless and reliable power delivery, keeping your driving experience flawlessly connected."
+                },
+                "category": {
+                  "en": "Convenience"
+                },
+                "price": "150"
+              },
+              {
+                "id": 1001,
+                "title": {
+                  "ar": "قائمة صوت المحرك",
+                  "en": "Engine Sound Menu",
+                  "he": "תפריט צליל מנוע"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a28d870764ebd97ea21cce79475e45cf_oca_picture.jpg",
+                "description": {
+                  "en": "Tailor your driving experience with the 3 Series G20's revolutionary Engine Sound Menu.  Select from a range of meticulously crafted acoustic profiles, transforming the aural landscape from subtle refinement to exhilarating power, perfectly complementing your chosen driving mode.  Experience the symphony of performance, precisely tuned to your preference."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1002,
+                "title": {
+                  "ar": "تدفئة عجلة القيادة التلقائية",
+                  "en": "Automatic Steering Wheel Heating",
+                  "he": "חימום הגה אוטומטי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fa73e81d4d099184693965f006cedf88_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled comfort even on the coldest days.  The BMW 3 Series G20's automatic steering wheel heating gently warms the wheel, ensuring optimal grip and a luxurious driving experience, automatically adjusting to the ambient temperature for consistent warmth."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1003,
+                "title": {
+                  "ar": "أضواء النهار الاسكندنافية",
+                  "en": "Scandinavian DRLs",
+                  "he": "פנסי יום סקנדינביים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/8722d3c8cc595754444c10f2b88896c9_oca_picture.jpg",
+                "description": {
+                  "en": "The 3 Series G20's signature Scandinavian DRLs aren't just a stylistic flourish; they're a precise expression of BMW's design language.  These distinctive LED daytime running lights offer superior visibility, enhancing your presence on the road while projecting an unmistakable aura of sophisticated style and performance."
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1004,
+                "title": {
+                  "ar": "شعار لوحة العدادات بنمط M View",
+                  "en": "M View Cluster Logo",
+                  "he": "לוגו תצוגת M בלוח המחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/8b5fe8386d999b366f513f18496d7230_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the iconic M emblem projected onto your BMW 3 Series G20's instrument cluster. This exclusive feature isn't just a visual enhancement; it's a subtle nod to the M performance heritage, subtly elevating your driving experience with a personalized touch of sporting flair."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 1005,
+                "title": {
+                  "ar": "قائمة تذكير أحزمة المقاعد الخلفية",
+                  "en": "Rear Seat Belts Reminder Menu",
+                  "he": "תפריט תזכורת חגורות בטיחות אחוריות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/5c692f5330b674a618b7afa3604add04_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's Rear Seat Belts Reminder Menu ensures the safety and well-being of all passengers.  This intuitive menu proactively prompts drivers to check rear seatbelts, contributing to a heightened sense of security and peace of mind during every journey.  Experience the ultimate in preventative safety, seamlessly integrated into your driving experience."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1006,
+                "title": {
+                  "ar": "سلامة النوافذ الأمامية الكهربائية",
+                  "en": "Power Front Windows Safety",
+                  "he": "בטיחות חלונות חשמל קדמיים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2605b25bfe3bf986a09a12dd6ccbafe2_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in peace of mind with the 3 Series G20's Power Front Windows Safety feature.  Automatic reversal upon obstruction prevents potential injury and damage, ensuring both passenger and vehicle safety. This intelligent system adds a layer of proactive protection to your driving experience."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1007,
+                "title": {
+                  "ar": "سلامة النوافذ الخلفية الكهربائية",
+                  "en": "Power Rear Windows Safety",
+                  "he": "בטיחות חלונות חשמל אחוריים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/1e66369690536d6da3b5f846744e00b2_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unwavering peace of mind with the 3 Series G20's Power Rear Windows Safety feature.  Automatic window reversal prevents accidental injury by immediately reversing the window's direction upon encountering an obstruction. This intelligent system prioritizes passenger safety, ensuring a worry-free driving experience for everyone."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1008,
+                "title": {
+                  "ar": "أضواء الفرامل في حالات الطوارئ",
+                  "en": "Emergency Braking Lights",
+                  "he": "אורות בלם חירום"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b550b5057a30ee8204ffd16ec8a730e9_oca_picture.jpg",
+                "description": {
+                  "en": "In critical situations, the BMW 3 Series G20's Emergency Braking Lights automatically flash rapidly, significantly increasing your visibility to other drivers and dramatically reducing the risk of rear-end collisions. This proactive safety feature provides an extra layer of protection for you and your passengers, enhancing overall driving confidence."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1009,
+                "title": {
+                  "ar": "إلغاء تنشيط تصميم الصوت النشط",
+                  "en": "Active Sound Design Deactivation",
+                  "he": "ביטול הפעלת צליל פעיל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/159a4022221dacd99df5556dead2d5bb_oca_picture.jpg",
+                "description": {
+                  "en": "Command absolute control over your driving experience.  With Active Sound Design Deactivation, effortlessly silence the enhanced engine sound, transforming your BMW 3 Series G20 from a thrilling performer into a refined, nearly silent cruiser, depending on your preference.  Enjoy the flexibility to tailor your auditory landscape."
+                },
+                "category": {
+                  "en": "Performance"
+                },
+                "price": "100"
+              },
+              {
+                "id": 1010,
+                "title": {
+                  "ar": "تأكيد إلغاء القفل الصوتي",
+                  "en": "Acoustic Unlock Confirmation",
+                  "he": "אישור ביטול נעילה אקוסטי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/daad8bd4bd769adee75ba9f287b93766_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the subtle yet sophisticated reassurance of Acoustic Unlock Confirmation.  A discreet chime signals your BMW 3 Series G20's doors have been securely unlocked, eliminating any uncertainty and adding a touch of premium automotive refinement to your everyday experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1011,
+                "title": {
+                  "ar": "شاشة CarPlay كاملة",
+                  "en": "CarPlay Fullscreen",
+                  "he": "CarPlay מסך מלא"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3e57f2fba7767f5d8d7ec4e3517e69c7_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in seamless smartphone integration with CarPlay Fullscreen on your BMW 3 Series G20.  Command your iPhone's essential apps and features on a brilliantly clear, expansive display, effortlessly navigating your journey with intuitive controls.  Drive focused and connected like never before."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1012,
+                "title": {
+                  "ar": "وضع ECO PRO الساحلي",
+                  "en": "ECO PRO Coasting Mode",
+                  "he": "מצב שיוט ECO PRO"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/40b747b342a0e62a4cb41e010cbd8b3c_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless efficiency with ECO PRO Coasting Mode in your BMW 3 Series G20.  This intelligent system seamlessly decouples the engine at speeds above 50km/h, allowing for momentum-based coasting and significantly reducing fuel consumption without compromising driving dynamics.  Maximize your efficiency and extend your range with minimal driver intervention."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1013,
+                "title": {
+                  "ar": "وضع Comfort+",
+                  "en": "Comfort+ Mode",
+                  "he": "מצב Comfort+"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/8b0824ae7ea0fd7804485811eefea511_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in serene driving with Comfort+ Mode.  This meticulously calibrated setting softens throttle response, adjusts the suspension for superior comfort, and subtly modifies steering feel, transforming every journey into a haven of relaxed sophistication.  Indulge in unparalleled smoothness and effortless control."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1014,
+                "title": {
+                  "ar": "اختبار أضواء الفرامل",
+                  "en": "Brake Lights Test",
+                  "he": "בדיקת אורות בלם"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/79c83239c057fff25d0ffc0290e44f83_oca_picture.jpg",
+                "description": {
+                  "en": "The 3 Series G20's advanced Brake Lights Test ensures optimal functionality of your braking system's visual warnings.  This diagnostic feature proactively checks the integrity of all brake lights, alerting you to any potential issues before they compromise safety.  Maintain peak performance and confidence with this essential safety check."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1015,
+                "title": {
+                  "ar": "اختبار أضواء الرجوع للخلف",
+                  "en": "Reversing Lights Test",
+                  "he": "בדיקת אורות רוורס"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/44ecec72499c9f1c68a9bbd6381c4577_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal rear visibility before every reverse maneuver.  The 3 Series G20's integrated reversing lights test automatically checks for proper function, providing peace of mind and contributing to safer reversing in any condition.  This proactive system helps prevent accidents and maintains the highest standards of BMW safety."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1016,
+                "title": {
+                  "ar": "اختبار مضخة غسيل الزجاج الأمامي",
+                  "en": "Windscreen Washer Pump Test",
+                  "he": "בדיקת משאבת מגבים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/98e61f5539a545cfede9847ac8f79d3a_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's sophisticated Windscreen Washer Pump Test ensures optimal functionality of your washer system.  This diagnostic check proactively identifies potential issues, preventing inconvenient disruptions and maintaining peak visibility for a consistently safe and enjoyable driving experience.  It's a testament to BMW's commitment to preventative maintenance and driving pleasure."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1017,
+                "title": {
+                  "ar": "فتح وإغلاق ستارة المبرد",
+                  "en": "Radiator Blind Opening and Closing ",
+                  "he": "פתיחה וסגירה של תריס הרדיאטור"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/191ec48271def6879338a979daa8a382_oca_picture.jpg",
+                "description": {
+                  "en": "Experience optimized thermal management with the intelligent Radiator Blind.  This innovative system automatically opens and closes to regulate engine temperature, maximizing efficiency and performance, particularly in varying climate conditions.  Enjoy enhanced fuel economy and reduced emissions without compromising power."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1018,
+                "title": {
+                  "ar": "اختبار اهتزاز عجلة القيادة",
+                  "en": "Steering Wheel Vibration Test",
+                  "he": "בדיקת רטט הגה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/05671bc403200ee80861cd573d2f049b_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's rigorous Steering Wheel Vibration Test ensures optimal steering feel and responsiveness.  This meticulous process, performed during manufacturing, guarantees the precision and feedback you expect from a BMW, minimizing unwanted vibrations for a refined and confident driving experience.  Experience the ultimate connection between you and the road."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1019,
+                "title": {
+                  "ar": "اختبار مروحة المحرك",
+                  "en": "Engine Fan Test",
+                  "he": "בדיקת מאוורר מנוע"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/695fd1be4b24dfd3b5222090d16f520a_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's Engine Fan Test, accessible through the iDrive system, allows for a comprehensive diagnostic check of your cooling system's functionality.  This ensures optimal engine temperature regulation and prevents potential overheating issues, maximizing performance and longevity.  A simple test for peace of mind."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1020,
+                "title": {
+                  "ar": "اختبار البوق",
+                  "en": "Horn Test",
+                  "he": "בדיקת צופר"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/25004774a9c5fa633d3660c65c76ece0_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure your BMW 3 Series G20's horn is functioning perfectly with our simple and convenient Horn Test.  A quick self-diagnostic check allows for immediate confirmation of horn operation, providing peace of mind and preventing unexpected situations on the road.  Maintain optimal safety and preparedness with this essential functionality test."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1021,
+                "title": {
+                  "ar": "اختبار أضواء الضباب الخلفية",
+                  "en": "Rear Fog Lights Test",
+                  "he": "בדיקת פנסי ערפל אחוריים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/91efcacfe9b197171c786f359ca28c20_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's integrated rear fog light system undergoes rigorous testing to ensure optimal visibility in challenging weather conditions.  This guarantees enhanced safety and driver confidence, even during the most demanding drives.  Performance is rigorously validated to meet BMW's exacting standards."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1022,
+                "title": {
+                  "ar": "فحص المصابيح الأمامية",
+                  "en": "Headlights Check",
+                  "he": "בדיקת פנסים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/f0169c9a66aeaa3564a54473b65c9039_oca_picture.jpg",
+                "description": {
+                  "en": "Before you embark on your journey, the BMW 3 Series G20's Headlights Check intelligently verifies the functionality of all exterior lights.  This ensures optimal visibility and road safety, proactively identifying any potential issues with your headlights, taillights, or turn signals, allowing for timely maintenance.  Drive with confidence, knowing your lighting system is performing at its peak."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1023,
+                "title": {
+                  "ar": "اختبار أضواء لوحة العدادات",
+                  "en": "Instrument Cluster Lights Test",
+                  "he": "בדיקת נורות לוח מחוונים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/06b677511a8683a43e283a03c7bb6f50_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal functionality of your BMW 3 Series G20's instrument cluster with our comprehensive diagnostic test.  This service verifies the illumination of all gauges and warning lights, guaranteeing clear readability and immediate awareness of your vehicle's status for enhanced safety and driving confidence."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1024,
+                "title": {
+                  "ar": "نظام الاتصال الطارئ SOS",
+                  "en": "SOS Emergency Call System",
+                  "he": "מערכת קריאת חירום SOS"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/63c12ebda4e28525f79ced7e43280430_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW SOS Emergency Call system provides peace of mind, automatically contacting emergency services in the event of a collision.  This intelligent system transmits your vehicle's location and other vital information, ensuring swift response and support when you need it most.  Drive with confidence, knowing help is just a connection away."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1025,
+                "title": {
+                  "ar": "حماية إنذار OBD2",
+                  "en": "OBD2 Alarm Protection",
+                  "he": "הגנת אזעקת OBD2"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d61aaa15eab2ca3147f92a99b9ba683f_oca_picture.jpg",
+                "description": {
+                  "en": "Safeguard your BMW 3 Series G20 from unauthorized access and tampering with our advanced OBD2 Alarm Protection system.  This discreet yet powerful feature monitors your vehicle's onboard diagnostics port, instantly alerting you to any suspicious activity, providing an extra layer of security for your prized possession.  Maintain peace of mind knowing your BMW is protected."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1026,
+                "title": {
+                  "ar": "إلغاء تنشيط حماية المشاة الصوتية",
+                  "en": "Acoustic Pedestrian Protection Deactivation",
+                  "he": "ביטול הגנה אקוסטית על הולכי רגל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b514793fd8c5955fe2f3205b4acfef8c_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in driving discretion with Acoustic Pedestrian Protection Deactivation.  Seamlessly disable the exterior speaker system's pedestrian warning sounds when desired, maintaining the pure, unadulterated driving experience of your BMW 3 Series G20, while still adhering to all relevant safety regulations. This feature offers enhanced control and a refined driving ambiance."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1027,
+                "title": {
+                  "ar": "إشارات الانعطاف المريحة",
+                  "en": "Comfort Turn Signals",
+                  "he": "איתותים נוחים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d7acab1c54694044704d81aac0dc355a_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless elegance with BMW's Comfort Turn Signals.  A gentle tap of the indicator stalk initiates a subtle, yet highly visible, blink, enhancing both safety and the refined driving experience of your 3 Series G20.  Enjoy intuitive control and a sophisticated driving aesthetic."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1028,
+                "title": {
+                  "ar": "تحذيرات الكاميرا و PDC",
+                  "en": "Camera and PDC Warnings",
+                  "he": "אזהרות מצלמה וחיישני חניה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/48d927c6e56430b1bd113dcf71b500ca_oca_picture.jpg",
+                "description": {
+                  "en": "Navigate city streets and tight parking spaces with confidence.  The 3 Series G20's advanced camera and PDC (Parking Distance Control) system provides visual and audible warnings, alerting you to obstacles and ensuring precise maneuvering for a superior driving experience."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1029,
+                "title": {
+                  "ar": "شريط مستوى الصوت",
+                  "en": "Volume Bar",
+                  "he": "סרגל עוצמת קול"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/654f4d188b050649aad909e76de0c74d_oca_picture.jpg",
+                "description": {
+                  "en": "Command your audio experience with effortless precision using the intuitively designed volume bar.  Its tactile feedback and seamless integration into the BMW iDrive system ensures a refined and engaging drive, allowing you to effortlessly adjust the audio to your perfect level."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1030,
+                "title": {
+                  "ar": "تحذيرات حزام الأمان المرئية",
+                  "en": "Seat Belt Visual Warnings",
+                  "he": "התראות חזותיות של חגורת בטיחות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0eea7e436cd9ecf1221572bd768f96cf_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in proactive safety with the 3 Series G20's Seat Belt Visual Warnings.  These intelligent alerts subtly remind both the driver and front passenger to fasten their seatbelts, significantly enhancing occupant protection and peace of mind.  Driving becomes safer and more responsible, effortlessly."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1031,
+                "title": {
+                  "ar": "تحذير حزام الأمان الأولي",
+                  "en": "Seat Belt Initial Warning",
+                  "he": "אזהרה ראשונית של חגורת בטיחות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/1e9f886ee51b0014551f73a8fa9050ec_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's Seat Belt Initial Warning system prioritizes your safety by providing a gentle yet clear reminder to fasten your seatbelt upon starting the vehicle.  This proactive alert contributes to a more secure driving experience, minimizing the risk of injury in the event of a collision.  Drive with confidence, knowing you're protected."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1032,
+                "title": {
+                  "ar": "تحذيرات حزام الأمان الصوتية",
+                  "en": "Seat Belt Acoustic Warnings",
+                  "he": "התראות קוליות של חגורת בטיחות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2d0c07d8a9e9d36a2249a1131682b676_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in proactive safety with the 3 Series G20's Seat Belt Acoustic Warnings.  A gentle chime reminds both driver and passengers to fasten their seatbelts, enhancing safety and peace of mind on every journey. This subtle yet crucial feature prioritizes your well-being without disrupting the refined driving experience."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1033,
+                "title": {
+                  "ar": "خانة اختيار أضواء النهار",
+                  "en": "Daytime Running Lights Checkbox",
+                  "he": "תיבת סימון אורות יום"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/1b03c462f9d80dd9b3eb8f7ef4a723b1_oca_picture.jpg",
+                "description": {
+                  "en": "Precisely control the activation of your BMW 3 Series G20's striking daytime running lights.  This configurable setting allows you to personalize your driving experience, ensuring optimal visibility while maintaining your preferred aesthetic.  Customize your daytime presence with effortless precision."
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1034,
+                "title": {
+                  "ar": "إيقاف الأضواء أثناء القيادة",
+                  "en": "Lights OFF while Driving",
+                  "he": "אורות כבויים בזמן נהיגה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/1023db0f823993a6ac7c03962b85af63_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in driving focus with BMW's innovative 'Lights OFF while Driving' feature.  This cutting-edge system intelligently manages your exterior lighting, seamlessly adapting to ambient conditions and optimizing your night vision for unparalleled concentration and safety.  Enjoy a more immersive and intuitive driving experience."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1035,
+                "title": {
+                  "ar": "مدة التأكيد الصوتي",
+                  "en": "Acoustic Confirmation Duration",
+                  "he": "משך אישור קולי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2632d6b1649ed2cffae8ff6cda7615a5_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the refined assurance of perfectly calibrated acoustic feedback.  The adjustable Acoustic Confirmation Duration in your BMW 3 Series G20 provides customizable tones for key functions, ensuring you're always informed without distraction, enhancing both driving focus and user experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1036,
+                "title": {
+                  "ar": "حجم التأكيد الصوتي",
+                  "en": "Acoustic Confirmation Volume",
+                  "he": "עוצמת אישור קולי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7f845106c46927fc4dfe934db366fba5_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the perfectly calibrated acoustic confirmation of your BMW 3 Series G20's functions.  The Acoustic Confirmation Volume allows you to adjust the subtle yet reassuring sounds of features like seatbelt warnings and door locking, ensuring a personalized and confident driving experience without distracting from the refined acoustics of your vehicle."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1037,
+                "title": {
+                  "ar": "حساسية أضواء الفرامل في حالات الطوارئ",
+                  "en": "Emergency Braking Lights Sensitivity",
+                  "he": "רגישות אורות בלם חירום"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/ff6286e8eeee48f3c9173f485bd2e547_oca_picture.jpg",
+                "description": {
+                  "en": "Experience heightened safety with the 3 Series G20's advanced Emergency Braking Lights Sensitivity.  This system enhances your vehicle's response to sudden braking, activating the hazard lights with increased intensity and immediacy to provide earlier and more effective warning to following drivers, significantly reducing the risk of rear-end collisions. This proactive safety feature adds another layer of protection for you and those around you."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1038,
+                "title": {
+                  "ar": "نغمة التحذير",
+                  "en": "Warning Tone",
+                  "he": "צליל אזהרה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/cc58459f6b696fedae4c4de866ba7e62_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's sophisticated warning tone system provides clear and distinct audible alerts for critical situations, ensuring immediate driver awareness of potential hazards and contributing to proactive safety.  Its carefully calibrated sounds are designed for optimal clarity and minimal distraction, prioritizing your safety without compromising the driving experience."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1039,
+                "title": {
+                  "ar": "إيقاف الأضواء في الوضع 0",
+                  "en": "Lights OFF in Position 0",
+                  "he": "אורות כבויים במצב 0"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fbdd50c79a88ce9024e9b02eee2ffcdb_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless control with the innovative Lights OFF in Position 0.  Simply turn the light switch to position 0 for immediate and complete darkness, enhancing nighttime driving privacy and minimizing unnecessary light pollution. This intuitive feature provides a seamless transition between illumination and complete darkness."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1040,
+                "title": {
+                  "ar": "إشارات صوتية",
+                  "en": "Sound Signals",
+                  "he": "איתותי צליל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/58689f55e60e877c383aafc0ac2ce456_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the subtle yet sophisticated refinement of BMW's enhanced Sound Signals.  These meticulously engineered acoustic alerts replace traditional mechanical warning sounds with a richer, more nuanced audio experience, seamlessly integrated with the 3 Series G20's premium interior.  Enjoy a drive that's both safer and more sonically pleasing."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1041,
+                "title": {
+                  "ar": "شعار الديزل",
+                  "en": "Diesel Logo",
+                  "he": "לוגו דיזל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3e69efe9899b83803c43cbcdc897743f_oca_picture.jpg",
+                "description": {
+                  "en": "The discreet yet unmistakable BMW diesel emblem subtly announces the potent efficiency of your 3 Series G20's advanced diesel engine.  This refined detail, perfectly integrated into the vehicle's design, speaks volumes about your commitment to both performance and sustainability.  A hallmark of BMW engineering excellence."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 1042,
+                "title": {
+                  "ar": "وضع Sprint",
+                  "en": "Sprint Mode",
+                  "he": "מצב ספרינט"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/330fdc2257c037dc7f9a780fa67e49c9_oca_picture.jpg",
+                "description": {
+                  "en": "Unleash the raw power of your BMW 3 Series G20 with Sprint Mode.  This exhilarating function delivers an immediate surge of acceleration, sharpening your reflexes and transforming every drive into a thrilling experience. Feel the surge of adrenaline as you effortlessly overtake and conquer the road."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1043,
+                "title": {
+                  "ar": "أضواء الخطر بعد الفرملة الطارئة",
+                  "en": "Hazard Lights after Emergency Braking",
+                  "he": "אורות חירום לאחר בלימת חירום"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/5917abb6e210ac190d1c5b0d00edf634_oca_picture.jpg",
+                "description": {
+                  "en": "Following an emergency braking maneuver, the 3 Series G20 automatically activates its hazard lights, instantly alerting other drivers to your sudden stop and significantly reducing the risk of a secondary collision. This proactive safety feature provides an extra layer of protection for you and other road users, enhancing your overall driving experience."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1044,
+                "title": {
+                  "ar": "ذاكرة التشغيل/الإيقاف",
+                  "en": "Start/Stop Memory",
+                  "he": "זיכרון התנעה/עצירה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/cbaab732ffeea18ab07cc27b8fae97ee_oca_picture.jpg",
+                "description": {
+                  "en": "Reclaim your driving preferences.  Start/Stop Memory in the BMW 3 Series G20 learns your driving style and automatically adjusts the start/stop function accordingly, seamlessly integrating with your individual preferences for a more refined and personalized driving experience. Enjoy effortless starts and smooth stops, tailored exactly to your needs."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1045,
+                "title": {
+                  "ar": "سعة البطارية",
+                  "en": "Battery Capacity",
+                  "he": "קיבולת סוללה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0239dd20ce801b894b0f6e2f3251a516_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20 boasts a meticulously engineered battery capacity, delivering robust power for all onboard systems and maximizing the efficiency of your driving experience.  This ensures a consistently smooth and responsive performance, even under demanding conditions, maximizing both range and overall driving pleasure."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1046,
+                "title": {
+                  "ar": "تحذير مؤقت لانخفاض الوقود",
+                  "en": "Temporary Low Fuel Warning",
+                  "he": "התראת דלק נמוך זמנית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/bcea307be13d79bb32669ee02849a211_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's intelligent Temporary Low Fuel Warning system proactively alerts you when your fuel level reaches a pre-determined threshold, preventing unexpected fuel exhaustion and ensuring seamless journeys. This sophisticated feature provides peace of mind, allowing you to plan your refueling stops conveniently and without interruption to your driving experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1047,
+                "title": {
+                  "ar": "سلامة النوافذ الكهربائية",
+                  "en": "Power Windows Safety",
+                  "he": "בטיחות חלונות חשמל"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/bcd39f18a96e33f22c4bdbff7e8ad905_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in peace of mind with the 3 Series G20's advanced power window safety system.  Automatic reversal prevents pinching, protecting passengers – especially children – from injury should they encounter resistance while operating the windows. This intelligent feature adds a layer of proactive safety to your daily drive."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1048,
+                "title": {
+                  "ar": "تحذير دائم لانخفاض الوقود",
+                  "en": "Permanent Low Fuel Warning",
+                  "he": "התראת דלק נמוך קבועה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/a1a24aa519ee8d1851f63532bddb5235_oca_picture.jpg",
+                "description": {
+                  "en": "Never be caught unexpectedly low on fuel. The BMW 3 Series G20's Permanent Low Fuel Warning provides a persistent, proactive alert, ensuring you always have ample time to locate a fuel station. This intelligent system prioritizes peace of mind and prevents inconvenient, potentially dangerous situations by providing an early and continuous warning."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1049,
+                "title": {
+                  "ar": "الملاحة في HUD",
+                  "en": "Navigation in HUD",
+                  "he": "ניווט ב-HUD"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7b4fcd086f8fd5d532f776c5500d3f23_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in driving focus with BMW's Navigation in HUD.  Crucially important navigation information, such as directional arrows and speed limits, is seamlessly projected onto your windshield, keeping your eyes on the road and your hands on the wheel.  Effortlessly navigate complex routes while maintaining unwavering control and concentration."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1050,
+                "title": {
+                  "ar": "تأكيد القفل الصوتي",
+                  "en": "Acoustic Lock Confirmation",
+                  "he": "אישור נעילה אקוסטי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/9b3a52fd1d60deb22f1278ab10f844ee_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the reassuring click of the BMW 3 Series G20's Acoustic Lock Confirmation.  A subtle yet sophisticated auditory cue, it provides undeniable confirmation of your vehicle's secure locking, enhancing peace of mind and adding a touch of BMW's signature driving precision."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1051,
+                "title": {
+                  "ar": "تأكيد القفل المرئي",
+                  "en": "Visual Lock Confirmation",
+                  "he": "אישור נעילה חזותי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/aef3e89ec4a2a453567cc8d6645f113b_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled peace of mind with Visual Lock Confirmation.  See your BMW 3 Series G20's status at a glance, as exterior lights elegantly confirm your vehicle is securely locked, eliminating any lingering doubts and adding a touch of sophisticated visual feedback."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1052,
+                "title": {
+                  "ar": "القفل التلقائي",
+                  "en": "Auto Locking",
+                  "he": "נעילה אוטומטית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/bb423a0d85736ba30b261c572f086ff0_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in peace of mind with the 3 Series G20's intelligent Auto Locking system.  Doors automatically secure at a pre-defined speed, eliminating the need to manually lock up and minimizing the risk of accidental unlocking.  Enjoy effortless security and enhanced protection on every journey."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1053,
+                "title": {
+                  "ar": "خانة اختيار القفل التلقائي",
+                  "en": "Auto Locking Checkbox",
+                  "he": "תיבת סימון נעילה אוטומטית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fb3a657584d73149436c2946823c314e_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in driving peace of mind with the Auto Locking Checkbox.  Simply check the box in your iDrive settings, and your BMW 3 Series G20 will automatically lock its doors once you reach a pre-defined speed, providing added security and reducing the risk of accidental unlocking.  Enjoy effortless convenience and enhanced safety, all within your control."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1054,
+                "title": {
+                  "ar": "شعار مفتاح العرض",
+                  "en": "Display Key Logo",
+                  "he": "לוגו מפתח תצוגה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c698a30d46e0624df271dd7d7568fbe7_oca_picture.jpg",
+                "description": {
+                  "en": "Project your BMW logo onto the ground as you approach your 3 Series G20.  This subtle yet sophisticated detail elevates the unlocking experience, adding a touch of understated luxury and visual flair to your arrival. A small detail, a significant statement."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 1055,
+                "title": {
+                  "ar": "نمط جسم السيارة",
+                  "en": "Vehicle Body Style",
+                  "he": "סגנון מרכב רכב"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/deb68388a3ebb3589397949c42e02d98_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's athletic body style seamlessly blends performance-inspired design with everyday practicality. Its sculpted lines and dynamic proportions exude confidence, while the spacious cabin offers comfort and versatility for driver and passengers alike. Experience the perfect harmony of form and function."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 1056,
+                "title": {
+                  "ar": "إعداد التشغيل/الإيقاف الافتراضي",
+                  "en": "Start/Stop Default Setting",
+                  "he": "הגדרת ברירת מחדל של התנעה/עצירה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3aa388e8f3161795f9d5144b36dbae83_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20 empowers you to seamlessly manage your driving experience.  By default, the intelligent Start/Stop system is activated, optimizing fuel efficiency and minimizing emissions without compromising driving pleasure.  Easily adjust this setting to your preference via the iDrive menu."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1057,
+                "title": {
+                  "ar": "معدل تحديث عداد السرعة الرقمي",
+                  "en": "Digital Speedometer Refresh Rate",
+                  "he": "קצב רענון מד מהירות דיגיטלי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3f31daea0cda8099111b68c6b7a70e84_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled responsiveness with the 3 Series G20's lightning-fast digital speedometer refresh rate.  Information updates seamlessly, ensuring you always have the most precise and immediate speed reading, contributing to a more confident and controlled driving experience.  This cutting-edge technology eliminates lag and enhances the overall driver interface."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1058,
+                "title": {
+                  "ar": "القيمة القصوى لمقياس G",
+                  "en": "G-Meter Max Value",
+                  "he": "ערך מקסימלי של מד G"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/4c48ff5c69e329506a4012b0dc4a730b_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate thrill with the 3 Series G20's G-Meter Max Value display.  Witness the peak G-forces unleashed during spirited driving, a testament to the car's dynamic handling and powerful performance.  This data-driven insight allows you to truly understand and appreciate the car's exceptional capabilities."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1059,
+                "title": {
+                  "ar": "شاشات رياضية في HUD",
+                  "en": "Sport Displays in HUD",
+                  "he": "תצוגות ספורט ב-HUD"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/ee75108966a251c2a389c442a269982a_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of the road with unparalleled focus.  The 3 Series G20's Sport Displays in the Head-Up Display project vital driving information directly onto your windshield, including dynamic shift lights and a customizable performance view, keeping your eyes on the road and your hands firmly on the wheel."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1060,
+                "title": {
+                  "ar": "أضواء نقل الحركة M",
+                  "en": "M Shift Lights",
+                  "he": "נורות העברת הילוכים M"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/18c00b6412884bde36ed6e1c25132c83_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of perfectly timed shifts with the M Shift Lights.  These dynamic indicators on your instrument cluster illuminate progressively as you approach the optimal engine speed for upshifting, ensuring maximum acceleration and an exhilarating driving experience.  Master the art of precision driving with this hallmark of M performance."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1061,
+                "title": {
+                  "ar": "دفع خلفي فقط في xDrive",
+                  "en": "RWD Only on xDrive",
+                  "he": "הנעה אחורית בלבד ב-xDrive"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/f71d8df8cc30c8ca7338e49841f7e95f_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the pure, unadulterated driving dynamics of the BMW 3 Series G20 with rear-wheel drive, even in xDrive models.  This unique configuration prioritizes handling precision and the celebrated BMW feel, offering a more engaging and responsive driving experience.  Select 'RWD Only' for a heightened connection to the road."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1062,
+                "title": {
+                  "ar": "الوسائط المتعددة بنمط MINI",
+                  "en": "MINI Style Multimedia",
+                  "he": "מולטימדיה בסגנון MINI"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/51151bca6058c6a53f985d81ea9527b3_oca_picture.jpg",
+                "description": {
+                  "en": "Experience seamless connectivity and intuitive control with the MINI Style Multimedia system in your BMW 3 Series G20.  Enjoy a vibrant display, effortless smartphone integration, and access to a wealth of entertainment and navigation features, all tailored for a supremely enjoyable driving experience.  Upgrade your in-car technology and stay effortlessly connected."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1063,
+                "title": {
+                  "ar": "الوسائط المتعددة بنمط تويوتا سوبرا",
+                  "en": "Toyota Supra Style Multimedia",
+                  "he": "מולטימדיה בסגנון טויוטה סופרה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7208b91bddd7baa8ae207b2fc41f7e3c_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the exhilarating blend of BMW's renowned driving dynamics and the cutting-edge infotainment system inspired by the iconic Toyota Supra. This seamlessly integrated multimedia experience boasts a responsive interface, stunning graphics, and intuitive controls, elevating your 3 Series G20 to a new level of connected driving pleasure.  Enjoy crisp visuals, seamless navigation, and effortless access to your favorite apps, all tailored for the ultimate driving experience."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1064,
+                "title": {
+                  "ar": "قائمة الموسيقى في HUD",
+                  "en": "Music List in HUD",
+                  "he": "רשימת מוזיקה ב-HUD"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b5ac34679daecd17558f589fac070230_oca_picture.jpg",
+                "description": {
+                  "en": "Seamlessly integrated into the BMW 3 Series G20's Head-Up Display, the Music List function lets you keep your eyes on the road while effortlessly browsing and selecting your favorite tracks.  Enjoy distraction-free driving with intuitive song selection directly in your line of sight, enhancing both safety and the driving experience."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1065,
+                "title": {
+                  "ar": "تغيير تردد الراديو",
+                  "en": "Radio Frequency Change",
+                  "he": "שינוי תדר רדיו"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c285204fc87c593a7e3722271cc2290d_oca_picture.jpg",
+                "description": {
+                  "en": "Experience seamless connectivity with the enhanced Radio Frequency Change in your BMW 3 Series G20. This sophisticated update ensures optimal signal reception, delivering uninterrupted access to your favorite radio stations and digital audio streams, enhancing your driving pleasure with crystal-clear audio quality wherever you go."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1066,
+                "title": {
+                  "ar": "تجهيز نظام الوقود",
+                  "en": "Fuel System Priming",
+                  "he": "הכנת מערכת דלק"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b0a6c158e4c1ef4120e39a9bfa688568_oca_picture.jpg",
+                "description": {
+                  "en": "Experience seamless starts every time with the 3 Series G20's advanced fuel system priming. This intelligent system ensures optimal fuel delivery for immediate engine responsiveness and a refined driving experience, eliminating any hesitation or delay in ignition."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1067,
+                "title": {
+                  "ar": "نوع صوت الإنذار",
+                  "en": "Alarm Sound Type",
+                  "he": "סוג צליל אזעקה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/839134ceb65d9352d168c58157d06e5c_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the unmistakable sonic signature of your BMW 3 Series G20.  Choose from a range of sophisticated alarm sounds, each meticulously crafted to deter potential threats with a distinct and assertive tone, providing an extra layer of security beyond the standard system."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1068,
+                "title": {
+                  "ar": "فتح صمام العادم",
+                  "en": "Exhaust Flap Open",
+                  "he": "פתיחת דש פליטה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/16bc0a4d3d3020fcf7ecbf3f443a0272_oca_picture.jpg",
+                "description": {
+                  "en": "Unleash the full, exhilarating soundtrack of your BMW 3 Series G20.  With Exhaust Flap Open, the electronically controlled valves fully open, delivering a richer, more intense engine note that perfectly complements the car's dynamic performance. Experience the raw emotion of the engine as it was intended to be heard."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1069,
+                "title": {
+                  "ar": "إغلاق صمام العادم",
+                  "en": "Exhaust Flap Close",
+                  "he": "סגירת דש פליטה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7c53f6bf8c5a96248bc231f5ac37fa8a_oca_picture.jpg",
+                "description": {
+                  "en": "Command the character of your BMW 3 Series G20.  With Exhaust Flap Close, effortlessly switch from a refined, near-silent driving experience to a more assertive, sportier exhaust note at the touch of a button, perfectly tailoring the soundtrack to your driving mood and surroundings."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1070,
+                "title": {
+                  "ar": "صفارة عند إغلاق صندوق الأمتعة عبر مفتاح التحكم عن بعد",
+                  "en": "Beeper when Closing Trunk via Key Fob",
+                  "he": "צפצוף בעת סגירת תא מטען דרך שלט רכב"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/862f3dbe545e7fa587bc12bddc502ce1_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in effortless convenience.  The BMW 3 Series G20's key fob now features an audible confirmation beep upon closing the trunk, providing peace of mind and ensuring you've securely closed it every time. This subtle yet sophisticated touch elevates your driving experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1071,
+                "title": {
+                  "ar": "صفارة عند إغلاق صندوق الأمتعة عبر الزر الداخلي",
+                  "en": "Beeper when Closing Trunk via Interior Button",
+                  "he": "צפצוף בעת סגירת תא מטען דרך כפתור פנימי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/e0a587379a9916e2031bd24610c33bab_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in effortless convenience.  A subtle yet reassuring beep confirms secure closure of your 3 Series G20's trunk each time you use the interior release button, eliminating any uncertainty and adding a touch of sophisticated feedback."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1072,
+                "title": {
+                  "ar": "إغلاق صندوق الأمتعة عبر مفتاح التحكم عن بعد",
+                  "en": "Trunk Closing via Key Fob",
+                  "he": "סגירת תא מטען באמצעות שלט רכב"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b6164e9a99e1bc83a3e69991c15472c2_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly close your BMW 3 Series G20's trunk from a distance with a simple press of your key fob.  This convenient feature adds a touch of refined ease to your daily driving experience, eliminating the need to manually reach for the handle.  Experience the seamless blend of technology and luxury that defines the BMW driving experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1073,
+                "title": {
+                  "ar": "إغلاق صندوق الأمتعة عبر الزر الداخلي",
+                  "en": "Trunk Closing via Interior Button",
+                  "he": "סגירת תא מטען באמצעות כפתור פנימי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2ce4c43001bc49b306802be4ef86bb60_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly close your 3 Series G20's trunk from the comfort of the driver's seat with a single touch.  This convenient interior button eliminates the need to reach back, enhancing both practicality and the refined driving experience expected from a BMW."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1074,
+                "title": {
+                  "ar": "زر صندوق الأمتعة بمفتاح التحكم عن بعد عند الإغلاق",
+                  "en": "Key Fob Trunk Button when Closing",
+                  "he": "כפתור תא מטען בשלט רכב בעת סגירה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/cdc01f573f8b6ddea9edc90b78d16a79_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly close your BMW 3 Series G20's trunk with a simple press of the button on your key fob.  This convenient feature eliminates the need to manually reach for the trunk release, adding a touch of seamless sophistication to your daily drive. Experience the ultimate in refined practicality."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1075,
+                "title": {
+                  "ar": "إلغاء تنشيط وضع خدمة EPB",
+                  "en": "EPB Service Mode Deactivation",
+                  "he": "ביטול מצב שירות EPB"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/ba3c2e39371f0ec6cc525ffaf47412e5_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unrestricted access to your BMW 3 Series G20's full potential.  EPB Service Mode Deactivation allows for precise wheel and brake servicing, bypassing standard electronic parking brake limitations for enhanced technician efficiency and streamlined maintenance. This feature ensures your vehicle receives the most thorough and expert care."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1076,
+                "title": {
+                  "ar": "تفعيل وضع خدمة EPB",
+                  "en": "EPB Service Mode Activation",
+                  "he": "הפעלת מצב שירות EPB"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b713ed748cbb39e18a79a32c93daae93_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly access and manage your BMW 3 Series G20's electronic parking brake (EPB) system for professional service or DIY maintenance.  EPB Service Mode Activation simplifies procedures like brake pad replacement, ensuring a precise and efficient process. This feature is exclusively available for authorized technicians and experienced individuals possessing the necessary mechanical expertise."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1077,
+                "title": {
+                  "ar": "عرض السرعة الرقمية في OBC",
+                  "en": "Digital Speed Display in OBC",
+                  "he": "תצוגת מהירות דיגיטלית במחשב דרך"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/89175d8d458af951210147e4ce57a205_oca_picture.jpg",
+                "description": {
+                  "en": "Experience seamless integration of vital driving information.  The 3 Series G20's Digital Speed Display, conveniently located within the onboard computer (OBC), provides a clear, crisp digital readout of your speed, eliminating the need to glance down at the traditional speedometer and enhancing your focus on the road ahead. This intuitive feature seamlessly integrates with the overall driving experience."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1078,
+                "title": {
+                  "ar": "إلغاء تنشيط عطل الميكروفون",
+                  "en": "Microphone Fault Deactivation",
+                  "he": "ביטול תקלת מיקרופון"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/da48ef076ec132a0bb23f05eae9986ab_oca_picture.jpg",
+                "description": {
+                  "en": "Engineered for unwavering communication, the 3 Series G20's advanced Microphone Fault Deactivation system intelligently identifies and bypasses microphone malfunctions.  This ensures seamless voice control functionality for your navigation, phone calls, and BMW Intelligent Personal Assistant, preserving the premium in-car experience even in the event of a microphone issue."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1079,
+                "title": {
+                  "ar": "فتح القفل التلقائي",
+                  "en": "Auto Unlocking",
+                  "he": "פתיחת נעילה אוטומטית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/f589aa8102837ddd82734e1a12d29ab6_oca_picture.jpg",
+                "description": {
+                  "en": "Approach your BMW 3 Series G20 and experience seamless entry.  Auto Unlocking intuitively detects your key fob's proximity, unlocking the doors effortlessly and enhancing the refined experience of ownership.  Enjoy effortless access, perfectly complementing the sophisticated design and intelligent technology of your BMW."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1080,
+                "title": {
+                  "ar": "المصابيح الأمامية المقاومة للوهج",
+                  "en": "Anti-dazzle Headlights",
+                  "he": "פנסים נגד סנוור"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/af26db2195df8d0ba850b7c9944b7ee8_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled nighttime visibility with BMW's innovative Anti-dazzle Headlights.  These intelligent headlights automatically adjust their beam pattern, preventing glare for oncoming drivers while maximizing illumination for you, ensuring a safer and more comfortable drive on any road."
+                },
+                "category": {
+                  "en": "Safety"
+                },
+                "price": "200"
+              },
+              {
+                "id": 1081,
+                "title": {
+                  "ar": "إصلاح إعدادات الوقت",
+                  "en": "Time Settings Fix",
+                  "he": "תיקון הגדרות זמן"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b895d8a9528d35d5338be99b88a8057d_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly manage your BMW 3 Series G20's clock and date settings with our intuitive Time Settings Fix.  This precise calibration ensures accurate timekeeping, eliminating the need for manual adjustments and enhancing your driving experience with seamless functionality.  Experience the hallmark BMW precision in every detail."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1082,
+                "title": {
+                  "ar": "رسوم متحركة لأضواء الترحيب",
+                  "en": "Welcome Lights Animation",
+                  "he": "אנימציית אורות קבלת פנים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/7b5f9b167db29a6c81aa6864e08f0b90_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in arrival.  The BMW 3 Series G20's Welcome Lights Animation projects a dynamic, illuminated logo onto the ground as you approach, creating a captivating and personalized greeting.  This sophisticated feature adds a touch of BMW's signature flair and enhances your nighttime experience."
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1083,
+                "title": {
+                  "ar": "لون محيطي بدلاً من البرونزي",
+                  "en": "Ambient Color Instead of Bronze",
+                  "he": "צבע סביבה במקום ברונזה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/8e257b7516893dd22155437af408d988_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate the ambiance of your BMW 3 Series G20 with our sophisticated Ambient Color option.  Replacing the standard bronze lighting, this feature allows you to personalize your interior with a spectrum of customizable colors, creating a uniquely tailored driving experience.  Immerse yourself in a captivating atmosphere, perfectly complementing your individual style."
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1084,
+                "title": {
+                  "ar": "التحكم النشط بستارة المبرد",
+                  "en": "Active Radiator Blind Control",
+                  "he": "בקרת תריס רדיאטור אקטיבית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/b56e788757b70fdd30578b2210cc2f7b_oca_picture.jpg",
+                "description": {
+                  "en": "Experience enhanced efficiency and performance with the 3 Series G20's Active Radiator Blind Control. This intelligent system dynamically regulates airflow to the radiator, optimizing engine temperature for improved fuel economy and reduced emissions without compromising performance.  Enjoy the seamless integration of technology that elevates your driving experience."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1085,
+                "title": {
+                  "ar": "فترة صيانة الزيت",
+                  "en": "Oil Maintenance Interval",
+                  "he": "מרווח טיפול שמן"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/231594e4a9f96021ad2e8747f4ccba3e_oca_picture.jpg",
+                "description": {
+                  "en": "Engineered for ultimate efficiency, the BMW 3 Series G20's extended oil maintenance interval allows for less frequent service visits, maximizing your driving time and minimizing downtime. This intelligent system monitors oil condition and alerts you only when a service is truly necessary, providing both convenience and peace of mind.  Experience the seamless blend of performance and practicality that defines the BMW driving experience."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1086,
+                "title": {
+                  "ar": "حزمة اللغات الأوروبية",
+                  "en": "European Languages Package",
+                  "he": "חבילת שפות אירופאיות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/fd268a566e68e841df6e50db102b8ada_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly navigate the continent with the European Languages Package for your BMW 3 Series G20.  This comprehensive package equips your iDrive system with crystal-clear voice commands and intuitive on-screen displays in multiple European languages, ensuring a seamless and luxurious driving experience wherever your journey takes you.  Experience effortless communication and enhanced connectivity across Europe."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1087,
+                "title": {
+                  "ar": "الأضواء عند الاقتراب/المغادرة",
+                  "en": "Lights when Approaching/Leaving",
+                  "he": "אורות בעת התקרבות/עזיבה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2b4518c735cadd7a4119cb3cee79227d_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the subtle yet sophisticated welcome of your BMW 3 Series G20.  As you approach, ambient lighting gently illuminates the exterior, guiding you to your car.  Upon departure, the same soft glow bids you farewell, a thoughtful detail reflecting BMW's commitment to refined driving pleasure."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1088,
+                "title": {
+                  "ar": "اختبار أضواء التحذير من المخاطر",
+                  "en": "Hazard Warning Lights Test",
+                  "he": "בדיקת אורות אזהרה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/cfb3803de2dec9b1a488783080d303aa_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal safety and functionality of your BMW 3 Series G20's hazard warning lights with a comprehensive self-test.  This integrated function quickly verifies that all lights are working correctly, providing peace of mind and enhanced safety on the road.  A crucial element of preventative maintenance for optimal driving."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1089,
+                "title": {
+                  "ar": "اختبار ضوء الضباب الأمامي",
+                  "en": "Front Fog Light Test ",
+                  "he": "בדיקת פנס ערפל קדמי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/5d5527d465db319a182ca639d90b6268_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's integrated front fog light test ensures optimal illumination in challenging weather conditions.  A simple yet crucial check during routine maintenance, it confirms the functionality of your fog lights, maximizing visibility and safety in low-visibility situations.  This proactive approach reflects BMW's commitment to your peace of mind."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1090,
+                "title": {
+                  "ar": "اختبار ضوء الانعطاف الأمامي الأيسر",
+                  "en": "Front Left Cornering Light Test",
+                  "he": "בדיקת תאורת פנייה קדמית שמאלית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/493fa3fac5206ae7b50481c44e94ecc5_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's innovative Front Left Cornering Light Test ensures optimal illumination during low-speed turns, enhancing driver visibility and safety in challenging conditions.  This rigorous testing process guarantees the precise beam pattern and intensity required for superior nighttime maneuvering, exceeding industry standards for performance and reliability."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1091,
+                "title": {
+                  "ar": "اختبار ضوء الركن الخلفي الأيسر",
+                  "en": "Left Rear Parking Light Test",
+                  "he": "בדיקת פנס חניה אחורי שמאלי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/14615e0aee392db5cb6f82d186fb143c_oca_picture.jpg",
+                "description": {
+                  "en": "The 3 Series G20's sophisticated diagnostics allow for a comprehensive test of the left rear parking light, ensuring optimal functionality and road safety.  This self-diagnostic feature proactively identifies potential issues, minimizing the risk of malfunctions and maintaining the vehicle's impeccable illumination.  A crucial element of preventative maintenance."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1092,
+                "title": {
+                  "ar": "اختبار أضواء القيادة النهارية",
+                  "en": "Daytime Driving Lights Test ",
+                  "he": "בדיקת אורות נהיגה יום"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/073357562373dd998594953c0c3dba7d_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the cutting-edge illumination of the BMW 3 Series G20's daytime driving lights.  Rigorously tested under diverse conditions, these lights ensure optimal visibility and a distinctive, confident presence on the road, enhancing both safety and style."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1093,
+                "title": {
+                  "ar": "وضع عرض الأضواء",
+                  "en": "Lights Showmode",
+                  "he": "מצב הדגמת אורות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/19a185c958c012dc5ddf285f3b922dd8_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the captivating Lights Showmode on your BMW 3 Series G20.  With dynamic lighting sequences projected onto the ground, this feature adds a dramatic and personalized welcome, enhancing both style and the overall driving experience.  It's more than just illumination; it's a statement."
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1094,
+                "title": {
+                  "ar": "اختبار أضواء الفرامل ذات المرحلتين",
+                  "en": "Two Stage Brake Lights Test ",
+                  "he": "בדיקת פנסי בלם דו-שלביים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/14ad7c498622481f89900e2fa332fcf1_oca_picture.jpg",
+                "description": {
+                  "en": "Experience enhanced safety with the 3 Series G20's innovative two-stage brake lights.  Upon initial braking, the standard brake lights illuminate, providing initial warning.  Should harder braking be required, a secondary set of lights activates, dramatically increasing visibility and significantly reducing the risk of rear-end collisions."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1095,
+                "title": {
+                  "ar": "اختبار أضواء الشعاع العالي",
+                  "en": "High Beam Lights Test ",
+                  "he": "בדיקת אורות דרך גבוהים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/65a31daff776af15806c200a000a4484_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled nighttime visibility with the BMW 3 Series G20's advanced High Beam Lights Test.  This sophisticated system rigorously tests and calibrates your high beam headlights, ensuring optimal illumination and a significantly enhanced safety margin on dark roads.  Drive with confidence, knowing your high beams are performing at their peak."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1096,
+                "title": {
+                  "ar": "اختبار ضوء الانعطاف الأمامي الأيمن",
+                  "en": "Front Right Cornering Light Test",
+                  "he": "בדיקת תאורת פנייה קדמית ימנית"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/91882a1eff84c94fcf215c4d8473c8ca_oca_picture.jpg",
+                "description": {
+                  "en": "This rigorous Front Right Cornering Light Test ensures optimal performance of your 3 Series G20's dynamic cornering lights.  We meticulously evaluate illumination intensity, beam pattern, and longevity to guarantee superior nighttime visibility and enhanced safety during turns.  Experience the unwavering BMW commitment to precision engineering and driving confidence."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1097,
+                "title": {
+                  "ar": "اختبار ضوء الركن الخلفي الأيمن",
+                  "en": "Right Rear Parking Light Test ",
+                  "he": "בדיקת פנס חניה אחורי ימני"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d25ea4c0bd7fd1b1b74b29d5b602353d_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal functionality of your 3 Series G20's right rear parking light with this comprehensive test.  This diagnostic check verifies proper illumination, guaranteeing both safety and compliance with traffic regulations.  A crucial element of preventative maintenance for unwavering reliability."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1098,
+                "title": {
+                  "ar": "اختبار أضواء الشعاع المنخفض",
+                  "en": "Low Beam Lights Test",
+                  "he": "בדיקת אורות דרך נמוכים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/5545ee6a7d57129cf7dfa33630df2f1a_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20's low beam lights undergo rigorous testing to ensure optimal illumination and driver safety.  Meeting stringent quality standards, these lights provide superior visibility in diverse driving conditions, enhancing nighttime driving confidence. This meticulous process guarantees a consistent, reliable, and powerful beam pattern."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1099,
+                "title": {
+                  "ar": "تدفئة/تبريد المقاعد التلقائي",
+                  "en": "Automatic Seats Heating/Cooling",
+                  "he": "חימום/קירור מושבים אוטומטי"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/2c66de0816cac2d034584ab5ce63bb46_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled comfort in your BMW 3 Series G20 with our advanced automatic seat heating and cooling system.  Enjoy precisely tailored temperatures, instantly adapting to your preferences for a consistently perfect climate, regardless of the outside conditions.  Indulge in the ultimate driving pleasure, free from distractions of temperature discomfort."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1100,
+                "title": {
+                  "ar": "ذاكرة تدفئة/تبريد المقاعد",
+                  "en": "Seats Heating/Cooling Memory",
+                  "he": "זיכרון חימום/קירור מושבים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3bc5584b31e29dafb299a32a307548c1_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled comfort with the 3 Series G20's heated and cooled seats, featuring memory settings.  Indulge in personalized warmth or refreshing coolness, automatically adjusting to your preferred temperature and position for a consistently perfect driving experience, even after sharing your vehicle."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1101,
+                "title": {
+                  "ar": "ذاكرة تدفئة عجلة القيادة",
+                  "en": "Steering Wheel Heating Memory",
+                  "he": "זיכרון חימום הגה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/9e95004485d6b6cd683b4d73b4b6ca1b_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled comfort and convenience with the 3 Series G20's heated steering wheel memory.  Enjoy perfectly customized warmth on demand, instantly recalling your preferred temperature setting for effortless driving pleasure, regardless of the outside temperature.  This feature ensures your hands remain comfortable and alert, even in the harshest winter conditions."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1102,
+                "title": {
+                  "ar": "نوع طراز مكبر الصوت",
+                  "en": "Amplifier Model Variant",
+                  "he": "וריאנט דגם מגבר"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/d659914c09ffea6c8d9887d926c9604d_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate your 3 Series G20's auditory experience with this premium amplifier model variant.  Engineered for pristine sound reproduction, it delivers richer, more nuanced audio across all frequencies, transforming your drive into a concert hall on wheels. Experience the dynamic range and clarity only a BMW-engineered amplifier can provide."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1103,
+                "title": {
+                  "ar": "تحذيرات فتح الباب متوقفة",
+                  "en": "Open Door Warnings OFF",
+                  "he": "התראות דלת פתוחה כבויות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/08ba48d51249fbf9fc3310e292855351_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain complete control of your driving experience.  Deactivate the audible door-open warning to enjoy uninterrupted focus and a more immersive drive, especially beneficial during spirited journeys or in environments with ambient noise.  Easily toggle this setting to your preference via the iDrive system."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1104,
+                "title": {
+                  "ar": "تحذيرات لوحة العدادات متوقفة",
+                  "en": "Instrument Cluster Warnings OFF",
+                  "he": "התראות לוח מחוונים כבויות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/ea033cd24bc31095a275d5bb2c844fd9_oca_picture.jpg",
+                "description": {
+                  "en": "Command complete control over your driving experience.  Deactivate instrument cluster warnings for a focused, distraction-free drive, ideal for track days or spirited journeys where you prioritize pure driving engagement.  Easily re-enable warnings when needed, offering unparalleled customization."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1105,
+                "title": {
+                  "ar": "تحذير انخفاض الوقود متوقف",
+                  "en": "Low Fuel Warning OFF",
+                  "he": "התראת דלק נמוך כבויה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/c76ec76f470720704be9e184ce5a42e0_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain complete control of your driving experience.  Disable the low fuel warning light to prioritize uninterrupted focus on the road, ideal for track days or extended high-performance driving where frequent refueling isn't practical.  This setting can be easily toggled on or off as needed."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1106,
+                "title": {
+                  "ar": "تحذير الخدمة متوقف",
+                  "en": "Service Warning OFF",
+                  "he": "התראת שירות כבויה"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/cd8eaf9b9f54eb197c05acfadb9c1f4b_oca_picture.jpg",
+                "description": {
+                  "en": "Reclaim the pristine, uncluttered dashboard of your BMW 3 Series G20.  Our Service Warning OFF feature seamlessly removes distracting service reminders, maintaining the sleek, driver-focused experience you expect from a BMW, without compromising essential safety alerts. Enjoy an unblemished driving interface, prioritizing only the information you need."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1107,
+                "title": {
+                  "ar": "تحذيرات الوسادة الهوائية متوقفة",
+                  "en": "Airbag Warnings OFF",
+                  "he": "התראות כרית אוויר כבויות"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/0dc6785a0b0ef3144d321aa734d9c058_oca_picture.jpg",
+                "description": {
+                  "en": "Temporarily disable your airbag warning lights for controlled maintenance or diagnostics.  This feature, accessible via the iDrive system, provides authorized technicians with streamlined access to the airbag system without unnecessary alerts.  Note:  Disabling airbag warnings should only be performed by qualified professionals."
+                },
+                "category": {
+                  "en": "Safety"
+                },
+                "price": "1200"
+              },
+              {
+                "id": 1108,
+                "title": {
+                  "ar": "نوع البطارية",
+                  "en": "Battery Type",
+                  "he": "סוג מצבר"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3949b4aeec5a4010a1194f3b7af0cc1e_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 3 Series G20 utilizes a high-performance lithium-ion battery, meticulously engineered for optimal power delivery and extended lifespan. This advanced battery technology contributes to both spirited acceleration and efficient energy management, enhancing the overall driving experience."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1109,
+                "title": {
+                  "ar": "مبدلات السرعة",
+                  "en": "Paddle Shifters",
+                  "he": "הגה עם העברת הילוכים"
+                },
+                "image_url": "https://storage.obdeleven.com/parse/3c15688aec08ff7a526d1a00d89090b6_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of instantaneous gear changes with the BMW 3 Series G20's motorsport-inspired paddle shifters.  Take complete control of your driving experience, seamlessly shifting through gears for exhilarating acceleration and precise handling.  Unleash the full potential of your BMW's powerful engine with this intuitive and responsive system."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              }
+            ]
           }
         ]
       }
