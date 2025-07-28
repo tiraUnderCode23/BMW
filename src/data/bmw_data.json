@@ -139,7 +139,7 @@
                   "en": "Lighting",
                   "he": "תאורה"
                 },
-                "price": "80",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg"
               },
               {
@@ -1405,7 +1405,7 @@
                   "en": "5 Times Comfort Turn Signals",
                   "he": "5 הבהובים לאיתות נוחות"
                 },
-                "price": "80",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
                 "description": {
                   "en": "Experience effortless lane changes with the 1 Series F21's innovative 5-times comfort turn signals.  A gentle, five-flash activation ensures superior visibility to surrounding drivers, enhancing safety and significantly reducing the effort required for signaling.  This subtle yet smart feature elevates your driving experience with understated sophistication.",
@@ -2606,7 +2606,7 @@
                   "en": "Lighting",
                   "he": "תאורה"
                 },
-                "price": "80",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg"
               },
               {
@@ -3942,7 +3942,8 @@
                 },
                 "category": {
                   "en": "Safety"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 477,
@@ -6202,7 +6203,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 610,
@@ -6414,7 +6416,7 @@
                   "en": "5 Times Comfort Turn Signals",
                   "he": "5 הבהובים לאיתות נוחות"
                 },
-                "price": "80",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
                 "description": {
                   "en": "Experience effortless elegance with our 5-Times Comfort Turn Signals.  A subtle yet sophisticated feature, a gentle tap of the turn signal stalk activates five rapid blinks, providing clear indication of your lane change intentions while minimizing repetitive flicking. This understated luxury adds a touch of refined driving ease to your F30 3 Series.",
@@ -7446,7 +7448,7 @@
                   "en": "5 Times Comfort Turn Signals",
                   "he": "5 הבהובים לאיתות נוחות"
                 },
-                "price": "80",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
                 "description": {
                   "en": "Experience unparalleled driving refinement with our 5-Times Comfort Turn Signals.  A gentle, five-time flash of the indicator signals your lane change intentions with subtle elegance, enhancing both safety and the sophisticated driving experience inherent to the BMW 3 Series F31.",
@@ -8408,7 +8410,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": "80",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg"
               }
             ]
@@ -8669,7 +8671,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 978,
@@ -11194,7 +11197,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 627,
@@ -13699,7 +13703,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 773,
@@ -14692,7 +14697,7 @@
                 "category": {
                   "en": "Convenience"
                 },
-                "price": ""
+                "price": "0"
               },
               {
                 "id": 828,
@@ -16948,7 +16953,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 961,
@@ -17245,7 +17251,8 @@
                 },
                 "category": {
                   "en": "Convenience"
-                }
+                },
+                "price": "0"
               },
               {
                 "id": 1125,
@@ -18283,7 +18290,7 @@
                   "en": "5 Times Comfort Turn Signals",
                   "he": "5 הבהובים נוחים לאיתות"
                 },
-                "price": "",
+                "price": "0",
                 "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
                 "description": {
                   "en": "Experience unparalleled comfort and enhanced safety with our innovative 5 Times Comfort Turn Signals.  A gentle tap of the indicator stalk activates a five-time flash sequence, perfectly suited for lane changes and navigating tight city spaces, minimizing unnecessary repetitive movements and maximizing driver focus.",
