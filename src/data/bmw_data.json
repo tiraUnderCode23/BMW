@@ -2471,7 +2471,1160 @@
           {
             "value": "f40",
             "text": "F40",
-            "activations": []
+            "activations": [
+              {
+                "id": 1231,
+                "title": {
+                  "ar": "تفعيل وضع الرياضة الفردي",
+                  "en": "Activate Individual Sport Mode",
+                  "he": "הפעלת מצב ספורט אישי"
+                },
+                "price": "150",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
+                "description": {
+                  "en": "Unleash the full potential of your BMW 1 Series F21 with Activate Individual Sport Mode.  This dynamic setting sharpens throttle response, enhances steering precision, and adjusts the transmission for a more engaging and exhilarating driving experience, tailored precisely to your preferences.  Experience the ultimate in driver-focused performance.",
+                  "ar": "أطلق العنان لإمكانات سيارتك BMW الفئة الأولى F21 الكاملة مع تنشيط وضع الرياضة الفردي. هذا الإعداد الديناميكي يحسّن استجابة دواسة الوقود، ويعزز دقة التوجيه، ويضبط ناقل الحركة لتجربة قيادة أكثر إثارة ومتعة، مصممة خصيصاً لتناسب تفضيلاتك. جرب أقصى درجات الأداء الذي يركز على السائق.",
+                  "he": "שחררו את מלוא הפוטנציאל של ה-BMW סדרה 1 F21 שלכם עם מצב הספורט האינדיבידואלי. הגדרה דינמית זו מחדדת את תגובת המצערת, משפרת את דיוק ההיגוי, ומכווננת את תיבת ההילוכים לחוויית נהיגה מרתקת ומסעירה יותר, שתותאם בדיוק להעדפותיכם. חוו את שיא הביצועים המתמקדים בנהג."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1232,
+                "title": {
+                  "ar": "تفعيل إغلاق النوافذ من المفتاح",
+                  "en": "Activate Window Closing from Key",
+                  "he": "הפעלת סגירת חלונות מהמפתח"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/e311254b0aa70298eed3d3173c86999e_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly close all your windows from a distance with the key fob.  A simple press ensures your BMW 1 Series F21 remains secure and protected from the elements, even when you're away. Experience the ultimate in convenient control and peace of mind.",
+                  "ar": "أغلق جميع نوافذك بسهولة من مسافة بعيدة باستخدام جهاز التحكم عن بُعد. ضغطة بسيطة واحدة تضمن بقاء سيارتك BMW الفئة 1 F21 آمنة ومحمية من العوامل الجوية، حتى عندما تكون بعيدًا. جرب أقصى درجات الراحة والتحكم واطمئنان البال.",
+                  "he": "סגרו בקלות את כל החלונות שלכם מרחוק באמצעות שלט הרכב. לחיצה פשוטה אחת מבטיחה שה-BMW סדרה 1 F21 שלכם תישאר מאובטחת ומגוננת מפני מזג האוויר, גם כשתהיו רחוקים. חוו את השליטה הנוחה ביותר ושלווה נפשית."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1233,
+                "title": {
+                  "ar": "تفعيل فتح صندوق الأمتعة من المفتاح",
+                  "en": "Activate Trunk Opening from Key",
+                  "he": "הפעלת פתיחת תא מטען מהמפתח"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly access your 1 Series F21's trunk with a simple press of a button on your key fob.  No more fumbling for keys or struggling with handles – unlock and open the boot with refined ease and convenience. Experience the seamless integration of intelligent design and effortless functionality.",
+                  "ar": "افتح صندوق السيارة من الفئة 1 F21 بسهولة تامة، وذلك بضغطة زر واحدة على مفتاح سيارتك.  وداعًا للمشقة في البحث عن مفاتيح السيارة أو الكفاح مع مقابض الأبواب - افتح صندوق الأمتعة بكل سهولة وراحة. استمتع بالتكامل السلس بين التصميم الذكي والوظائف العملية السهلة.",
+                  "he": "גישה נוחה ופשוטה לתא המטען של סדרה 1 F21 שלך, בלחיצת כפתור אחת על שלט הרכב.  אין עוד התעסקות עם מפתחות או מאבק עם ידיות – פתח את תא המטען בקלות ובנוחות משופרת.  חוו את השילוב המושלם בין עיצוב אינטליגנטי לפונקציונליות ללא מאמץ."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1234,
+                "title": {
+                  "ar": "تفعيل وظيفة الترحيب الضوئي",
+                  "en": "Activate Welcome Light Function",
+                  "he": "הפעלת פונקציית תאורת קבלת פנים"
+                },
+                "price": "120",
+                "image_url": "https://www.k2-industries.com/cdn/shop/files/bmw-3-series-g20g28-m8-style-inner-tail-light-mod-k2-industries-17-31999667437802.jpg?v=1741135321&width=1214",
+                "description": {
+                  "en": "Experience the signature BMW welcome.  Activate the Welcome Light Function on your 1 Series F21 to illuminate the ground beneath your doors with a subtle, yet sophisticated, glow, enhancing both your entry and exit experience. This feature adds a touch of personalized flair and effortless elegance.",
+                  "ar": "استمتع بتجربة الترحيب المميزة من BMW. فعّل وظيفة إضاءة الترحيب في سيارتك من الفئة 1 (F21) لإضاءة الأرض أسفل أبواب سيارتك بوهج رقيق، ولكنه أنيق، مما يعزز تجربة دخولك وخروجك. هذه الميزة تضيف لمسة من الأناقة الشخصية والرقي بلا مجهود.",
+                  "he": "חוו את קבלת הפנים הייחודית של BMW. הפעילו את פונקציית תאורת הפנים בסדרה 1 שלכם (F21) כדי להאיר את הקרקע מתחת לדלתות שלכם באור עדין אך מתוחכם, המשפר הן את כניסתכם והן את יציאתכם. תכונה זו מוסיפה נגיעה אישית ומראה אלגנטי ללא מאמץ."
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1235,
+                "title": {
+                  "ar": "تفعيل عرض معلومات المحرك",
+                  "en": "Activate Engine Information Display",
+                  "he": "הפעלת תצוגת מידע מנוע"
+                },
+                "price": "130",
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "Instantly access vital engine data at a glance.  The Activate Engine Information Display on your BMW 1 Series F21 provides real-time feedback on key performance parameters, empowering you with crucial information for a more engaged and informed driving experience.  Seamlessly integrated into your instrument cluster, it enhances your understanding of your vehicle's performance.",
+                  "ar": "اطلع على بيانات المحرك الحيوية على الفور بنظرة خاطفة. توفر شاشة عرض معلومات المحرك المُفعّلة في سيارتك BMW الفئة الأولى F21 ملاحظات في الوقت الفعلي حول معايير الأداء الرئيسية، مما يُمكّنك من الحصول على معلومات بالغة الأهمية لتجربة قيادة أكثر انخراطًا ووعيًا. وهي مدمجة بسلاسة في لوحة العدادات، مما يُعزز فهمك لأداء سيارتك.",
+                  "he": "גישה מיידית לנתוני מנוע חיוניים במבט אחד. תצוגת מידע מנוע מופעלת ברכב BMW סדרה 1 F21 מספקת משוב בזמן אמת על פרמטרים מרכזיים של ביצועים, ומספקת לך מידע חיוני לחוויית נהיגה מעורבת ומודעת יותר. משולבת בצורה חלקה בלוח המחוונים, היא משפרת את הבנתך לביצועי הרכב שלך."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1236,
+                "title": {
+                  "ar": "5 ومضات لإشارة الانعطاف المريحة",
+                  "en": "5 Times Comfort Turn Signals",
+                  "he": "5 הבהובים לאיתות נוחות"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/0e66d343c0e35fd1b560772027d43d62_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless lane changes with the 1 Series F21's innovative 5-times comfort turn signals.  A gentle, five-flash activation ensures superior visibility to surrounding drivers, enhancing safety and significantly reducing the effort required for signaling.  This subtle yet smart feature elevates your driving experience with understated sophistication.",
+                  "ar": "استمتع بتغييرات مسارات بدون جهد مع إشارات الانعطاف المريحة الخمسية المبتكرة من الفئة 1 F21.  ضمانة تنشيط لطيف بخمسة ومضات لضمان رؤية فائقة للسائقين المحيطين، مما يعزز السلامة ويقلل بشكل كبير من الجهد المطلوب للإشارة. هذه الميزة الدقيقة والذكية ترقي تجربة القيادة الخاصة بك مع أناقة رصينة.",
+                  "he": "חוו חילופי נתיבים ללא מאמץ עם איתותי הנוחות החדשניים פי 5 של סדרה 1 F21. הפעלה עדינה של חמש הבהובים מבטיחה נראות מעולה לנהגים סביבכם, משפרת את הבטיחות ומפחיתה משמעותית את המאמץ הנדרש לאיתות. תכונה עדינה אך חכמה זו מעלה את חוויית הנהיגה שלכם עם עידון עדין."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1237,
+                "title": {
+                  "ar": "رسوم متحركة لشعار M عند بدء التشغيل",
+                  "en": "M Logo Startup Animation",
+                  "he": "אנימציית הפעלה עם לוגו M"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/c6084ab451c88bc8ef157eb3c16c83d8_oca_picture.jpg",
+                "description": {
+                  "en": "Ignite your driving passion with the exclusive M Logo Startup Animation, projected onto the ground as your 1 Series F21 awakens.  This captivating display, a hallmark of M performance, adds a touch of unmistakable BMW M character and visual excitement to every journey.",
+                  "ar": "أشعل شغف القيادة لديك مع رسوم متحركة خاصة بشعار M الحصري، تُعرض على الأرض عند تشغيل سيارتك من الفئة 1 F21.  هذه العرض الآسر، وهو سمة مميزة لأداء M، يضيف لمسة من شخصية BMW M التي لا تُخطئ، وإثارة بصرية لكل رحلة.",
+                  "he": "הבעיר את תשוקת הנהיגה שלך עם אנימציית ההפעלה הבלעדית של לוגו ה-M, המוקרנת על הקרקע כאשר ה-1 Series F21 שלך מתעוררת. תצוגה מרתקת זו, סימן היכר של ביצועי M, מוסיפה נגיעה של אופי BMW M בלתי ניתן לטעות והתרגשות חזותית לכל נסיעה."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 1238,
+                "title": {
+                  "ar": "تفعيل نمط عرض M",
+                  "en": "M View Style Cluster",
+                  "he": "לוח מחוונים בסגנון M"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/f8030b56910a732fe26c7d2fc3a6e2a9_oca_picture.jpg",
+                "description": {
+                  "en": "Command the road with the M View Style Cluster in your BMW 1 Series F21.  Its dynamic, motorsport-inspired design provides crucial driving information with exceptional clarity and a distinctly sporty aesthetic, seamlessly integrating into the cockpit's premium ambiance.  Experience enhanced driver engagement and a more intuitive driving experience.",
+                  "ar": "سيطر على الطريق مع مجموعة عدادات M View Style في سيارتك BMW الفئة الأولى F21. يوفر تصميمها الديناميكي المستوحى من رياضة السيارات معلومات قيادة أساسية بوضوح استثنائي وأسلوب رياضي مميز، متكاملاً بسلاسة مع أجواء قمرة القيادة الفاخرة. استمتع بتجربة قيادة أكثر تفاعلية وبديهية.",
+                  "he": "שלוט בדרך עם צג ה-M View Style Cluster ב-BMW סדרה 1 F21. עיצובו הדינמי, המושפע מעולם מרוצי המכוניות, מספק מידע נהיגה חיוני עם בהירות יוצאת דופן ואסתטיקה ספורטיבית מובהקת, המשולבת בצורה חלקה באווירה היוקרתית של תא הנוסעים. חווה מעורבות נהג משופרת וחווית נהיגה אינטואיטיבית יותר."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1239,
+                "title": {
+                  "ar": "وضع القيادة الافتراضي",
+                  "en": "Default Driving Mode",
+                  "he": "מצב נהיגה ברירת מחדל"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the perfectly balanced driving dynamics of your BMW 1 Series F21 in its default mode.  Engine response, steering feel, and transmission behaviour are meticulously calibrated for a refined yet engaging experience, offering the ideal blend of comfort and sportiness for everyday driving. This setting provides the optimal starting point, ready to be personalized further to your preferences.",
+                  "ar": "استمتع بتجربة ديناميكيات قيادة متوازنة تمامًا في سيارتك BMW الفئة الأولى F21 في وضعها الافتراضي.  تم معايرة استجابة المحرك، وشعور التوجيه، وسلوك ناقل الحركة بعناية فائقة لتوفير تجربة راقية ومثيرة في آن واحد، مما يوفر المزيج الأمثل بين الراحة والرياضية للقيادة اليومية. يوفر هذا الإعداد نقطة انطلاق مثالية، جاهزة للتخصيص أكثر وفقًا لتفضيلاتك.",
+                  "he": "חוו את הדינמיקת נהיגה המאוזנת באופן מושלם של ה-BMW סדרה 1 F21 במצב ברירת המחדל שלה. תגובת המנוע, תחושת ההגה והתנהגות תיבת ההילוכים מכוילות בקפידה לחוויה משובחת ומעוררת עניין, ומציעות את השילוב האידיאלי בין נוחות לספורטיביות לנהיגה יומיומית. הגדרת ברירת המחדל הזו מספקת נקודת התחלה אופטימלית, מוכנה להתאמה אישית נוספת בהתאם להעדפותיכם."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1240,
+                "title": {
+                  "ar": "صوت بوق عند القفل",
+                  "en": "Horn on Secure",
+                  "he": "צפצוף בנעילה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/ec3ea21397f01a38cfacfec8a45f86e0_oca_picture.jpg",
+                "description": {
+                  "en": "Experience enhanced security with the 1 Series F21's Horn on Secure feature.  A short blast of the horn automatically sounds when locking your vehicle, providing an extra layer of audible confirmation and deterring potential theft.  Enjoy peace of mind knowing your BMW is protected.",
+                  "ar": "استمتع بأمان معزز مع ميزة القرن الآمن في الفئة 1 F21.  يصدر صوت قصير من القرن تلقائيًا عند قفل سيارتك، مما يوفر طبقة إضافية من التأكيد السمعي ويردع السرقة المحتملة.  تمتع براحة البال بمعرفة أن سيارتك BMW محمية.",
+                  "he": "חוו אבטחה משופרת עם תכונת 'הורן מאובטח' של סדרה 1 F21.  הפעלת צופר קצרה נשמעת אוטומטית בעת נעילת הרכב, ומספקת שכבה נוספת של אישור קולית ומאיימת על גניבה פוטנציאלית.  היה רגוע בידיעה שרכב ה-BMW שלך מוגן."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1241,
+                "title": {
+                  "ar": "عرض ضغط ودرجة حرارة الإطارات",
+                  "en": "TPMS Pressure and Temperature Display",
+                  "he": "תצוגת לחץ וטמפרטורת צמיגים"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/750b6938e0867d44071bbc032182c8cd_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain optimal tire pressure and temperature for enhanced safety, handling, and fuel efficiency.  The 1 Series F21's TPMS system provides real-time pressure and temperature readings directly on your dashboard, allowing for proactive maintenance and a more confident driving experience.",
+                  "ar": "حافظ على ضغط ودرجة حرارة مثالية للإطارات من أجل تعزيز السلامة والتحكم وكفاءة استهلاك الوقود. يوفر نظام مراقبة ضغط الإطارات TPMS في سيارة الفئة الأولى F21 قراءات في الوقت الفعلي للضغط ودرجة الحرارة مباشرة على لوحة العدادات، مما يسمح بصيانة استباقية وتجربة قيادة أكثر ثقة.",
+                  "he": "שמרו על לחץ ואุณות אופטימליים בצמיגים לשיפור הבטיחות, התנהגות הכלי ויעילות הדלק. מערכת TPMS של סדרה 1 F21 מספקת קריאות לחץ וטמפרטורה בזמן אמת ישירות על לוח המחוונים, ומאפשרת תחזוקה יזומה וחוויית נהיגה בטוחה יותר."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1242,
+                "title": {
+                  "ar": "تحذيرات iDrive",
+                  "en": "iDrive Warnings",
+                  "he": "התראות iDrive"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/66b0c574cd714768234e1a7a15d798cb_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in driver awareness with the 1 Series F21's iDrive Warnings system.  Receive timely and clear alerts for critical driving situations, such as lane departure or potential collisions, seamlessly integrated into your iDrive interface for enhanced safety and peace of mind.  Proactive warnings help you maintain control and navigate confidently.",
+                  "ar": "استمتع بأقصى درجات الوعي أثناء القيادة مع نظام تحذيرات iDrive في الفئة 1 F21. تلقَ تنبيهات دقيقة وفي وقتها المناسب لحالات القيادة الحرجة، مثل الخروج عن المسار أو الاصطدامات المحتملة، مدمجة بسلاسة في واجهة iDrive الخاصة بك لتعزيز السلامة والطمأنينة. تساعدك التحذيرات الاستباقية على الحفاظ على السيطرة والتنقل بثقة.",
+                  "he": "חוו את שיא המודעות לנהיגה עם מערכת אזהרות ה-iDrive של סדרה 1 F21. קבלו התראות בזמן ובצורה ברורה למצבי נהיגה קריטיים, כגון סטייה מנתיב או התנגשויות פוטנציאליות, משולבות בצורה חלקה בממשק ה-iDrive שלכם לשיפור הבטיחות ושקט נפשי. אזהרות יזומות עוזרות לכם לשמור על שליטה ולנווט בבטחה."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1243,
+                "title": {
+                  "ar": "مصابيح ضباب أمامية مع الضوء العالي",
+                  "en": "Front Fog Lights w/ High Beams",
+                  "he": "פנסי ערפל קדמיים עם אור גבוה"
+                },
+                "price": "90",
+                "image_url": "https://i.ebayimg.com/images/g/XpAAAOSwGixly5AV/s-l1600.webp",
+                "description": {
+                  "en": "Dominate the road, even in challenging conditions.  The 1 Series F21's integrated front fog lights with high beam functionality provide superior visibility and enhanced safety during inclement weather or low-light situations, ensuring confident driving in any environment.",
+                  "ar": "سيطر على الطريق، حتى في الظروف الصعبة. توفر مصابيح الضباب الأمامية المتكاملة في سيارة الفئة الأولى F21، مع وظيفة الشعاع العالي، رؤية فائقة وأمانًا محسّنًا في الأحوال الجوية السيئة أو في ظروف الإضاءة المنخفضة، مما يضمن قيادة واثقة في أي بيئة.",
+                  "he": "שלטו בכביש, גם בתנאים מאתגרים.  פנסי הערפל הקדמיים המשולבים של סדרה 1 F21, עם פונקציית אור גבוה, מספקים ראות מעולה ובטיחות משופרת בתנאי מזג אוויר קשים או בתאורה נמוכה, ומבטיחים נהיגה בטוחה בכל סביבה."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1244,
+                "title": {
+                  "ar": "مصابيح ضباب أمامية مع أضواء الوقوف",
+                  "en": "Front Fog Lights w/ Parking Lights",
+                  "he": "פנסי ערפל קדמיים עם אורות חניה"
+                },
+                "price": "90",
+                "image_url": "https://carcraftindia.com/cdn/shop/files/car-craft-compatible-bmw-3-series-4-f30-2012-2018-front-bumper-fog-light-lamp-cover-mesh-263.webp?v=1716576870&width=720",
+                "description": {
+                  "en": "Enhance your 1 Series F21's visibility and assertive road presence with integrated front fog lights incorporating parking light functionality.  These elegantly integrated lights provide superior illumination in challenging weather conditions, while also serving as stylish daytime running lights, ensuring you're seen and stand out.",
+                  "ar": "عزز رؤية سيارتك من الفئة الأولى F21 و حضورها القوي على الطريق مع مصابيح ضباب أمامية مدمجة تتضمن وظيفة إضاءة وقوف السيارات. توفر هذه المصابيح الأنيقة المدمجة إضاءة فائقة في ظروف الطقس الصعبة، بالإضافة إلى عملها كمصابيح تشغيل نهارية أنيقة، مما يضمن رؤيتك و تميزك.",
+                  "he": "שדרגו את הנראות ואת נוכחות הדרך הבולטת של סדרה 1 F21 שלכם עם פנסי ערפל קדמיים משולבים הכוללים פונקציית תאורת חניה. פנסים אלה, המשולבים באלגנטיות, מספקים תאורה מעולה בתנאי מזג אוויר מאתגרים, בנוסף לתפקודם כאורות נהיגה ביום, ומבטיחים שתיראו ותבלוט."
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1245,
+                "title": {
+                  "ar": "وضع Sport+",
+                  "en": "Sport+ Mode",
+                  "he": "מצב Sport+"
+                },
+                "price": "150",
+                "image_url": "https://storage.obdeleven.com/parse/c75546901cd815e8400b4c9e57c8fbda_oca_picture.jpg",
+                "description": {
+                  "en": "Unleash the full potential of your BMW 1 Series F21 with Sport+ Mode.  Experience sharpened throttle response, a more aggressive transmission mapping, and enhanced dynamic stability control for a truly exhilarating driving experience.  Feel the raw power and precision engineered into every element of your machine.",
+                  "ar": "أطلق العنان للإمكانات الكاملة لسيارتك BMW الفئة 1 F21 مع وضع Sport+.  استمتع باستجابة دواسة الوقود المحسّنة، وخريطة ناقل الحركة الأكثر عدوانية، وتحكم ديناميكي محسّن بالثبات لتجربة قيادة مثيرة حقًا.  اشعر بالقوة الخام والدقة المصممة هندسياً في كل عنصر من عناصر آلتك.",
+                  "he": "שחררו את מלוא הפוטנציאל של ה-BMW סדרה 1 F21 שלכם עם מצב Sport+. חוו תגובת מצערת משופרת, מיפוי תיבת הילוכים אגרסיבי יותר, ובקרת יציבות דינמית משופרת לחוויית נהיגה מרגשת באמת. הרגישו את העוצמה הגולמית והדיוק שהונדסו לכל אלמנט במכונית שלכם."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1246,
+                "title": {
+                  "ar": "عرض X-View",
+                  "en": "X-View Display",
+                  "he": "תצוגת X-View"
+                },
+                "price": "0",
+                "image_url": "https://storage.obdeleven.com/parse/95a01cce6a9a4153c2482bbf90f114c9_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled awareness with the BMW 1 Series F21's X-View Display.  This innovative system provides a comprehensive bird's-eye view of your surroundings, enhancing maneuverability in tight spaces and significantly improving parking precision.  Navigate confidently, even in the most challenging environments.",
+                  "ar": "اختبر مستوى غير مسبوق من الوعي مع شاشة العرض X-View في سيارة BMW الفئة 1 F21. يوفر هذا النظام المبتكر رؤية شاملة بزاوية 360 درجة لما يحيط بك، مما يعزز القدرة على المناورة في الأماكن الضيقة ويحسن بشكل كبير من دقة صف السيارة. تنقل بثقة، حتى في البيئات الأكثر تحديًا.",
+                  "he": "חוו מודעות חסרת תקדים עם תצוגת ה-X-View של ה-BMW סדרה 1 F21. מערכת חדשנית זו מספקת תמונה מקיפה של הסביבה שלך ממעוף הציפור, משפרת את יכולת התמרון בחללים צרים ומשפרת משמעותית את דיוק החניה. נווט בבטחה, אפילו בסביבות המאתגרות ביותר."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1247,
+                "title": {
+                  "ar": "عرض ضغط الإطارات في لوحة العدادات",
+                  "en": "Tire Pressure Display in Dashboard",
+                  "he": "תצוגת לחץ אוויר בצמיגים בלוח המחוונים"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/0834629027df2df27c0cadcf82a7331c_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain optimal tire pressure and enhance your 1 Series F21's handling with the integrated Tire Pressure Display.  This convenient feature provides real-time monitoring directly on your dashboard, allowing for proactive maintenance and improved fuel efficiency, ensuring a safer and more enjoyable driving experience.",
+                  "ar": "حافظ على ضغط الإطارات الأمثل وحسّن من مناولة سيارتك من الفئة 1 F21 باستخدام شاشة عرض ضغط الإطارات المدمجة. توفر هذه الميزة العملية مراقبة في الوقت الفعلي مباشرة على لوحة العدادات، مما يسمح بصيانة استباقية وتحسين كفاءة استهلاك الوقود، مما يضمن تجربة قيادة أكثر أمانًا ومتعة.",
+                  "he": "שמרו על לחץ אוויר אופטימלי בצמיגים ושפרו את היכולת של ה-1 Series F21 שלכם באמצעות תצוגת לחץ האוויר המשולבת.  תכונה נוחה זו מספקת ניטור בזמן אמת ישירות על לוח המחוונים, ומאפשרת תחזוקה יזומה ושיפור ביעילות הדלק, ומבטיחה חוויית נהיגה בטוחה ומהנה יותר."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1248,
+                "title": {
+                  "ar": "عرض مقياس السرعة",
+                  "en": "Speedometer Scale Display",
+                  "he": "תצוגת סקאלת מהירות"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/7ce0f6abb9b268656316bc71ee153735_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of precise control with the 1 Series F21's meticulously designed speedometer scale display.  Its clear, high-contrast numerals ensure effortless monitoring of your speed, enhancing both driving focus and the overall cockpit experience.  This driver-centric design element seamlessly integrates with the vehicle's dynamic performance.",
+                  "ar": "استمتع بإثارة التحكم الدقيق مع شاشة مقياس سرعة مصممة بعناية فائقة في سيارة الفئة الأولى F21. تضمن أرقامها الواضحة وعالية التباين مراقبة سهلة لسرعتك، مما يعزز تركيز القيادة وتجربة قمرة القيادة بشكل عام. يدمج هذا العنصر التصميمي الذي يركز على السائق بسلاسة مع الأداء الديناميكي للسيارة.",
+                  "he": "חוו את הריגוש של שליטה מדויקת עם תצוגת מד המהירות המעוצבת בקפידה של סדרה 1 F21. הספרות הברורות בעלות ניגודיות גבוהה מבטיחות ניטור קל של מהירותך, משפרות הן את הריכוז בנהיגה והן את חווית תא הנוסעים הכללית. אלמנט עיצוב זה, המתמקד בנהג, משתלב בצורה חלקה עם הביצועים הדינמיים של הרכב."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1249,
+                "title": {
+                  "ar": "حساسية مستشعر المطر/الضوء",
+                  "en": "RLS Sensitivity",
+                  "he": "רגישות חיישן גשם/אור"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/2e9a187ad3e4975457c828d32b265d00_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled control and precision with the 1 Series F21's refined Roll Stability Control (RSC) sensitivity.  This advanced system subtly adjusts stability interventions, ensuring a more natural and engaging driving feel, particularly noticeable during spirited maneuvers.  Enjoy enhanced driver confidence and a heightened sense of connection to the road without compromising safety.",
+                  "ar": "استمتع بمستوى غير مسبوق من التحكم والدقة مع حساسية نظام التحكم في ثبات الدوران (RSC) المُحسّن في سيارة الفئة الأولى F21. يُعد هذا النظام المتطور قادرًا على ضبط مدخلات الثبات بشكل دقيق، مما يضمن تجربة قيادة أكثر طبيعية وإثارة، وتكون هذه الميزة ملحوظة بشكل خاص أثناء المناورات الحماسية.  استمتع بثقة متزايدة أثناء القيادة وإحساسًا مُعززًا بالاتصال بالطريق دون المساومة على السلامة.",
+                  "he": "חוו שליטה ודיוק חסרי תקדים עם רגישות משופרת של בקרת יציבות הגלגול (RSC) ב-1 Series F21. מערכת מתקדמת זו מתאימה באופן עדין התערבויות יציבות, ומבטיחה תחושה טבעית ומעוררת יותר בעת נהיגה, ניכרת במיוחד במהלך תמרונים ספורטיביים.  תהנו מביטחון נהיגה משופר ותחושה מוגברת של חיבור לכביש מבלי להתפשר על הבטיחות."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1250,
+                "title": {
+                  "ar": "ذاكرة تدفئة/تبريد المقاعد",
+                  "en": "Seats Heating/Cooling Memory",
+                  "he": "זיכרון חימום/קירור מושבים"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3bc5584b31e29dafb299a32a307548c1_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled comfort in your BMW 1 Series F21 with our advanced seat heating and cooling memory function.  Enjoy perfectly customized temperatures, automatically recalling your preferred settings upon entry, for a consistently luxurious and personalized driving experience.  Effortlessly transition between soothing warmth and refreshing coolness, whatever the season.",
+                  "ar": "استمتع براحة لا مثيل لها في سيارتك BMW الفئة الأولى F21 مع وظيفة تدفئة وتبريد المقاعد المتقدمة مع ذاكرة. تمتع بدرجات حرارة مخصصة تمامًا، والتي تستعيد تلقائيًا إعداداتك المفضلة عند الدخول، لتجربة قيادة فاخرة وشخصية باستمرار. انتقل بسلاسة بين الدفء المريح والبرودة المنعشة، مهما كان الفصل.",
+                  "he": "חוו נוחות שאין שני לה ב-BMW סדרה 1 F21 שלך עם מערכת חימום וקירור מושבים מתקדמת בעלת תכונת זיכרון.  הנאה מטמפרטורות מותאמות אישית בצורה מושלמת, הזוכרות באופן אוטומטי את ההגדרות המועדפות שלך עם הכניסה, לחוויית נהיגה יוקרתית ואישית תמידית.  מעבר קל בין חמימות מרגיעה לקרירות מרעננת, בכל עונה."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1251,
+                "title": {
+                  "ar": "وقت القفل الذاتي",
+                  "en": "Self Locking Time",
+                  "he": "זמן נעילה עצמית"
+                },
+                "price": "70",
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TGZJHqXz55jlzAAW59VsAodJGk6h5pll9w&s",
+                "description": {
+                  "en": "Experience the ultimate in peace of mind with Self Locking Time.  This intelligent feature automatically locks your BMW 1 Series F21's doors after a pre-set period of inactivity, ensuring your vehicle remains secure even if you momentarily forget.  Configure your preferred locking delay for seamless integration into your daily routine.",
+                  "ar": "استمتع بأقصى درجات راحة البال مع خاصية قفل الوقت الذاتي. تعمل هذه الميزة الذكية على قفل أبواب سيارتك BMW الفئة الأولى F21 تلقائيًا بعد فترة محددة مسبقًا من عدم النشاط، مما يضمن بقاء سيارتك آمنة حتى إذا نسيت ذلك مؤقتًا. قم بتكوين تأخير القفل المفضل لديك لتكامل سلس في روتينك اليومي.",
+                  "he": "חוו את שיאו של שקט נפשי עם נעילת זמן עצמית. תכונה אינטליגנטית זו נועלת אוטומטית את דלתות ה-BMW סדרה 1 F21 שלך לאחר תקופה מוגדרת מראש של חוסר פעילות, ומבטיחה שהרכב שלך יישאר מאובטח גם אם תשכחו לרגע. הגדירו את עיכוב הנעילה המועדף עליכם לשילוב חלק בשגרה היומיומית שלכם."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1252,
+                "title": {
+                  "ar": "أمان النوافذ الأمامية الكهربائية",
+                  "en": "Power Front Windows Safety",
+                  "he": "בטיחות חלונות קדמיים חשמליים"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/2605b25bfe3bf986a09a12dd6ccbafe2_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unwavering peace of mind with the 1 Series F21's Power Front Windows Safety feature.  Automatic window reversal prevents potential injury by instantly reversing the window's movement if an obstruction is detected.  This intelligent safety system adds an extra layer of protection for you and your passengers.",
+                  "ar": "استمتع بسلام بالغ مع ميزة أمان النوافذ الأمامية الكهربائية في سيارة الفئة الأولى F21.  يمنع عكس النافذة التلقائي الإصابات المحتملة من خلال عكس حركة النافذة على الفور إذا تم اكتشاف أي عائق.  تضيف هذه النّظام الذكيّ للأمان طبقة إضافية من الحماية لك ولركابك.",
+                  "he": "חוו שקט נפשי מוחלט עם תכונת בטיחות החלונות הקדמיים החשמליים של סדרה 1 F21.  היפוך אוטומטי של החלון מונע פגיעות פוטנציאליות באמצעות היפוך מיידי של תנועת החלון אם זוהתה הפרעה. מערכת בטיחות אינטליגנטית זו מוסיפה שכבת הגנה נוספת עבורכם ועבור נוסעייכם."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1253,
+                "title": {
+                  "ar": "أضواء فرامل الطوارئ",
+                  "en": "Emergency Braking Lights",
+                  "he": "אורות בלימת חירום"
+                },
+                "price": "90",
+                "image_url": "https://xxiituning.com/cdn/shop/products/bmw-5-series-g30-gts-oled-style-rear-tail-lights-twenty-two-tuning-1144874862.jpg?v=1743964572&width=700",
+                "description": {
+                  "en": "In critical situations, the BMW 1 Series F21's Emergency Braking Lights instantly alert drivers behind you with rapid flashing brake lights, significantly reducing the risk of rear-end collisions. This proactive safety feature provides an extra layer of protection for you and other road users, enhancing your overall driving experience and peace of mind.",
+                  "ar": "في حالات الطوارئ، تُنبه أضواء الفرامل الطارئة في سيارة BMW الفئة الأولى F21 السائقين من الخلف على الفور من خلال أضواء فرامل وامضة سريعة، مما يقلل بشكل كبير من خطر التصادمات الخلفية. توفر هذه الميزة الأمنية الاستباقية طبقة إضافية من الحماية لك وللمستخدمين الآخرين للطريق، مما يعزز تجربة القيادة الشاملة لديك وراحة بالك.",
+                  "he": "במצבי חירום, אורות בלימת החירום של ה-BMW סדרה 1 F21 מתריעים באופן מיידי לנהגים שמאחוריכם באמצעות אורות בלימה מהבהבים במהירות, ומפחיתים באופן משמעותי את הסיכון לתאונות דרכים משניות. תכונת בטיחות יזומה זו מספקת שכבת הגנה נוספת עבורכם ועבור משתמשי דרך אחרים, ומשפרת את חוויית הנהיגה הכוללת שלכם ושלוות הנפש שלכם."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1254,
+                "title": {
+                  "ar": "أضواء لوحة الترخيص LED",
+                  "en": "LED License Plate Lights",
+                  "he": "תאורת LED ללוחית רישוי"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/be7c9596369c14bf9a35bce7a9634dff_oca_picture.jpg",
+                "description": {
+                  "en": "Experience superior illumination and a distinct BMW signature with the integrated LED license plate lights on your 1 Series F21.  These energy-efficient LEDs provide brighter, clearer illumination than traditional bulbs, enhancing visibility and adding a touch of modern sophistication to the rear of your vehicle.",
+                  "ar": "استمتع بإضاءة فائقة وبتوقيع BMW مميز مع أضواء لوحة الترخيص LED المتكاملة في سيارتك من الفئة 1 F21. توفر مصابيح LED الموفرة للطاقة إضاءة أكثر سطوعًا ووضوحًا من المصابيح التقليدية، مما يعزز الرؤية ويضيف لمسة من الرقي العصري إلى الجزء الخلفي من سيارتك.",
+                  "he": "חוו תאורה משופרת וחותמת BMW ייחודית עם תאורת לוחית הרישוי המשולבת LED בדגם 1 סדרה F21 שלכם. נורות ה-LED חסכוניות באנרגיה מספקות תאורה בהירה וצלולה יותר מנורות מסורתיות, משפרות את הנראות ומוסיפות נגיעה של עידון מודרני לחלק האחורי של רכבכם."
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1255,
+                "title": {
+                  "ar": "عرض مساعد القيادة",
+                  "en": "Assisted Driving View",
+                  "he": "תצוגת סיוع בנהיגה"
+                },
+                "price": "130",
+                "image_url": "https://storage.obdeleven.com/parse/164733e1175a7eab139864fbfd94e301_oca_picture.jpg",
+                "description": {
+                  "en": "Experience enhanced situational awareness with the 1 Series F21's Assisted Driving View.  This sophisticated system provides a comprehensive visual representation of your surroundings, including blind spots and potential hazards, significantly improving safety and driver confidence.  Navigate complex driving scenarios with greater ease and peace of mind.",
+                  "ar": "استمتع بتجربة مُحسّنة للوعي بالمحيط مع نظام عرض القيادة المُساعدة في سيارة الفئة الأولى F21. يوفر هذا النظام المتطور تمثيلًا مرئيًا شاملاً لما يحيط بك، بما في ذلك النقاط العمياء والمخاطر المحتملة، مما يحسن السلامة وثقة السائق بشكل كبير. تنقل بسهولة أكبر وراحة بال أكبر في سيناريوهات القيادة المعقدة.",
+                  "he": "חוו תחושה משופרת של מודעות סביבתית עם מערכת הראייה לסיוע בנהיגה של סדרה 1 F21. מערכת משוכללת זו מספקת ייצוג חזותי מקיף של הסביבה שלך, כולל נקודות מתות וסכנות פוטנציאליות, ומשפרת משמעותית את הבטיחות ואת ביטחון הנהג. נווט תרחישי נהיגה מורכבים בקלות רבה יותר וברוגע."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1256,
+                "title": {
+                  "ar": "تأكيد الفتح الصوتي",
+                  "en": "Acoustic Unlock Confirmation",
+                  "he": "אישור פתיחה אקוסטי"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/daad8bd4bd769adee75ba9f287b93766_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the subtle yet reassuring click of your BMW 1 Series F21 unlocking.  Acoustic Unlock Confirmation provides a discreet auditory signal, instantly verifying your vehicle's security and adding a touch of refined BMW engineering to the unlocking process.  Enjoy the peace of mind knowing your car has responded to your key.",
+                  "ar": "استمتع بالنقرة اللطيفة والمطمئنة لفتح سيارتك BMW الفئة 1 F21. يوفر تأكيد الفتح الصوتي إشارة صوتية غير مزعجة، مما يؤكد على الفور أمان سيارتك ويضيف لمسة من هندسة BMW الراقية إلى عملية الفتح. تمتع براحة البال بمعرفة أن سيارتك استجابت لمفتاحك.",
+                  "he": "חוו את הצליל העדין אך המרגיע של פתיחת ה-BMW סדרה 1 F21 שלכם. אישור פתיחה אקוסטי מספק אות שמיעתי דיסקרטי, המאמת באופן מיידי את אבטחת הרכב שלכם ומוסיף נגיעה של הנדסת BMW משוכללת לתהליך הפתיחה.  היה סמוך ובטוח שהמכונית שלכם הגיבה למפתח שלכם."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1257,
+                "title": {
+                  "ar": "تغيير الحارة التلقائي",
+                  "en": "Automatic Lane Change",
+                  "he": "החלפת נתיב אוטומטית"
+                },
+                "price": "180",
+                "image_url": "https://storage.obdeleven.com/parse/fcd9a3378aa7aa47880fbcd7704588d5_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless lane changes with the 1 Series F21's sophisticated Automatic Lane Change assist.  This advanced system monitors surrounding traffic and gently guides your vehicle into the adjacent lane, enhancing both safety and driving comfort on the open road.  Enjoy a more relaxed and confident driving experience, particularly during highway driving.",
+                  "ar": "استمتع بتغيير مسارات سلس مع نظام المساعدة المتطور لتغيير المسار الأوتوماتيكي في سيارة الفئة الأولى F21.  يرصد هذا النظام المتقدم حركة المرور المحيطة ويهدي سيارتك بلطف إلى المسار المجاور، مما يعزز السلامة وراحة القيادة على الطريق المفتوح.  استمتع بتجربة قيادة أكثر استرخاءً وثقة، خاصةً أثناء القيادة على الطرق السريعة.",
+                  "he": "חוו חילופי נתיבים ללא מאמץ עם סיוע חכם לשינוי נתיבים של סדרה 1 F21. מערכת מתקדמת זו מנטרת את התנועה הסובבת ומנחה בעדינות את רכבך לנתיב הסמוך, ומשפרת הן את הבטיחות והן את נוחות הנהיגה בכביש הפתוח.  היה נהנה מחוויית נהיגה נינוחה ובטוחה יותר, במיוחד בנסיעה בכביש מהיר."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1258,
+                "title": {
+                  "ar": "صوتيات Bower & Wilkins",
+                  "en": "Bower & Wilkins Audio",
+                  "he": "שמע של Bower & Wilkins"
+                },
+                "price": "200",
+                "image_url": "https://storage.obdeleven.com/parse/3acc77e1efe3590de5374403c43c7431_oca_picture.jpg",
+                "description": {
+                  "en": "Immerse yourself in the unparalleled acoustic landscape crafted by Bower & Wilkins.  Experience rich, detailed sound reproduction with every note precisely engineered for the BMW 1 Series F21 cabin, transforming every journey into a concert.  This premium audio system elevates your driving experience beyond the ordinary.",
+                  "ar": "اغمر نفسك في المشهد الصوتي الذي لا مثيل له والذي صممته شركة باوور آند ويلكينز. استمتع بتجربة صوت غنية و مفصلة مع كل نوتة مصممة بدقة عالية لسيارة بي إم دبليو الفئة الأولى F21، محولة كل رحلة إلى حفلة موسيقية.  ترفع هذه النظام الصوتي المتميز تجربة القيادة الخاصة بك إلى مستوى يتجاوز المألوف.",
+                  "he": "טבלו את עצמכם בנוף האקוסטי חסר התקדים שנוצר על ידי באואר וילקינס. חווו רפרודוקציה עשירה ומפורטת של צליל, כאשר כל תו מתוכנן בדיוק רב עבור תא הנוסעים של ה-BMW סדרה 1 F21, והופך כל נסיעה לקונצרט. מערכת שמע פרימיום זו מעלה את חוויית הנהיגה שלכם מעבר לרגיל."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1259,
+                "title": {
+                  "ar": "تسجيل بطارية 12V",
+                  "en": "12V Battery Registration",
+                  "he": "רישום מצבר 12V"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/9caeb45c0000578cee2c94f4dc644983_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure seamless integration and optimal performance of your BMW 1 Series F21's electrical systems.  12V Battery Registration allows the vehicle's computer to accurately identify and manage the new battery, preventing potential errors and maximizing battery lifespan. This crucial step is essential after battery replacement for a consistently reliable driving experience.",
+                  "ar": "ضمن التكامل السلس والأداء الأمثل لأنظمة الكهرباء في سيارتك BMW الفئة 1 F21. يسمح تسجيل بطارية 12 فولت لحاسوب السيارة بتحديد وإدارة البطارية الجديدة بدقة، مما يمنع الأخطاء المحتملة ويُعظم عمر البطارية. هذه الخطوة البالغة الأهمية ضرورية بعد استبدال البطارية لتجربة قيادة موثوقة باستمرار.",
+                  "he": "הבטיחו אינטגרציה חלקה וביצועים אופטימליים של מערכות החשמל של ה-BMW סדרה 1 F21 שלכם. רישום סוללה 12V מאפשר למחשב הרכב לזהות ולנהל במדויק את הסוללה החדשה, למנוע שגיאות פוטנציאליות ולהאריך את חיי הסוללה. שלב קריטי זה הוא חיוני לאחר החלפת סוללה, עבור חוויית נהיגה אמינה ועקבית."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1260,
+                "title": {
+                  "ar": "قائمة صوت المحرك",
+                  "en": "Engine Sound Menu",
+                  "he": "תפריט צליל מנוע"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/a28d870764ebd97ea21cce79475e45cf_oca_picture.jpg",
+                "description": {
+                  "en": "Tailor your driving experience with the 1 Series F21's Engine Sound Menu.  Select from a range of meticulously crafted soundscapes, enhancing the emotional connection to your machine and amplifying the thrill of the road.  Experience the power and precision of your BMW like never before.",
+                  "ar": "خصّص تجربة قيادتك مع قائمة أصوات محرك الفئة الأولى F21.  اختر من بين مجموعة من المناظر الصوتية المصممة بعناية، مما يعزز الارتباط العاطفي بجهازك ويزيد من متعة القيادة.  استمتع بقوة ودقة سيارتك BMW كسابقة.",
+                  "he": "התאם את חוויית הנהיגה שלך עם תפריט צלילי המנוע של סדרה 1 F21. בחר ממגוון נופים קוליים מעוצבים בקפידה, המשפרים את הקשר הרגשי עם המכונה שלך ומגבירים את הריגוש של הדרך. חווה את העוצמה והדיוק של ה-BMW שלך כמו מעולם לא קודם לכן."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1261,
+                "title": {
+                  "ar": "شعار لوحة العدادات",
+                  "en": "Instrument Cluster Logo",
+                  "he": "לוגו לוח מחוונים"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/9281fcbd489723b44ffb99ea3f40e912_oca_picture.jpg",
+                "description": {
+                  "en": "The iconic BMW roundel proudly displayed on your 1 Series F21's instrument cluster.  This subtle yet significant detail elevates the driving experience, reminding you of the precision engineering and heritage behind the wheel. A hallmark of BMW design, it adds a touch of timeless elegance to your cockpit.",
+                  "ar": "شعار بي إم دبليو الدائريّ الأيقونيّ معروضٌ بفخرٍ على لوحة عدادات سيارتك من الفئة الأولى F21. هذه التفصيلة الدقيقة وذات الدلالة العالية تُعزز تجربة القيادة، مُذكّرةً إيّاك بالهندسة الدقيقة والتراث الكامن خلف عجلة القيادة.  وهو يُمثّل علامة مميزة لتصميم بي إم دبليو، ويُضيف لمسةً من الأناقة الخالدة إلى مقصورة قيادتك.",
+                  "he": "הלוגו העגול האייקוני של BMW, מוצג בגאווה על לוח השעונים של ה-1 Series F21 שלך. פרט זה, עדין אך משמעותי, מעצים את חוויית הנהיגה, ומזכיר לך את הדיוק ההנדסי והמורשת העומדים מאחורי ההגה. סימן היכר של עיצוב BMW, הוא מוסיף נגיעה של אלגנטיות נצחית לתא הנוסעים שלך."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 1262,
+                "title": {
+                  "ar": "تدفئة عجلة القيادة التلقائية",
+                  "en": "Automatic Steering Wheel Heating",
+                  "he": "חימום הגה אוטומטי"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/fa73e81d4d099184693965f006cedf88_oca_picture.jpg",
+                "description": {
+                  "en": "Experience unparalleled comfort even on the coldest days.  The 1 Series F21's automatic steering wheel heating gently warms the wheel's surface, ensuring optimal grip and a luxuriously pleasant driving experience, activating automatically based on your vehicle's settings.",
+                  "ar": "استمتع براحة لا مثيل لها حتى في أبرد الأيام. يقوم نظام تسخين عجلة القيادة الأوتوماتيكي في سيارة الفئة 1 F21 بتدفئة سطح عجلة القيادة بلطف، مما يضمن قبضة مثالية وتجربة قيادة ممتعة وفاخرة، ويتم تفعيله تلقائيًا بناءً على إعدادات سيارتك.",
+                  "he": "חוו נוחות חסרת תקדים אפילו בימים הקרים ביותר. חימום ההגה האוטומטי של סדרה 1 F21 מחמם בעדינות את משטח ההגה, ומבטיח אחיזה מיטבית וחוויית נהיגה נעימה ומפנקת, מופעל אוטומטית בהתאם להגדרות הרכב שלך."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1263,
+                "title": {
+                  "ar": "إضاءة محيطة بدلاً من البرونزي",
+                  "en": "Ambient Lighting Instead of Bronze",
+                  "he": "תאורת אווירה במקום ברונזה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/2f4d0c62ee132453ff0bced6d80618c8_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate your 1 Series F21's interior ambiance with our refined Ambient Lighting upgrade.  Replacing the dated bronze accents with a customizable spectrum of soft, dynamic illumination, this enhancement creates a sophisticated and personalized driving experience.  Transform your cockpit into a haven of modern luxury.",
+                  "ar": "ارتقِ بمحيط سريتك الداخلية لطراز 1 F21 الخاص بك مع ترقية إضاءة المحيط المُحسّنة لدينا.  باستبدال لمسات البرونز المُتجاوزة بطيف قابل للتخصيص من الإضاءة الناعمة والديناميكية، يُحقق هذا التحسين تجربة قيادة مُتقنة وشخصية. حوّل مقصورة قيادتك إلى واحة من الفخامة العصرية.",
+                  "he": "שדרגו את אווירת הפנים של סדרה 1 F21 שלכם עם שדרוג תאורת האווירה המשופרת שלנו.  החלפת גווני הברונזה המיושנים בספקטרום מותאם אישית של תאורה רכה ודינמית, שיפור זה יוצר חווית נהיגה מתוחכמת ואישית.  המירו את תא הנוסעים שלכם לגן עדן של יוקרה מודרנית."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 1264,
+                "title": {
+                  "ar": "لون محيطي بدلاً من البرونزي",
+                  "en": "Ambient Color Instead of Bronze",
+                  "he": "צבע אווירה במקום ברונזה"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/26e104be19815c2325202b469119bac7_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate the ambiance of your BMW 1 Series F21 with our refined Ambient Color upgrade.  Replacing the standard bronze, this sophisticated feature allows you to personalize your interior lighting with a spectrum of customizable colours, creating a uniquely tailored driving experience.  Experience the subtle yet impactful difference.",
+                  "ar": "ارتقِ بجوّ سيارتك BMW الفئة الأولى F21 مع ترقية لون الإضاءة المحيطة المُحسّنة لدينا.  باستبدال اللون البرونزي القياسي، تتيح لك هذه الميزة المتطورة تخصيص إضاءة داخل سيارتك بمجموعة من الألوان القابلة للتخصيص، مما يخلق تجربة قيادة فريدة مصممة خصيصًا لك. جرب الفرق الدقيق ولكنه المؤثر.",
+                  "he": "שדרגו את האווירה ברכב ה-BMW סדרה 1 F21 שלכם בעזרת שדרוג תאורת האווירה המעודנת שלנו.  החלפה של הגוון הברונזי הסטנדרטי, תכונה משוכללת זו מאפשרת לכם להתאים אישית את תאורת הפנים עם מגוון צבעים ניתנים להתאמה אישית, וליצור חוויית נהיגה ייחודית ומותאמת אישית. חוו את ההבדל העדין אך המשפיע."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 1265,
+                "title": {
+                  "ar": "إغلاق عند المطر",
+                  "en": "Rain Closing",
+                  "he": "סגירה בגשם"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/36d4dc3fa8e848c0d6a2f74f26733a39_oca_picture.jpg",
+                "description": {
+                  "en": "Experience effortless driving in any weather.  BMW Rain Closing automatically activates your wipers at the first sign of rain, ensuring optimal visibility and a more relaxed driving experience.  No more fumbling for the controls – focus on the road ahead.",
+                  "ar": "استمتع بقيادة بدون جهد في أي طقس. يقوم نظام BMW Rain Closing بتشغيل المساحات تلقائيًا عند أول علامة للمطر، مما يضمن رؤية مثالية وتجربة قيادة أكثر استرخاءً. لا مزيد من العبث بالضوابط - ركز على الطريق أمامك.",
+                  "he": "הנאה מנהיגה ללא מאמץ בכל מזג אוויר. BMW Rain Closing מפעילה את המגבים באופן אוטומטי בסימן הראשון לגשם, ומבטיחה ראות מיטבית וחוויית נהיגה רגועה יותר.  אין עוד התעסקות עם הבקרות – התמקדו בדרך שלפניכם."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1266,
+                "title": {
+                  "ar": "أضواء نهارية اسكندنافية",
+                  "en": "Scandinavian DRLs",
+                  "he": "תאורת יום סקנדינבית"
+                },
+                "price": "80",
+                "image_url": "https://www.k2-industries.com/cdn/shop/files/bmw-3-series-g20g28-m8-style-inner-tail-light-mod-k2-industries-17-31999667437802.jpg?v=1741135321&width=1214",
+                "description": {
+                  "en": "Command the road with the distinctive glow of BMW's Scandinavian Daytime Running Lights, exclusive to the 1 Series F21.  These elegant, ice-like LED lights not only enhance visibility and safety but also project a sophisticated, modern aesthetic, setting your vehicle apart from the crowd.",
+                  "ar": "سيطر على الطريق مع توهج مميز من أضواء النهار الاسكندنافية من BMW، حصرية لسلسلة 1 F21. هذه الأضواء الأنيقة الشبيهة بالجليد المصنوعة من تقنية LED لا تعزز فقط الرؤية والسلامة، بل تُبرز أيضاً جمالية عصرية راقية، مما يميز سيارتك عن الآخرين.",
+                  "he": "שלטו בדרך עם הזוהר הייחודי של אורות היום הסקנדינביים של BMW, בלעדיים לסדרה 1 F21. אורות LED אלגנטיים אלו, הדומים לקרח, משפרים לא רק את הנראות והבטיחות, אלא גם מקרינים אסתטיקה מתוחכמת ומודרנית, ומבדילים את רכבכם מהקהל."
+                },
+                "category": {
+                  "en": "Lighting"
+                }
+              },
+              {
+                "id": 1267,
+                "title": {
+                  "ar": "شعار M View في لوحة العدادات",
+                  "en": "M View Cluster Logo",
+                  "he": "לוגו M View בלוח המחוונים"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/8b5fe8386d999b366f513f18496d7230_oca_picture.jpg",
+                "description": {
+                  "en": "Elevate your driving experience with the exclusive M View Cluster Logo, projecting the iconic BMW M logo onto the instrument panel. This subtle yet powerful addition reinforces the sporty heritage of your 1 Series F21, adding a touch of exhilarating M performance to your everyday drive.  A bespoke detail for the discerning driver.",
+                  "ar": "ارتقِ بتجربة قيادتك مع شعار مجموعة عرض M الحصري، الذي يُعرض شعار BMW M الأيقوني على لوحة العدادات. هذه الإضافة الدقيقة ولكنها القوية تعزز التراث الرياضي لسيارتك من الفئة الأولى F21، مضيفة لمسة من أداء M المثير إلى قيادتك اليومية. تفصيل مُصمم خصيصًا للسائق المُميّز.",
+                  "he": "שדרגו את חוויית הנהיגה שלכם עם סמל אשכול ה-M הייחודי, המוקרן לוח המחוונים את הלוגו האייקוני של BMW M.  תוספת עדינה אך חזקה זו מחזקת את המורשת הספורטיבית של סדרת 1 F21 שלכם, ומעניקה נגיעה של ביצועי M מרגשים לנהיגה היומיומית שלכם. פרט מותאם אישית לנהג המחפש את המיוחד."
+                },
+                "category": {
+                  "en": "Cosmetic"
+                }
+              },
+              {
+                "id": 1268,
+                "title": {
+                  "ar": "قائمة تذكير أحزمة الأمان الخلفية",
+                  "en": "Rear Seat Belts Reminder Menu",
+                  "he": "תפריט תזכורת חגורות בטיחות אחוריות"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/5c692f5330b674a618b7afa3604add04_oca_picture.jpg",
+                "description": {
+                  "en": "The 1 Series F21's Rear Seat Belts Reminder Menu proactively enhances safety by subtly reminding drivers to ensure rear passengers are properly secured.  This thoughtful feature contributes to a more secure and responsible driving experience, promoting peace of mind for everyone on board.",
+                  "ar": "يعزز قائمة تذكير أحزمة الأمان في المقاعد الخلفية من الفئة 1 F21 السلامة بشكل استباقي من خلال تذكير السائقين بلطف بضرورة التأكد من تثبيت ركاب المقاعد الخلفية بشكل صحيح. تساهم هذه الميزة اللطيفة في تجربة قيادة أكثر أمانًا ومسؤولية، وتعزز راحة البال للجميع على متن السيارة.",
+                  "he": "תפריט תזכורת חגורות הבטיחות במושבים האחוריים של סדרה 1 F21 משפר באופן יזום את הבטיחות על ידי תזכורת עדינה לנהגים לוודא שנוסעים במושבים האחוריים חגורים כראוי. תכונה מתחשבת זו תורמת לחוויית נהיגה בטוחה ואחראית יותר, ומקדמת שקט נפשי לכולם ברכב."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1269,
+                "title": {
+                  "ar": "إلغاء تفعيل تصميم الصوت النشط",
+                  "en": "Active Sound Design Deactivation",
+                  "he": "ביטול עיצוב סאונד אקטיבי"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/159a4022221dacd99df5556dead2d5bb_oca_picture.jpg",
+                "description": {
+                  "en": "Command absolute control over your driving experience.  With Active Sound Design Deactivation, effortlessly silence the enhanced engine acoustics, transforming your 1 Series F21 from a thrilling performer to a refined cruiser, perfectly tailored to your preference at any moment.",
+                  "ar": "تحكم مطلق في تجربة قيادتك. مع إلغاء تصميم الصوت النشط، قم بإسكات صوتيات المحرك المعززة بسهولة، وحوّل سيارتك من الفئة الأولى F21 من أداء مثير إلى رحلة مريحة، مصممة خصيصًا لتفضيلاتك في أي لحظة.",
+                  "he": "השתלטות מוחלטת על חווית הנהיגה שלך. עם ביטול עיצוב צליל פעיל, השתק בקלות את האקוסטיקה המשופרת של המנוע, והפוך את סדרה 1 F21 שלך מביצועים מרגשים לשייט משוכלל, שתפור באופן מושלם להעדפתך בכל רגע."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1270,
+                "title": {
+                  "ar": "وضع الانزلاق ECO PRO",
+                  "en": "ECO PRO Coasting Mode",
+                  "he": "מצב גלישה ECO PRO"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/40b747b342a0e62a4cb41e010cbd8b3c_oca_picture.jpg",
+                "description": {
+                  "en": "Experience enhanced fuel efficiency in your BMW 1 Series F21 with ECO PRO Coasting Mode.  This intelligent system seamlessly decouples the engine at speeds above 50 km/h, allowing the car to coast effortlessly and conserve fuel, maximizing your range and minimizing your environmental impact.  Enjoy a smoother, more efficient drive while contributing to a greener future.",
+                  "ar": "استمتع بكفاءة استهلاك وقود محسّنة في سيارتك BMW الفئة الأولى F21 مع وضع ECO PRO Coasting. تعمل هذه النّظام الذكي على فصل المحرّك بسلاسة عند السرعات التي تتجاوز 50 كم/ساعة، مما يسمح للسيارة بالانزلاق بسلاسة وترشيد استهلاك الوقود، مع تعظيم مدى سير السيارة وتقليل تأثيرها على البيئة. تمتع بقيادة أكثر سلاسة وكفاءة مع المساهمة في مستقبل أكثر اخضرارًا.",
+                  "he": "חוו יעילות דלק משופרת ב-BMW סדרה 1 F21 שלך עם מצב ECO PRO Coasting. מערכת חכמה זו מנתקת את המנוע בצורה חלקה במהירויות מעל 50 קמ\"ש, ומאפשרת למכונית לגלוש ללא מאמץ ולשמר דלק, וממקסמת את טווח הנסיעה שלך וממזערת את ההשפעה הסביבתית שלך.  תהנה מנסיעה חלקה ויעילה יותר תוך תרומה לעתיד ירוק יותר."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1271,
+                "title": {
+                  "ar": "وضع Comfort+",
+                  "en": "Comfort+ Mode",
+                  "he": "מצב Comfort+"
+                },
+                "price": "130",
+                "image_url": "https://storage.obdeleven.com/parse/c4e5ef27ac26d52bc4fc01c0be79da6e_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in serene driving with Comfort+ Mode.  This intelligently calibrated setting softens throttle response, adjusts the steering for a more relaxed feel, and subtly modifies the suspension for enhanced ride comfort, transforming every journey into a haven of tranquility.",
+                  "ar": "استمتع بأقصى درجات الهدوء في القيادة مع وضع Comfort+.  يُعدّل هذا الإعداد المُعايَر بذكاء استجابة دواسة الوقود، ويضبط عجلة القيادة لإحساس أكثر استرخاءً، ويُعدّل التعليق بشكل خفيف لتحسين راحة الركوب، مما يحوّل كل رحلة إلى واحة من السكينة.",
+                  "he": "חוו את שיא השלווה בנהיגה עם מצב Comfort+. הגדרה זו, שכוילת בצורה חכמה, מרסנת את תגובת המצערת, מתאימה את ההיגוי לתחושה נינוחה יותר, ומשנה בעדינות את המתלים לנוחות נסיעה משופרת, ומעצבת כל נסיעה לגן עדן של שקט."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1272,
+                "title": {
+                  "ar": "اختبار أضواء الفرامل",
+                  "en": "Brake Lights Test",
+                  "he": "בדיקת אורות בלם"
+                },
+                "price": "50",
+                "image_url": "https://xxiituning.com/cdn/shop/products/bmw-5-series-g30-gts-oled-style-rear-tail-lights-twenty-two-tuning-1144874863.jpg?v=1743964575&width=800",
+                "description": {
+                  "en": "Ensure optimal braking performance and safety with the 1 Series F21's comprehensive brake light test. This diagnostic function verifies the functionality of all brake lights, providing peace of mind and preventing potential hazards caused by malfunctioning components.  A crucial element of proactive vehicle maintenance for enhanced safety.",
+                  "ar": "ضمن أداء فرامل مثاليًا وسلامةً باستخدام اختبار أضواء الفرامل الشامل الخاص بسيارة الفئة 1 F21. تعمل وظيفة التشخيص هذه على التحقق من وظيفة جميع أضواء الفرامل، مما يوفر راحة البال ويمنع المخاطر المحتملة الناجمة عن مكونات معطلة. عنصر بالغ الأهمية في الصيانة الوقائية للسيارة لتعزيز السلامة.",
+                  "he": "הבטיחו ביצועי בלימה מיטביים ובטיחות באמצעות בדיקת אורות הבלימה המקיפה של סדרה 1 F21.  פונקציית אבחון זו מאמתת את תפקודן של כל אורות הבלימה, ומספקת שקט נפשי ומנעה סכנות פוטנציאליות הנגרמות מרכיבי תקלה.  אלמנט קריטי של תחזוקה יזומה של הרכב לשיפור הבטיחות."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1273,
+                "title": {
+                  "ar": "اختبار أضواء الرجوع للخلف",
+                  "en": "Reversing Lights Test",
+                  "he": "בדיקת אורות רוורס"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/44ecec72499c9f1c68a9bbd6381c4577_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal rear visibility during nighttime maneuvers with the 1 Series F21's comprehensive reversing light test.  This rigorous check verifies the functionality of both rear lights, guaranteeing confident and safe reversing in any low-light condition.  Drive with peace of mind, knowing your BMW's illumination system is performing at its peak.",
+                  "ar": "ضمن الرؤية الخلفية المثالية أثناء المناورات الليلية باستخدام اختبار إضاءة الرجوع الشامل الخاص بسيارة الفئة الأولى F21.  يُعد هذا الفحص الدقيق بمثابة التحقق من وظيفة كل من مصباحي الإضاءة الخلفية، مما يضمن رجوعًا واثقًا وآمنًا في أي ظروف إضاءة منخفضة.  سوق بسيارتك براحة البال، مع العلم بأن نظام إضاءة BMW الخاص بك يعمل بأقصى كفاءة.",
+                  "he": "הבטיחו ראות אחורית מיטבית במהלך תמרונים ליליים באמצעות בדיקת תאורת רוורס מקיפה של סדרה 1 F21. בדיקה קפדנית זו מאמתת את תפקודן של שתי נורות האחוריות, ומבטיחה נסיעה לאחור בטוחה ובטוחה בכל תנאי תאורה נמוכים. נהגו בראש שקט, בידיעה שמערכת התאורה של ה-BMW שלכם פועלת בשיא יעילותה."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1274,
+                "title": {
+                  "ar": "اختبار مضخة غسيل الزجاج الأمامي",
+                  "en": "Windscreen Washer Pump Test",
+                  "he": "בדיקת משאבת שטיפת שמשות"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/98e61f5539a545cfede9847ac8f79d3a_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure peak performance of your BMW 1 Series F21's windscreen washer system with our comprehensive Windscreen Washer Pump Test. This diagnostic check verifies the pump's functionality, guaranteeing clear visibility in all driving conditions and preventing unexpected interruptions to your journey.  Maintain the ultimate driving experience with this essential maintenance procedure.",
+                  "ar": "ضمن الأداء الأمثل لنظام غسيل الزجاج الأمامي لسيارتك BMW الفئة 1 F21 مع اختبار مضخة غسيل الزجاج الأمامي الشامل لدينا.  تتحقق هذه الفحص التشخيصي من وظيفة المضخة، مما يضمن رؤية واضحة في جميع ظروف القيادة ويمنع الانقطاعات غير المتوقعة لرحلتك. حافظ على تجربة القيادة المثالية مع إجراء الصيانة هذا الأساسي.",
+                  "he": "הבטיחו ביצועים מיטביים של מערכת שטיפת השמשה הקדמית של ה-BMW סדרה 1 F21 שלכם עם בדיקת משאבת שטיפת השמשה הקדמית המקיפה שלנו. בדיקה דיאגנוסטית זו מאמתת את תפקוד המשאבה, ומבטיחה ראות ברורה בכל תנאי נהיגה ומניעת הפרעות בלתי צפויות לנסיעתכם. שמרו על חוויית נהיגה אולטימטיבית עם הליך תחזוקה חיוני זה."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1275,
+                "title": {
+                  "ar": "اختبار فتح وإغلاق ستارة المبرد",
+                  "en": "Radiator Blind Opening and Closing",
+                  "he": "בדיקת פתיחה וסגירה של תריס הרדיאטור"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/191ec48271def6879338a979daa8a382_oca_picture.jpg",
+                "description": {
+                  "en": "Intelligently manage your engine's thermal efficiency with the 1 Series F21's Radiator Blind. This innovative system automatically opens and closes the radiator shutters, optimizing cooling and maximizing fuel efficiency in various driving conditions.  Experience enhanced performance and improved fuel economy, seamlessly integrated for a superior driving experience.",
+                  "ar": "ادِرْ كفاءة المحرّك الحراريّة بذكاء مع مصراع المبرد الخاص بسلسلة F21 من الفئة 1.  يفتح هذا النظام المبتكر ويُغلق مصاريع المبرد تلقائيًا، مما يُحسّن التبريد ويُعظم كفاءة استهلاك الوقود في ظروف القيادة المختلفة.  استمتع بأداء مُحسّن واقتصاد أفضل في استهلاك الوقود، مُدمج بسلاسة لتجربة قيادة مُمتازة.",
+                  "he": "השתלטו בצורה חכמה על יעילות תרמית של המנוע שלכם עם תריס הרדיאטור של סדרת 1 F21. מערכת חדשנית זו פותחת וסוגרת אוטומטית את תריסי הרדיאטור, ומאפשרת אופטימיזציה של הקירור ומקסום יעילות הדלק במצבי נהיגה שונים. חוו את הביצועים המשופרים וחסכון בדלק משופר, משולבים בצורה חלקה לחוויית נהיגה מעולה."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1276,
+                "title": {
+                  "ar": "اختبار اهتزاز عجلة القيادة",
+                  "en": "Steering Wheel Vibration Test",
+                  "he": "בדיקת רטט הגה"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/05671bc403200ee80861cd573d2f049b_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 1 Series F21's rigorous steering wheel vibration test ensures optimal feedback and precision, guaranteeing a connected and exhilarating driving experience.  This meticulous process identifies and rectifies even the slightest imbalances, resulting in superior handling and driver confidence.",
+                  "ar": "يضمن اختبار اهتزاز عجلة القيادة الصارم في سيارة BMW الفئة 1 F21 ردود فعل مثالية ودقة، مما يضمن تجربة قيادة متصلة ومثيرة. هذه العملية الدقيقة تحدد وتصحح حتى أقل اختلالات التوازن، مما يؤدي إلى تحكم متفوق وثقة السائق.",
+                  "he": "מבחן רטט הגה קפדני של ה-BMW סדרה 1 F21 מבטיח משוב אופטימלי ודיוק, ומבטיח חווית נהיגה מחוברת ומלהיבה. תהליך זה המבוצע בקפידה מזהה ומסיר אפילו את חוסר האיזונים הקטנים ביותר, וכתוצאה מכך מתקבלת שליטה מעולה וביטחון נהג."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1277,
+                "title": {
+                  "ar": "اختبار مروحة المحرك",
+                  "en": "Engine Fan Test",
+                  "he": "בדיקת מאוורר מנוע"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/695fd1be4b24dfd3b5222090d16f520a_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure peak performance and longevity of your BMW 1 Series F21's engine with the Engine Fan Test. This diagnostic tool allows for thorough testing of the cooling system's functionality, proactively identifying potential issues before they impact performance or reliability.  Maintain optimal engine temperature and prevent costly repairs with this essential maintenance check.",
+                  "ar": "ضمن أداءً ذروة وعمرًا افتراضيًا طويلًا لمحرك سيارتك BMW الفئة 1 F21 مع اختبار مروحة المحرك. تسمح هذه الأداة التشخيصية بإجراء اختبار شامل لوظائف نظام التبريد، وتحديد المشكلات المحتملة بشكل استباقي قبل أن تؤثر على الأداء أو الموثوقية. حافظ على درجة حرارة محرك مثالية وتجنب الإصلاحات المكلفة مع فحص الصيانة الأساسي هذا.",
+                  "he": "הבטיחו ביצועים שיא ואריכות ימים למנוע ה-BMW סדרה 1 F21 שלכם באמצעות בדיקת מאוורר המנוע. כלי אבחון זה מאפשר בדיקה יסודית של תפקוד מערכת הקירור, ומזהה באופן יזום בעיות פוטנציאליות לפני שהן משפיעות על הביצועים או האמינות. שמרו על טמפרטורת מנוע אופטימלית ומנעו תיקונים יקרים באמצעות בדיקת תחזוקה חיונית זו."
+                },
+                "category": {
+                  "en": "Performance"
+                }
+              },
+              {
+                "id": 1278,
+                "title": {
+                  "ar": "اختبار البوق",
+                  "en": "Horn Test",
+                  "he": "بديقت البوق"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/25004774a9c5fa633d3660c65c76ece0_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure your 1 Series F21's horn is functioning perfectly with this simple self-test.  A quick and easy check provides peace of mind, confirming audible warnings are ready when needed for enhanced safety on the road.  This built-in diagnostic tool allows for immediate verification without the need for external equipment.",
+                  "ar": "تأكد من أن بوق سيارتك من الفئة 1، F21، يعمل بشكل مثالي باستخدام اختبار التشخيص الذاتي البسيط هذا.  فحص سريع وسهل يمنحك راحة البال، ويؤكد أن الإنذارات الصوتية جاهزة عند الحاجة لتعزيز السلامة على الطريق.  تتيح لك أداة التشخيص المدمجة هذه التحقق الفوري دون الحاجة إلى معدات خارجية.",
+                  "he": "וודא שהקרן של סדרת 1 שלך, F21, פועלת בצורה מושלמת באמצעות בדיקה עצמית פשוטה זו. בדיקה מהירה וקלה מספקת שקט נפשי, ומאשרת שהאזהרות השמעיות מוכנות כאשר נדרשות לשיפור הבטיחות בכביש. כלי אבחון מובנה זה מאפשר אימות מיידי ללא צורך בציוד חיצוני."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1279,
+                "title": {
+                  "ar": "اختبار أضواء الضباب الخلفية",
+                  "en": "Rear Fog Lights Test",
+                  "he": "بديقت فوانيس الضباب الخلفية"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/91efcacfe9b197171c786f359ca28c20_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal rear visibility in challenging weather conditions with the 1 Series F21's integrated rear fog light system.  Rigorously tested to meet BMW's exacting standards, these lights provide crucial safety enhancements, particularly in low visibility situations, bolstering your confidence on the road.  Experience the peace of mind that comes with superior illumination.",
+                  "ar": "ضمن الرؤية الخلفية المثالية في ظروف الطقس الصعبة مع نظام إضاءة الضباب الخلفي المتكامل في سيارة الفئة الأولى F21. تم اختبار هذه الأضواء بدقة لتلبية معايير BMW الصارمة، وهي توفر تحسينات أمنية حاسمة، خاصة في حالات ضعف الرؤية، مما يعزز ثقتك على الطريق. جرب راحة البال التي تأتي مع الإضاءة الفائقة.",
+                  "he": "הבטיחו ראות אחורית מיטבית בתנאי מזג אוויר מאתגרים עם מערכת אורות ערפל אחוריים משולבים של סדרה 1 F21. נבדקו בקפידה כדי לעמוד בסטנדרטים המחמירים של BMW, אורות אלה מספקים שיפורים משמעותיים בבטיחות, במיוחד במצבי ראות לקויה, ומחזקים את ביטחונכם בדרך. חוו את שקט הנפש שמגיע עם תאורה מעולה."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1280,
+                "title": {
+                  "ar": "فحص المصابيح الأمامية",
+                  "en": "Headlights Check",
+                  "he": "فحص المصابيح الأمامية"
+                },
+                "price": "50",
+                "image_url": "https://eurobahndynamics.com/cdn/shop/files/58155A3F-47F6-45B2-AE21-E0E2BC60962A.jpg?v=1734729562&width=2048",
+                "description": {
+                  "en": "Before you embark on your journey, ensure optimal visibility and safety with the 1 Series F21's Headlights Check.  This intelligent system automatically verifies the functionality of your headlights, alerting you to any potential issues – burnt-out bulbs or misalignment –  so you can address them promptly and maintain peak driving performance.",
+                  "ar": "قبل أن تبدأ رحلتك، تأكد من الرؤية والسلامة الأمثل باستخدام فحص المصابيح الأمامية لسلسلة 1 F21.  تتحقق هذه النظام الذكي تلقائيًا من وظائف مصابيحك الأمامية، محذّرةً إياك من أي مشاكل محتملة - مصابيح محترقة أو عدم محاذاة - حتى تتمكن من معالجتها على الفور والحفاظ على أعلى مستوى من أداء القيادة.",
+                  "he": "לפני שתצא לדרך, ודא ראות ובטיחות מיטביות באמצעות בדיקת הפנסים של סדרה 1 F21. מערכת חכמה זו מאמתת באופן אוטומטי את תפקוד הפנסים שלך, ומזהירה אותך מפני בעיות פוטנציאליות – נורות שרופות או אי-יישור – כך שתוכל לטפל בהן במהירות ולשמור על ביצועי נהיגה מיטביים."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1281,
+                "title": {
+                  "ar": "اختبار أضواء لوحة العدادات",
+                  "en": "Instrument Cluster Lights Test",
+                  "he": "بديقت أضواء لوحة العدادات"
+                },
+                "price": "50",
+                "image_url": "https://storage.obdeleven.com/parse/06b677511a8683a43e283a03c7bb6f50_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal functionality of your BMW 1 Series F21's instrument cluster lighting with this comprehensive test.  This diagnostic check verifies the integrity of all warning lights and illumination, guaranteeing clear and unambiguous information at a glance for enhanced safety and driver awareness.",
+                  "ar": "يضمن هذا الاختبار الشامل الوظيفة المثلى لإضاءة لوحة العدادات في سيارتك BMW الفئة 1 F21.  يتحقق هذا الفحص التشخيصي من سلامة جميع أضواء التحذير والإضاءة، مما يضمن معلومات واضحة لا لبس فيها بنظرة واحدة لتعزيز السلامة ووعي السائق.",
+                  "he": "בדיקה מקיפה זו מבטיחה תפקוד אופטימלי של תאורת לוח המחוונים ב-BMW סדרה 1 F21 שלך. בדיקה דיאגנוסטית זו מאמתת את שלמות כל נורות האזהרה והתאורה, ומבטיחה מידע ברור וחד משמעי במבט אחד לשיפור הבטיחות והמודעות של הנהג."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1282,
+                "title": {
+                  "ar": "فحص نظام الاتصال الطارئ SOS",
+                  "en": "SOS Emergency Call System Check",
+                  "he": "فحص نظام الاتصال الطارئ SOS"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/63c12ebda4e28525f79ced7e43280430_oca_picture.jpg",
+                "description": {
+                  "en": "The BMW 1 Series F21's SOS Emergency Call system is your silent guardian, automatically contacting emergency services in the event of a collision.  This vital feature provides peace of mind, ensuring swift response in critical situations and prioritizing your safety.  Regularly checking the system ensures its optimal functionality and readiness to provide vital assistance when you need it most.",
+                  "ar": "نظام مكالمات الطوارئ SOS في سيارة BMW الفئة الأولى F21 هو حارسك الصامت، حيث يتصل تلقائيًا بخدمات الطوارئ في حالة وقوع حادث. توفر هذه الميزة الحيوية راحة البال، مما يضمن سرعة الاستجابة في المواقف الحرجة وإعطاء الأولوية لسلامتك. إن الفحص المنتظم للنظام يضمن وظائفه المثلى واستعداده لتقديم المساعدة الحيوية عندما تحتاج إليها أكثر من أي وقت مضى.",
+                  "he": "מערכת הקריאה לחירום SOS של ה-BMW סדרה 1 F21 היא השומר השקט שלך, ותיצור קשר אוטומטי עם שירותי חירום במקרה של תאונה.  תכונה חיונית זו מספקת שקט נפשי, ומבטיחה תגובה מהירה במצבים קריטיים ומעניקה עדיפות לבטיחותך. בדיקה סדירה של המערכת מבטיחה את תפקודה האופטימלי והיכולת שלה לספק סיוע חיוני כשאתה זקוק לו ביותר."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1283,
+                "title": {
+                  "ar": "إعادة ضبط سائل الفرامل",
+                  "en": "Brake Fluid Reset",
+                  "he": "إعادة ضبط سائل الفرامل"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak braking performance in your BMW 1 Series F21 with our precise Brake Fluid Reset procedure.  This crucial service ensures optimal responsiveness and safety by accurately resetting the brake system's electronic monitoring after fluid changes, guaranteeing a consistently reliable braking experience.",
+                  "ar": "حافظ على أداء فرامل ذروة في سيارتك BMW الفئة 1 F21 مع إجراء إعادة ضبط سائل الفرامل الدقيق لدينا. تضمن هذه الخدمة البالغة الأهمية استجابة مثالية وسلامة من خلال إعادة ضبط دقيقة للمراقبة الإلكترونية لنظام الفرامل بعد تغيير السوائل، مما يضمن تجربة فرامل موثوقة باستمرار.",
+                  "he": "שמרו על ביצועי בלימה שיאים ב-BMW סדרה 1 F21 שלכם עם הליך איפוס נוזל בלמים מדויק שלנו. שירות חיוני זה מבטיח תגובה אופטימלית ובטיחות על ידי איפוס מדויק של הניטור האלקטרוני של מערכת הבלימה לאחר החלפת נוזלים, ומבטיח חוויית בלימה אמינה באופן עקבי."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1284,
+                "title": {
+                  "ar": "إعادة ضبط زيت المحرك",
+                  "en": "Engine Oil Reset",
+                  "he": "إعادة ضبط زيت المحرك"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak engine performance with the 1 Series F21's Engine Oil Reset function.  This simple procedure, accessible through the iDrive system, accurately resets the oil service indicator after an oil change, ensuring your engine continues to operate at its optimal efficiency and extending its lifespan.  No more guessing – precise maintenance is at your fingertips.",
+                  "ar": "حافظ على أداء محركك الأمثل مع وظيفة إعادة تعيين زيت المحرك في الفئة 1 F21. هذا الإجراء البسيط، والذي يمكن الوصول إليه من خلال نظام iDrive، يعيد تعيين مؤشر خدمة الزيت بدقة بعد تغيير الزيت، مما يضمن استمرار تشغيل محركك بكفاءة مثالية وإطالة عمره الافتراضي. لا مزيد من التخمين - الصيانة الدقيقة في متناول يديك.",
+                  "he": "שמרו על ביצועי שיא של המנוע עם פונקציית איפוס שמן המנוע של סדרה 1 F21. הליך פשוט זה, הנגיש דרך מערכת ה-iDrive, מאפס במדויק את אינדיקטור טיפול השמן לאחר החלפת שמן, ומבטיח שהמנוע שלכם ימשיך לפעול ביעילות אופטימלית ויאריך את חייו. אין עוד ניחושים – תחזוקה מדויקת נמצאת בהישג ידכם."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1285,
+                "title": {
+                  "ar": "إعادة ضبط تيل الفرامل الأمامية",
+                  "en": "Front Brake Pads Reset",
+                  "he": "إعادة ضبط تيل الفرامل الأمامية"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal braking performance and responsiveness in your BMW 1 Series F21.  This procedure electronically resets the brake pad wear sensors, providing accurate readings on your instrument cluster and preventing premature brake warning light illumination.  Maintaining peak braking efficiency is paramount for your safety and driving experience.",
+                  "ar": "ضمان أداء فرامل مثالي واستجابة سريعة في سيارتك BMW الفئة الأولى F21. هذه الإجراءات تعيد ضبط حساسات تآكل فرامل السيارة إلكترونياً، مما يوفر قراءات دقيقة على لوحة العدادات الخاصة بك ويمنع إضاءة إنذار الفرامل قبل الأوان. إن الحفاظ على كفاءة الفرامل القصوى هو أمر بالغ الأهمية لسلامتك ولتجربة القيادة الخاصة بك.",
+                  "he": "הבטיחו ביצועי בלימה מיטביים ותגובה מהירה ב-BMW סדרה 1 F21 שלכם. הליך זה מאפס אלקטרונית את חיישני שחיקת רפידות הבלימה, ומספק קריאות מדויקות בצג המכשירים שלכם ומונע הדלקה מוקדמת של נורת אזהרת בלימה. שמירה על יעילות בלימה שיא היא בעלת חשיבות עליונה לבטיחותכם ולחוויית הנהיגה שלכם."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1286,
+                "title": {
+                  "ar": "إعادة ضبط تيل الفرامل الخلفية",
+                  "en": "Rear Brake Pads Reset",
+                  "he": "إعادة ضبط تيل الفرامل الخلفية"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/daa9554fbda4dbb659e12c6dcd6a5e86_oca_picture.jpg",
+                "description": {
+                  "en": "Ensure optimal braking performance and longevity for your BMW 1 Series F21.  This procedure electronically resets the rear brake pad wear sensors, providing accurate and reliable brake system monitoring.  Maintain peak braking efficiency and avoid unnecessary warning lights with this essential service.",
+                  "ar": "ضمان أداء فرامل مثالي وعمر افتراضي طويل لسيارتك BMW الفئة الأولى F21. هذه الإجراءات تعيد ضبط حساسات تآكل فرامل العجلات الخلفية إلكترونيًا، مما يوفر مراقبة دقيقة وموثوقة لنظام الفرامل. حافظ على كفاءة الفرامل القصوى وتجنب أضواء التحذير غير الضرورية مع هذه الخدمة الأساسية.",
+                  "he": "הבטיחו ביצועי בלימה מיטביים ואריכות ימים ל-BMW סדרה 1 F21 שלכם. הליך זה מאפס אלקטרונית את חיישני שחיקת רפידות הבלם האחוריות, ומספק ניטור מדויק ואמין של מערכת הבלמים. שמרו על יעילות בלימה שיא והימנעו מאורות אזהרה מיותרים עם שירות חיוני זה."
+                },
+                "category": {
+                  "en": "Safety"
+                }
+              },
+              {
+                "id": 1287,
+                "title": {
+                  "ar": "إعادة ضبط فحص السيارة",
+                  "en": "Vehicle Check Reset",
+                  "he": "إعادة ضبط فحص السيارة"
+                },
+                "price": "70",
+                "image_url": "https://storage.obdeleven.com/parse/b7ce4b499333c3aeb4fcaa413683e3c0_oca_picture.jpg",
+                "description": {
+                  "en": "Maintain peak performance and ensure your BMW 1 Series F21 operates flawlessly.  The Vehicle Check Reset function conveniently clears any stored diagnostic trouble codes (DTCs) after servicing or repairs, allowing you to promptly address any issues and keep your driving experience optimal.  This simple yet crucial feature ensures a smooth, worry-free journey.",
+                  "ar": "حافظ على الأداء الأمثل وتأكد من أن سيارتك BMW الفئة 1 F21 تعمل بشكلٍ مثالي. تعمل وظيفة إعادة تعيين فحص السيارة على مسح أي رموز مشاكل تشخيصية (DTCs) مخزنة بسهولة بعد الصيانة أو الإصلاحات، مما يسمح لك بمعالجة أي مشاكل على الفور والحفاظ على تجربة قيادة مثالية. تضمن هذه الميزة البسيطة ولكنها الحاسمة رحلة سلسة وخالية من المتاعب.",
+                  "he": "שמרו על ביצועים שיאי והבטיחו שה-BMW סדרה 1 F21 שלכם פועלת ללא רבב.  פונקציית איפוס בדיקת הרכב מאפשרת באופן נוח למחוק כל קודי תקלות אבחון (DTCs) המאוחסנים לאחר טיפול או תיקונים, ומאפשרת לכם לטפל במהירות בכל בעיה ולשמור על חוויית נהיגה מיטבית.  תכונה פשוטה אך חיונית זו מבטיחה נסיעה חלקה ושקטה ללא דאגות."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1288,
+                "title": {
+                  "ar": "شاشات العرض الرياضية",
+                  "en": "Sport Displays",
+                  "he": "شاشات العرض الرياضية"
+                },
+                "price": "110",
+                "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg",
+                "description": {
+                  "en": "Immerse yourself in the thrill of the drive with the 1 Series F21's Sport Displays.  Experience dynamic, driver-focused instrumentation that provides crisp, real-time information, enhancing your connection to the road and maximizing performance awareness.  Instantly access vital driving data, precisely tailored for an exhilarating and controlled ride.",
+                  "ar": "اغمر نفسك في متعة القيادة مع شاشات رياضية لسلسلة 1 F21. جرب أدوات قياس ديناميكية ومركزة على السائق توفر معلومات واضحة في الوقت الفعلي، مما يعزز ارتباطك بالطريق ويُعظم وعي الأداء.  احصل على وصول فوري إلى بيانات القيادة الحيوية، المصممة خصيصًا لقيادة مثيرة ومُسيطرة.",
+                  "he": "טבלו את עצמכם בריגוש הנהיגה עם תצוגות הספורט של סדרה 1 F21. חוו מדידה דינמית, ממוקדת נהג, המספקת מידע חד וברור בזמן אמת, משפרת את הקשר שלכם לכביש וממקסמת את המודעות לביצועים. גישה מיידית לנתוני נהיגה חיוניים, מותאמים בדיוק לנסיעה מרגשת ושולטת."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1289,
+                "title": {
+                  "ar": "فيديو أثناء القيادة",
+                  "en": "Video in Motion",
+                  "he": "فيديو أثناء القيادة"
+                },
+                "price": "180",
+                "image_url": "https://storage.obdeleven.com/parse/edf807d20d731007d9bf380b7c28e886_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the ultimate in effortless entertainment with Video in Motion.  Enjoy your favorite movies or TV shows on your 1 Series F21's iDrive screen while the vehicle is in motion (where legally permitted).  This feature transforms your commute into a cinematic experience, seamlessly blending driving pleasure with in-car entertainment.",
+                  "ar": "استمتع بأفضل تجربة ترفيهية بلا مجهود مع تقنية Video in Motion. شاهد أفلامك أو مسلسلاتك التلفزيونية المفضلة على شاشة iDrive في سيارتك من الفئة 1 F21 أثناء القيادة (حيثما يسمح القانون). تُحوّل هذه الميزة رحلتك إلى تجربة سينمائية، حيث تجمع بسلاسة بين متعة القيادة والترفيه داخل السيارة.",
+                  "he": "חוו את שיאו של הבידור ללא מאמץ עם Video in Motion.  הנאה מסרטים או סדרות הטלוויזיה האהובות עליכם על מסך ה-iDrive של סדרת 1 F21 שלכם בזמן שהרכב בתנועה (במקומות בהם הדבר מותר על פי החוק).  תכונה זו הופכת את הנסיעה שלכם לחוויה קולנועית, משלבת בצורה חלקה הנאה מנהיגה עם בידור ברכב."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1290,
+                "title": {
+                  "ar": "عرض وصلة الجر",
+                  "en": "Tow Hitch Display",
+                  "he": "عرض وصلة الجر"
+                },
+                "price": "90",
+                "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg",
+                "description": {
+                  "en": "Seamlessly integrate your towing needs with the 1 Series F21's Tow Hitch Display.  This intelligent system provides clear visual confirmation of hitch engagement, ensuring secure attachment and preventing accidental disconnections.  Drive with confidence, knowing your load is safely secured.",
+                  "ar": "دمج احتياجاتك في سحب المركبات بسلاسة مع شاشة وصلة السحب الخاصة بسيارة الفئة الأولى F21. يوفر هذا النظام الذكي تأكيدًا مرئيًا واضحًا لاشتباك وصلة السحب، مما يضمن ربطًا آمنًا ويمنع الانفصال العرضي.  سافر بثقة، مع العلم بأن حمولتك آمنة ومؤمنة.",
+                  "he": "שלב בצורה חלקה את צרכי הגרירה שלך עם תצוגת וו הגרירה של סדרה 1 F21. מערכת חכמה זו מספקת אישור חזותי ברור לחיבור וו הגרירה, ומבטיחה חיבור מאובטח ומנעה ניתוקים מקריים. נהג בביטחון, בידיעה שהמטען שלך מאובטח בבטחה."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1291,
+                "title": {
+                  "ar": "وظائف الراحة عبر Comfort Access",
+                  "en": "Comfort Operation via CA",
+                  "he": "وظائف الراحة عبر Comfort Access"
+                },
+                "price": "120",
+                "image_url": "https://storage.obdeleven.com/parse/16ac1f179b8edc90c11b1fefbb611c33_oca_picture.jpg",
+                "description": {
+                  "en": "Effortlessly control your 1 Series F21's climate, seats, and more, directly from your smartphone via the BMW Connected App (CA).  Enjoy personalized comfort settings pre-set to your preferences, ensuring a perfectly customized driving experience before you even step inside.",
+                  "ar": "تحكم بسهولة في مناخ و مقاعد سيارتك 1 Series F21، وأكثر من ذلك، مباشرة من هاتفك الذكي عبر تطبيق BMW Connected (CA). استمتع بإعدادات الراحة الشخصية المُعدّة مسبقًا وفقًا لتفضيلاتك، مما يضمن تجربة قيادة مُخصصة تمامًا قبل أن تدخل حتى السيارة.",
+                  "he": "שלטו בקלות ובנוחות על בקרת האקלים, המושבים ועוד ברכב 1 סדרה F21 שלכם, ישירות מסמארטפון שלכם באמצעות אפליקציית BMW Connected (CA).  הנאה מהגדרות נוחות אישיות מוגדרות מראש בהתאם להעדפותיכם, ומבטיחות חוויית נהיגה מותאמת אישית בצורה מושלמת עוד לפני שתכנסו לרכב."
+                },
+                "category": {
+                  "en": "Convenience"
+                }
+              },
+              {
+                "id": 1292,
+                "title": {
+                  "ar": "لون شاشات العرض الرياضية",
+                  "en": "Sport Displays Color",
+                  "he": "لون شاشات العرض الرياضية"
+                },
+                "price": "80",
+                "image_url": "https://storage.obdeleven.com/parse/45f535c8fd75cdbea9656621b9a3a7c9_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the thrill of driving with the 1 Series F21's Sport Displays Color.  This vibrant, customizable instrument cluster delivers critical driving information with dynamic graphics and a range of selectable color schemes, enhancing both the visual appeal and your focus on the road ahead.  Tailor your driving experience to perfectly match your style.",
+                  "ar": "استمتع بإثارة القيادة مع شاشة العرض الرياضية الملونة لسلسلة 1 F21. توفر لوحة العدادات النابضة بالحياة والتي يمكن تخصيصها معلومات قيادة أساسية مع رسومات ديناميكية ومجموعة من مخططات الألوان القابلة للاختيار، مما يعزز كل من الجاذبية البصرية وتركيزك على الطريق أمامك.  خصّص تجربة القيادة الخاصة بك لتتناسب تمامًا مع أسلوبك.",
+                  "he": "חוו את הריגוש של הנהיגה עם צג הספורט הצבעוני של סדרה 1 F21.  לוח השעונים הוויברי, הניתן להתאמה אישית, מספק מידע נהיגה קריטי עם גרפיקה דינמית ומגוון של ערכות צבעים לבחירה, משפר הן את המראה החזותי והן את הריכוז שלך בדרך. התאם את חווית הנהיגה שלך כך שתתאים באופן מושלם לסגנון שלך."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1293,
+                "title": {
+                  "ar": "الصوت الأقصى",
+                  "en": "Maximum Volume",
+                  "he": "الصوت الأقصى"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/d4a8c7d87179af7df7f76789b3d6ae91_oca_picture.jpg",
+                "description": {
+                  "en": "Command the road with the 1 Series F21's exhilarating Maximum Volume sound system.  Experience rich, powerful audio that fills the cabin, transforming every drive into a concert.  Immerse yourself in the precise acoustics, engineered for unparalleled listening pleasure.",
+                  "ar": "سيطر على الطريق مع نظام صوت مثير للإعجاب بقدرة صوتية قصوى من الفئة 1 F21. استمتع بصوت غني وقوي يملأ المقصورة، محولاً كل رحلة إلى حفلة موسيقية. انغمس في الصوتيات الدقيقة، المصممة من أجل متعة استماع لا تضاهى.",
+                  "he": "שלט בכביש עם מערכת שמע מדהימה בעלת עוצמה מקסימלית של סדרה 1 F21. חוו סאונד עשיר ועוצמתי שממלא את תא הנוסעים, הופך כל נסיעה לקונצרט. שקעו באקוסטיקה מדויקת, שתואמה לתענוג האזנה חסר תקדים."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              },
+              {
+                "id": 1294,
+                "title": {
+                  "ar": "نمط قائمة NBT EVO",
+                  "en": "NBT EVO Menu Style",
+                  "he": "نمط قائمة NBT EVO"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/265862d2f2fdcd1ae6689152080e9f8d_oca_picture.jpg",
+                "description": {
+                  "en": "Experience the intuitive elegance of the NBT EVO menu style, exclusively designed for your BMW 1 Series F21.  Its refined interface delivers a seamless and engaging driving experience, enhancing your connection with your vehicle's technology. Enjoy effortlessly navigating your media, navigation, and vehicle settings with this sophisticated upgrade.",
+                  "ar": "استمتع بأناقة واجهة استخدام NBT EVO البديهية، المصممة حصريًا لسيارتك BMW الفئة الأولى F21. توفر واجهتها المُحسّنة تجربة قيادة سلسة وجذابة، مما يعزز ارتباطك بتقنيات سيارتك. استمتع بسهولة التنقل بين وسائطك، ونظام الملاحة، وإعدادات سيارتك مع هذا الترقية المتطورة.",
+                  "he": "חוו את האלגנטיות האינטואיטיבית של סגנון התפריט NBT EVO, שתוכנן באופן בלעדי עבור ה-BMW סדרה 1 F21 שלך. הממשק המעודן שלו מספק חוויית נהיגה חלקה ומעוררת, ומשפר את הקשר שלך עם הטכנולוגיה של הרכב שלך.  הנאה מניווט קל של המדיה, הניווט והגדרות הרכב שלך עם שדרוג משוכלל זה."
+                },
+                "category": {
+                  "en": "Infotainment"
+                }
+              }
+            ]
           }
         ]
       }
